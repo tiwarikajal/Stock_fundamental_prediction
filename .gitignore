@@ -1,0 +1,4 @@
+sec_edgar_filings/
+.DS_Store
+writeData.csv
+cs696_scraping/.DS_Store
