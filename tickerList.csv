@@ -3,7 +3,7 @@ AAPL,Apple Inc.,Technology Hardware Storage & Peripherals,1
 MSFT,Microsoft Corporation,Software,1
 AMZN,"Amazon.com, Inc.",Internet & Direct Marketing Retail,1
 FB,"Facebook, Inc. Class A",Interactive Media & Services,1
-BRK.B,Berkshire Hathaway Inc. Class B,Diversified Financial Services,1
+BRKB,Berkshire Hathaway Inc. Class B,Diversified Financial Services,1
 GOOGL,Alphabet Inc. Class A,Interactive Media & Services,1
 JPM,JPMorgan Chase & Co.,Banks,1
 JNJ,Johnson & Johnson,Pharmaceuticals,1
@@ -317,7 +317,7 @@ LH,Laboratory Corporation of America Holdings,Health Care Providers & Services,0
 TFX,Teleflex Incorporated,Health Care Equipment & Supplies,0
 TRU,TransUnion,Professional Services,0
 IAC,IAC/InterActiveCorp.,Interactive Media & Services,0
-CCL.U,Carnival Corporation,Hotels Restaurants & Leisure,0
+CCL,Carnival Corporation,Hotels Restaurants & Leisure,0
 ACGL,Arch Capital Group Ltd.,Insurance,0
 MXIM,"Maxim Integrated Products, Inc.",Semiconductors & Semiconductor Equipment,0
 SPOT,Spotify Technology SA,Entertainment,0
@@ -911,7 +911,7 @@ COMM,"CommScope Holding Co., Inc.",Communications Equipment,0
 CLR,"Continental Resources, Inc.",Oil Gas & Consumable Fuels,0
 TREE,"LendingTree, Inc.",Consumer Finance,0
 AN,"AutoNation, Inc.",Specialty Retail,0
-STAY.U,"Extended Stay America, Inc.",Hotels Restaurants & Leisure,0
+STAY,"Extended Stay America, Inc.",Hotels Restaurants & Leisure,0
 TDS,"Telephone and Data Systems, Inc.",Wireless Telecommunication Services,0
 CMD,Cantel Medical Corp.,Health Care Equipment & Supplies,0
 CLNY,"Colony Capital, Inc. Class A",Equity Real Estate Investment Trusts (REITs),0
@@ -932,7 +932,7 @@ KOS,Kosmos Energy Ltd.,Oil Gas & Consumable Fuels,0
 NUS,"Nu Skin Enterprises, Inc. Class A",Personal Products,0
 TCO,"Taubman Centers, Inc.",Equity Real Estate Investment Trusts (REITs),0
 SATS,EchoStar Corporation Class A,Communications Equipment,0
-JW.A,"John Wiley & Sons, Inc. Class A",Media,0
+JWA,"John Wiley & Sons, Inc. Class A",Media,0
 PINC,Premier Inc. Class A,Health Care Providers & Services,0
 SITC,SITE Centers Corp.,Equity Real Estate Investment Trusts (REITs),0
 SBGI,"Sinclair Broadcast Group, Inc. Class A",Media,0
@@ -976,6 +976,6 @@ GTES,Gates Industrial Corporation plc,Machinery,0
 USM,United States Cellular Corp,Wireless Telecommunication Services,0
 ADPT,Adaptive Biotechnologies Corp.,Life Sciences Tools & Services,0
 AR,Antero Resources Corporation,Oil Gas & Consumable Fuels,0
-LGF.A,Lions Gate Entertainment Corp Class A,Entertainment,0
+LGF,Lions Gate Entertainment Corp Class A,Entertainment,0
 MDLA,"Medallia, Inc.",Software,0
 ARD,Ardagh Group S.A. Class A,Containers & Packaging,0
