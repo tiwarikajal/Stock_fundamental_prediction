@@ -101,11 +101,11 @@ return: list of tuples, where first element of each tuple is the csv dict writer
 def createCSVWriters(path, fieldnames,num=10):
     writers = []
     for i in range(num):
-        f = open(os.path.join(path,"yoy" + str(i+1) + ".csv", mode='w+', encoding="utf-8", newline='')
+        f = open(os.path.join(path,"yoy" + str(i+1) + ".csv"), mode='w+', encoding="utf-8", newline='')
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writers.append([writer,f])
-   return writers
+    return writers
 """
 Function to close all the csv files
 param: writer: list of tuples
@@ -113,7 +113,7 @@ return: None
 """
 def closeWriters(writers):
     for i in range(len(writers)):
-        writers[1].close()
+        writers[i][1].close()
 
 def formLine(fieldnames):
     line = {}
