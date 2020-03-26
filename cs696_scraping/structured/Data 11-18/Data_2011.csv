@@ -1,0 +1,896 @@
+year,Company,CIK,Revenue,NetIncomeLoss,Payments to acquire property
+2011,AAPL,320193,108249.0,25922.0,-4260.0
+2011,MSFT,789019,Income statement not found,cash flow not found,cash flow not found
+2011,AMZN,1018724,Income statement not found,cash flow not found,cash flow not found
+2011,FB,1326801,Income statement not found,cash flow not found,cash flow not found
+2011,GOOGL,1652044,Income statement not found,cash flow not found,cash flow not found
+2011,JPM,19617,97234.0,18976.0,tag not found
+2011,JNJ,200406,Income statement not found,0,-2893.0
+2011,V,1403161,9188.0,0,-353.0
+2011,PG,80424,Income statement not found,11797.0,-3306.0
+2011,INTC,50863,53999.0,12942.0,-10764.0
+2011,MA,1141391,Income statement not found,cash flow not found,cash flow not found
+2011,BAC,70858,Income statement not found,cash flow not found,cash flow not found
+2011,UNH,731766,101862.0,5142.0,-1067.0
+2011,T,732717,126723.0,0,-20110.0
+2011,XOM,34088,Income statement not found,cash flow not found,cash flow not found
+2011,HD,354950,Income statement not found,3883.0,-1221.0
+2011,DIS,1001039,40893.0,0,-3559.0
+2011,VZ,732712,110875.0,0,-16244.0
+2011,KO,21344,0,0,-2920.0
+2011,MRK,310158,Income statement not found,cash flow not found,cash flow not found
+2011,PFE,78003,67425.0,0,-1660.0
+2011,CVX,93410,Income statement not found,cash flow not found,cash flow not found
+2011,CSCO,858877,43218.0,6490.0,-1174.0
+2011,PEP,77476,Income statement not found,cash flow not found,cash flow not found
+2011,CMCSA,1166691,Income statement not found,cash flow not found,cash flow not found
+2011,WFC,72971,Income statement not found,cash flow not found,cash flow not found
+2011,ADBE,796343,4216258.0,832847.0,-210294.0
+2011,BA,12927,68735.0,4018.0,-1713.0
+2011,C,831001,Income statement not found,cash flow not found,cash flow not found
+2011,WMT,104169,Income statement not found,cash flow not found,cash flow not found
+2011,MDT,1613103,Income statement not found,cash flow not found,cash flow not found
+2011,MCD,63908,Income statement not found,cash flow not found,cash flow not found
+2011,NFLX,1065280,3204577.0,226126.0,-49682.0
+2011,ABT,1800,38851259.0,cash flow not found,cash flow not found
+2011,CRM,1108524,2266539.0,0,-151645.0
+2011,BMY,14272,Income statement not found,0,-367.0
+2011,NVDA,1045810,3997930.0,581090.0,-138735.0
+2011,PYPL,1633917,3997930.0,581090.0,-138735.0
+2011,AMGN,318154,15582.0,3683.0,-567.0
+2011,IBM,51143,106916.0,cash flow not found,cash flow not found
+2011,COST,909832,106916.0,0,-1290.0
+2011,ACN,1467373,Income statement not found,cash flow not found,cash flow not found
+2011,TMO,97745,Income statement not found,cash flow not found,cash flow not found
+2011,PM,1413329,Income statement not found,0,-897.0
+2011,NEE,753308,0,1923.0,tag not found
+2011,UNP,100885,19557.0,3292.0,-3176.0
+2011,ABBV,1551152,19557.0,3292.0,-3176.0
+2011,HON,773840,Income statement not found,cash flow not found,cash flow not found
+2011,UTX,101829,Income statement not found,cash flow not found,cash flow not found
+2011,LLY,59478,24286.5,4347.7,tag not found
+2011,TXN,97476,13735.0,2236.0,-816.0
+2011,NKE,320187,13735.0,2236.0,-816.0
+2011,AVGO,1649338,13735.0,2236.0,-816.0
+2011,ORCL,1341439,13735.0,2236.0,-816.0
+2011,GE,40545,Income statement not found,cash flow not found,cash flow not found
+2011,LMT,936468,Income statement not found,2655.0,-814.0
+2011,TSLA,1318605,204242.0,-254411.0,-197896.0
+2011,QCOM,804328,14957.0,0,-593.0
+2011,AMT,1053507,2443532.0,0,-523015.0
+2011,SBUX,829224,Income statement not found,0,-531.9
+2011,DHR,313616,Income statement not found,2172264.0,-334471.0
+2011,LOW,60667,Income statement not found,2172264.0,-334471.0
+2011,CVS,64803,107100.0,0,-1872.0
+2011,MMM,66740,Income statement not found,cash flow not found,cash flow not found
+2011,AXP,4962,0,4935.0,-1189.0
+2011,FIS,1136893,Income statement not found,0,-123.9
+2011,MO,764180,Income statement not found,0,-105.0
+2011,GILD,882095,8385385.0,0,-131904.0
+2011,MDLZ,1103982,Income statement not found,0,-131904.0
+2011,CHTR,1091667,Income statement not found,0,-131904.0
+2011,USB,36104,Income statement not found,cash flow not found,cash flow not found
+2011,GS,886982,Income statement not found,4442.0,tag not found
+2011,ADP,8670,Income statement not found,cash flow not found,cash flow not found
+2011,BDX,10795,7828904.0,0,-515385.0
+2011,CI,701221,21998.0,0,-422.0
+2011,CME,1156375,3280.6,0,-172.2
+2011,TJX,109198,23191455.0,0,-803330.0
+2011,SYK,310764,Income statement not found,1345.0,-226.0
+2011,CB,896159,Income statement not found,1585.0,tag not found
+2011,UPS,1090727,Income statement not found,cash flow not found,cash flow not found
+2011,CAT,18230,Income statement not found,cash flow not found,cash flow not found
+2011,ANTM,1156039,60710.7,2646.7,-519.5
+2011,SPGI,64040,6246.0,0,-119.0
+2011,INTU,896878,3851.0,634.0,-114.0
+2011,SO,92122,17657000000.0,634.0,-114.0
+2011,DUK,1326160,14529.0,0,-4363.0
+2011,D,715957,14379.0,1408.0,-3652.0
+2011,FISV,798354,4337.0,472.0,-192.0
+2011,PLD,1045609,0,0,tag not found
+2011,PNC,713676,Income statement not found,cash flow not found,cash flow not found
+2011,ISRG,1035267,1757.3,495.1,-82.9
+2011,ZTS,1555280,1757.3,495.1,-82.9
+2011,COP,1163165,Income statement not found,cash flow not found,cash flow not found
+2011,BLK,1364742,0,0,-247.0
+2011,MS,895421,32403.0,0,tag not found
+2011,CL,21665,16734.0,0,-537.0
+2011,RTN,1047122,24857.0,0,-340.0
+2011,NOW,1373715,24857.0,0,-340.0
+2011,AGN,1578845,24857.0,0,-340.0
+2011,MU,723125,Income statement not found,cash flow not found,cash flow not found
+2011,CCI,1051470,Income statement not found,cash flow not found,cash flow not found
+2011,VRTX,875320,563340.0,0,-34595.0
+2011,BIIB,875045,5048634.0,0,-208020.0
+2011,GPN,1123360,5048634.0,0,-208020.0
+2011,ITW,49826,17786583.0,cash flow not found,cash flow not found
+2011,BSX,885725,7622.0,0,-304.0
+2011,MMC,62709,0,0,-280.0
+2011,AMAT,6951,10517.0,1926.0,-209.0
+2011,CSX,277948,Income statement not found,cash flow not found,cash flow not found
+2011,NOC,1133421,26412.0,0,-488.0
+2011,TGT,27419,26412.0,0,-4368.0
+2011,NSC,702165,11172.0,0,-2160.0
+2011,SCHW,316709,4691.0,864.0,-180.0
+2011,APD,2969,Income statement not found,1224.2,-1351.7
+2011,AON,315293,11287.0,0,-241.0
+2011,DE,315189,Income statement not found,cash flow not found,cash flow not found
+2011,WM,823768,13378.0,0,-1324.0
+2011,ECL,31462,Income statement not found,cash flow not found,cash flow not found
+2011,AMD,2488,0,0,-250.0
+2011,EQIX,1101239,1606842.0,0,-28066.0
+2011,ICE,1571949,1606842.0,0,-28066.0
+2011,AEP,4904,1606842.0,0,-28066.0
+2011,KMB,55785,Income statement not found,cash flow not found,cash flow not found
+2011,COF,927628,0,3147.0,-315.0
+2011,SLB,87347,Income statement not found,cash flow not found,cash flow not found
+2011,PGR,80661,Income statement not found,1015.5,-78.9
+2011,SHW,89800,Income statement not found,cash flow not found,cash flow not found
+2011,HUM,49071,Income statement not found,1419.0,-346.0
+2011,EW,1099800,1678.6,0,-82.9
+2011,LRCX,707549,3237693.0,723748.0,-127495.0
+2011,EXC,1109357,Income statement not found,cash flow not found,cash flow not found
+2011,GD,40533,32677.0,cash flow not found,cash flow not found
+2011,EMR,32604,Income statement not found,0,-647.0
+2011,AIG,5272,Income statement not found,cash flow not found,cash flow not found
+2011,SRE,1032208,Income statement not found,cash flow not found,cash flow not found
+2011,EOG,821189,Income statement not found,1091123.0,tag not found
+2011,ATVI,718877,4755.0,0,-72.0
+2011,ADSK,769397,2215.6,285.3,tag not found
+2011,BAX,10456,2215.6,285.3,tag not found
+2011,ILMN,1110803,1055535.0,86628.0,-77800.0
+2011,EL,1001250,Income statement not found,0,-351.0
+2011,GM,1467858,57474000000.0,0,-351.0
+2011,MCO,1059556,2280.7,0,-67.7
+2011,SPG,1063761,Income statement not found,0,tag not found
+2011,ADI,6281,2993320.0,867394.0,-122996.0
+2011,ETN,1551182,2993320.0,867394.0,-122996.0
+2011,ROST,745732,Income statement not found,657170.0,-416271.0
+2011,PSX,1534701,Income statement not found,657170.0,-416271.0
+2011,KMI,1506307,8264.9,0,-1200.1
+2011,DG,29534,0,0,-514861.0
+2011,HCA,860730,Income statement not found,0,-1679.0
+2011,MAR,1048286,12317.0,0,-183.0
+2011,ALL,899051,32654.0,788.0,-246.0
+2011,DD,30554,Income statement not found,0,-1843.0
+2011,MET,1099219,16746.0,0,tag not found
+2011,WBA,1618921,16746.0,0,tag not found
+2011,ROP,882835,Income statement not found,427247.0,40702.0
+2011,PRU,1137774,49045.0,0,tag not found
+2011,AFL,4977,Income statement not found,1964.0,tag not found
+2011,BK,1390777,Income statement not found,cash flow not found,cash flow not found
+2011,CNC,1071739,5340582.0,0,-68993.0
+2011,OXY,797468,23939.0,0,-7518.0
+2011,XEL,72903,10654770.0,841172.0,-2205567.0
+2011,NEM,1164727,Income statement not found,cash flow not found,cash flow not found
+2011,FDX,1048911,Income statement not found,cash flow not found,cash flow not found
+2011,SYY,96021,Income statement not found,cash flow not found,cash flow not found
+2011,CTSH,1058290,6121156.0,883618.0,-288221.0
+2011,MPC,1510295,0,2389.0,-1185.0
+2011,TRV,86312,Income statement not found,cash flow not found,cash flow not found
+2011,VLO,1035002,0,0,-2355.0
+2011,IR,1466258,14782.0,0,-242.9
+2011,DAL,27904,35115.0,cash flow not found,cash flow not found
+2011,PSA,1393311,Income statement not found,cash flow not found,cash flow not found
+2011,F,37996,Income statement not found,cash flow not found,cash flow not found
+2011,ZBH,1136869,Income statement not found,0,-113.8
+2011,YUM,1041061,12626.0,0,-940.0
+2011,HPQ,47217,Income statement not found,7074.0,-4539.0
+2011,INFO,1598014,Income statement not found,7074.0,-4539.0
+2011,WEC,783325,Income statement not found,526.2,-830.8
+2011,HLT,1585689,Income statement not found,526.2,-830.8
+2011,GIS,40704,Income statement not found,526.2,-830.8
+2011,TROW,1113169,0,773.2,-82.3
+2011,EA,712515,3589.0,-276.0,tag not found
+2011,OKE,1039684,14805794.0,0,-1336067.0
+2011,STZ,16918,14805794.0,0,-1336067.0
+2011,ORLY,898173,5788816.0,507673.0,-328319.0
+2011,ED,1047862,Income statement not found,cash flow not found,cash flow not found
+2011,JCI,833444,17355.0,1733.0,-788.0
+2011,TDG,1260221,342953.0,172134.0,-18026.0
+2011,WDAY,1327811,342953.0,172134.0,-18026.0
+2011,APH,820313,0,cash flow not found,cash flow not found
+2011,EQR,906107,1989463.0,0,tag not found
+2011,REGN,872589,Income statement not found,cash flow not found,cash flow not found
+2011,AVB,915912,Income statement not found,cash flow not found,cash flow not found
+2011,MSI,68505,8203.0,1158.0,-186.0
+2011,PEG,788784,11079.0,1503.0,-2083.0
+2011,PPG,79879,Income statement not found,cash flow not found,cash flow not found
+2011,ES,72741,4465657.0,cash flow not found,cash flow not found
+2011,STT,93751,Income statement not found,cash flow not found,cash flow not found
+2011,LULU,1397187,Income statement not found,184063.0,-116657.0
+2011,EBAY,1065088,Income statement not found,cash flow not found,cash flow not found
+2011,SBAC,1034054,698170.0,0,-126938.0
+2011,WLTW,1140536,3447.0,0,-111.0
+2011,PAYX,723531,3447.0,0,-111.0
+2011,FE,1031296,0,0,-111.0
+2011,FLT,1175454,519591.0,147335.0,-13454.0
+2011,MCK,927653,519591.0,147335.0,-13454.0
+2011,KLAC,319201,3175167.0,cash flow not found,cash flow not found
+2011,EIX,827052,12760.0,0,-4808.0
+2011,PH,76334,Income statement not found,cash flow not found,cash flow not found
+2011,LUV,92380,Income statement not found,cash flow not found,cash flow not found
+2011,SQ,1512673,Income statement not found,cash flow not found,cash flow not found
+2011,VRSK,1442145,0,282758.0,-59829.0
+2011,PCAR,75362,16355.2,1042.3,-340.7
+2011,A,1090872,Income statement not found,cash flow not found,cash flow not found
+2011,MNST,865752,0,0,-25552.0
+2011,PPL,922224,0,0,-25552.0
+2011,WMB,107263,Income statement not found,cash flow not found,cash flow not found
+2011,VFC,103379,9459232.0,0,tag not found
+2011,ETR,65984,Income statement not found,0,tag not found
+2011,DLR,1297996,Income statement not found,0,tag not found
+2011,ADM,7084,Income statement not found,0,-1247.0
+2011,TMUS,1283699,Income statement not found,301310.0,-889769.0
+2011,O,726728,421059.0,157032.0,tag not found
+2011,AZO,866787,8072973.0,848974.0,-321604.0
+2011,SWK,93556,10376.4,674.6,-302.1
+2011,TWTR,1418091,10376.4,674.6,-302.1
+2011,SPLK,1353283,10376.4,674.6,-302.1
+2011,MCHP,827054,379985.0,418950.0,-29587.0
+2011,CMI,26172,18048.0,0,-622.0
+2011,DTE,936340,0,0,tag not found
+2011,BLL,9389,Income statement not found,0,-443.8
+2011,CERN,804753,2203153.0,306627.0,-104795.0
+2011,AWK,1410636,Income statement not found,309613.0,-924858.0
+2011,CTAS,723254,Income statement not found,309613.0,-924858.0
+2011,MSCI,1408198,Income statement not found,13824.0,-1811.0
+2011,DFS,1393612,0,2226708.0,-111560.0
+2011,TSN,100493,32266.0,0,-643.0
+2011,CSGP,1057352,251738.0,14656.0,-15013.0
+2011,RMD,943819,1243148.0,226986.0,-66609.0
+2011,ANSS,1013462,691449.0,180675.0,-22063.0
+2011,ROK,1024478,Income statement not found,cash flow not found,cash flow not found
+2011,PXD,1038357,0,0,tag not found
+2011,IDXX,874716,1218689.0,0,-52464.0
+2011,LVS,1300514,9410745.0,0,-1508493.0
+2011,SNPS,883241,1535643.0,221364.0,-57345.0
+2011,FTV,1659166,1535643.0,221364.0,-57345.0
+2011,PANW,1327567,1535643.0,221364.0,-57345.0
+2011,MTB,36270,Income statement not found,cash flow not found,cash flow not found
+2011,AME,1037868,Income statement not found,cash flow not found,cash flow not found
+2011,XLNX,743988,2369445.0,641875.0,-64979.0
+2011,BXP,1037540,1759526.0,0,tag not found
+2011,LYB,1489393,1759526.0,0,tag not found
+2011,KR,56873,1759526.0,0,-1898.0
+2011,AMP,820027,10239.0,0,-250.0
+2011,ALXN,899866,0,cash flow not found,cash flow not found
+2011,HSY,47111,6080788.0,0,-323961.0
+2011,VRSN,1014473,771978.0,0,-192660.0
+2011,CMG,1058090,Income statement not found,cash flow not found,cash flow not found
+2011,VTR,740260,1764991.0,0,-50473.0
+2011,DXCM,1093557,76266.0,-44746.0,-8006.0
+2011,SYF,1601712,76266.0,-44746.0,-8006.0
+2011,FAST,815556,Income statement not found,357929.0,-120043.0
+2011,WY,106535,Income statement not found,cash flow not found,cash flow not found
+2011,GLW,24741,0,2805.0,tag not found
+2011,FITB,35527,0,0,-319.0
+2011,HIG,874766,21859.0,662.0,tag not found
+2011,DLTR,935703,Income statement not found,cash flow not found,cash flow not found
+2011,ALGN,1097149,479741.0,66716.0,-30404.0
+2011,CLX,21076,Income statement not found,557.0,-228.0
+2011,CDNS,813672,1149835.0,72229.0,-31421.0
+2011,RSG,1060391,8192.9,cash flow not found,cash flow not found
+2011,CPRT,900075,872246.0,166375.0,-70170.0
+2011,SWKS,4127,Income statement not found,cash flow not found,cash flow not found
+2011,ESS,920522,475558.0,0,tag not found
+2011,RCL,884887,7537263.0,607421.0,-1173626.0
+2011,WDC,106040,0,726.0,-778.0
+2011,AEE,1002910,Income statement not found,cash flow not found,cash flow not found
+2011,BBY,764478,Income statement not found,cash flow not found,cash flow not found
+2011,NTRS,73124,Income statement not found,cash flow not found,cash flow not found
+2011,DHI,882184,Income statement not found,0,-16.3
+2011,MKC,63754,Income statement not found,cash flow not found,cash flow not found
+2011,VEEV,1393052,Income statement not found,cash flow not found,cash flow not found
+2011,HAL,45012,24829.0,0,-2953.0
+2011,KEY,91576,0,0,-158.0
+2011,VMC,1396009,Income statement not found,-70778.0,-98912.0
+2011,HPE,1645590,Income statement not found,-70778.0,-98912.0
+2011,CDW,1402057,9602.4,17.1,-45.7
+2011,AJG,354190,2134.7,cash flow not found,cash flow not found
+2011,CMS,811156,2134.7,0,-882.0
+2011,ARE,1035443,0,0,tag not found
+2011,UAL,100517,Income statement not found,cash flow not found,cash flow not found
+2011,EFX,33185,0,0,-75.0
+2011,LEN,920760,0,0,tag not found
+2011,MTD,1037646,2309328.0,269493.0,-98500.0
+2011,KHC,1637459,2309328.0,269493.0,-98500.0
+2011,CHD,313927,0,cash flow not found,cash flow not found
+2011,FCX,831259,0,0,tag not found
+2011,KEYS,1601046,0,0,tag not found
+2011,LH,920148,5542.3,0,-145.7
+2011,TFX,96943,1528911.0,0,-45087.0
+2011,TRU,1552033,1528911.0,0,-45087.0
+2011,IAC,891103,Income statement not found,cash flow not found,cash flow not found
+2011,ACGL,947484,3063307.0,cash flow not found,cash flow not found
+2011,MXIM,743316,0,489009.0,-175253.0
+2011,IP,51434,Income statement not found,cash flow not found,cash flow not found
+2011,MLM,916076,Income statement not found,0,-155363.0
+2011,DOV,29905,Income statement not found,895243.0,-271809.0
+2011,TEAM,1650372,Income statement not found,895243.0,-271809.0
+2011,COO,711404,1330835.0,175430.0,-103665.0
+2011,CFG,759944,1330835.0,175430.0,-103665.0
+2011,FTNT,1262039,Income statement not found,cash flow not found,cash flow not found
+2011,MRVL,1058057,3393040.0,615091.0,-88779.0
+2011,K,55067,Income statement not found,cash flow not found,cash flow not found
+2011,MKL,1096343,Income statement not found,0,-60132.0
+2011,KSU,54480,2098.3,0,-495.0
+2011,INVH,1687229,2098.3,0,-495.0
+2011,OMC,29989,13872.5,0,-185.5
+2011,CINF,20286,3803.0,166.0,-7.0
+2011,CXO,1358071,0,548137.0,tag not found
+2011,TIF,98246,Income statement not found,439190.0,-239443.0
+2011,MGM,789570,7849312.0,0,-301244.0
+2011,KMX,1170010,Income statement not found,0,-301244.0
+2011,YUMC,1673358,Income statement not found,0,-301244.0
+2011,RF,1281761,0,-215.0,tag not found
+2011,HES,4447,Income statement not found,cash flow not found,cash flow not found
+2011,BMRN,1048477,441358.0,-53836.0,-73219.0
+2011,PAYC,1590955,441358.0,-53836.0,-73219.0
+2011,MAA,912595,448992.0,0,tag not found
+2011,CAG,23217,Income statement not found,0,tag not found
+2011,CTL,18926,15351.0,573.0,-2411.0
+2011,ULTA,1403568,Income statement not found,cash flow not found,cash flow not found
+2011,XYL,1524472,Income statement not found,cash flow not found,cash flow not found
+2011,TWLO,1447669,Income statement not found,cash flow not found,cash flow not found
+2011,PFG,1126328,2059.0,0,tag not found
+2011,CAH,721371,Income statement not found,959.0,-291.3
+2011,EXPE,1324424,3449009.0,0,-207837.0
+2011,RNG,1384905,3449009.0,0,-207837.0
+2011,CTXS,877890,2206392.0,0,-111932.0
+2011,IFF,51253,Income statement not found,cash flow not found,cash flow not found
+2011,AKAM,1086222,1158538.0,200904.0,-140218.0
+2011,BURL,1579298,1158538.0,200904.0,-140218.0
+2011,NUE,73309,Income statement not found,0,-440502.0
+2011,DGX,1022079,7510490.0,0,-161556.0
+2011,WAB,943452,1967637.0,170149.0,-37971.0
+2011,HBAN,49196,0,cash flow not found,cash flow not found
+2011,DRI,940944,Income statement not found,cash flow not found,cash flow not found
+2011,HOLX,859737,1789349.0,157150.0,-27785.0
+2011,SUI,912593,Income statement not found,cash flow not found,cash flow not found
+2011,WPC,1025378,336409.0,cash flow not found,cash flow not found
+2011,LDOS,1336920,10587.0,59.0,-65.0
+2011,GRMN,1121788,2758569.0,520896.0,-38366.0
+2011,MAS,62996,7467.0,0,-151.0
+2011,NLY,1043219,Income statement not found,0,tag not found
+2011,SSNC,1402436,370828.0,51021.0,-6222.0
+2011,LBRDK,1611983,370828.0,51021.0,-6222.0
+2011,WAT,1000697,1851184.0,0,tag not found
+2011,LNT,352541,3665.3,321.9,tag not found
+2011,UDR,74208,708685.0,0,-13267.0
+2011,ABC,1140859,20407670.0,706624.0,-167954.0
+2011,ATO,731802,0,207601.0,-622965.0
+2011,NTAP,1002047,5122.6,673.1,-222.7
+2011,GPC,40987,0,0,-103469.0
+2011,AES,874761,0,0,-2430.0
+2011,LNG,3570,0,0,-2430.0
+2011,EXR,1289490,0,0,tag not found
+2011,BR,1383312,Income statement not found,0,-29.2
+2011,L,60086,14127.0,0,-857.0
+2011,CBOE,1374310,Income statement not found,0,-857.0
+2011,ANET,1596532,Income statement not found,0,-857.0
+2011,SIVB,719739,0,0,-30751.0
+2011,GWW,277135,Income statement not found,0,-196942.0
+2011,FOXA,1308161,33405.0,0,-1171.0
+2011,OKTA,1660134,33405.0,0,-1171.0
+2011,SGEN,1060736,94778.0,-152030.0,-11252.0
+2011,TDY,1094285,1941.9,0,-41.7
+2011,TTWO,946581,0,0,-3149.0
+2011,INCY,879169,94455.0,0,-3799.0
+2011,LW,1679273,94455.0,0,-3799.0
+2011,DRE,783280,1274274.0,0,tag not found
+2011,IT,749251,1468588.0,136902.0,tag not found
+2011,AMTD,1173431,0,637753.0,-152889.0
+2011,CNP,1130310,Income statement not found,cash flow not found,cash flow not found
+2011,EXAS,1124140,Income statement not found,cash flow not found,cash flow not found
+2011,ODFL,878927,Income statement not found,cash flow not found,cash flow not found
+2011,NDAQ,1120193,3438.0,0,-88.0
+2011,CE,1306830,6763.0,0,-349.0
+2011,HAS,46080,0,385367.0,-99402.0
+2011,ZBRA,877212,Income statement not found,385367.0,-99402.0
+2011,FMC,37785,3377.9,0,-189.5
+2011,HRL,48465,7895089.0,0,-96911.0
+2011,FNF,1331875,4839.6,0,-29.1
+2011,WYNN,1174922,5269792.0,0,-184146.0
+2011,QRVO,1604778,5269792.0,0,-184146.0
+2011,ALNY,1178670,Income statement not found,-57649.0,-1291.0
+2011,IEX,832101,1838451.0,193857.0,-35175.0
+2011,VAR,203527,Income statement not found,193857.0,-35175.0
+2011,STE,1624899,Income statement not found,193857.0,-35175.0
+2011,XRAY,818479,2537718.0,0,-71186.0
+2011,TYL,860731,Income statement not found,cash flow not found,cash flow not found
+2011,EXPD,746515,Income statement not found,0,-78115.0
+2011,JKHY,779152,Income statement not found,cash flow not found,cash flow not found
+2011,MKTX,1278021,181099.0,47704.0,-3160.0
+2011,NVR,906163,0,129420.0,-11444.0
+2011,ELS,895417,580073.0,0,tag not found
+2011,ALLY,40729,Income statement not found,cash flow not found,cash flow not found
+2011,ALLE,1579241,Income statement not found,cash flow not found,cash flow not found
+2011,FANG,1539838,Income statement not found,cash flow not found,cash flow not found
+2011,HST,1070750,4998.0,0,-327.0
+2011,ARNC,4281,Income statement not found,cash flow not found,cash flow not found
+2011,EPAM,1352010,Income statement not found,cash flow not found,cash flow not found
+2011,RJF,720005,Income statement not found,278353.0,-37200.0
+2011,TER,97210,1429061.0,373809.0,-86097.0
+2011,SJM,91419,Income statement not found,cash flow not found,cash flow not found
+2011,MYL,1623613,Income statement not found,cash flow not found,cash flow not found
+2011,TXT,217346,11275.0,cash flow not found,cash flow not found
+2011,GDDY,1609711,11275.0,cash flow not found,cash flow not found
+2011,WU,1365135,5491.4,0,-52.8
+2011,AVY,8818,6026.3,190.1,-105.0
+2011,MPW,1287865,143319.0,0,tag not found
+2011,NCLH,1513761,143319.0,0,tag not found
+2011,WST,105770,Income statement not found,cash flow not found,cash flow not found
+2011,FICO,814547,619683.0,71562.0,-14020.0
+2011,VMW,1124610,3767096.0,723936.0,-230091.0
+2011,LNC,59558,Income statement not found,294.0,tag not found
+2011,URI,1067701,Income statement not found,cash flow not found,cash flow not found
+2011,PODD,1145197,152255.0,-57170.0,-11114.0
+2011,VNO,899689,Income statement not found,cash flow not found,cash flow not found
+2011,Y,775368,Income statement not found,143251.0,-6411.0
+2011,AAL,6201,Income statement not found,143251.0,-6411.0
+2011,DPZ,1286681,1652193.0,105361.0,-24349.0
+2011,RE,1095073,Income statement not found,-80486.0,tag not found
+2011,PHM,822416,4136690.0,-210388.0,-21238.0
+2011,TRMB,864749,1644065.0,0,-23278.0
+2011,TTD,1671933,1644065.0,0,-23278.0
+2011,TSCO,916365,0,222740.0,-166156.0
+2011,UHS,352915,0,0,-285682.0
+2011,NI,1111711,Income statement not found,cash flow not found,cash flow not found
+2011,PNW,764622,3241379.0,0,-884350.0
+2011,WRB,11544,5155984.0,394803.0,-45320.0
+2011,BRO,79282,1013542.0,163995.0,-13608.0
+2011,APA,6769,Income statement not found,cash flow not found,cash flow not found
+2011,FDS,1013237,726510.0,171046.0,-29343.0
+2011,HII,1501585,Income statement not found,-94.0,-197.0
+2011,ROKU,1428439,Income statement not found,-94.0,-197.0
+2011,BAH,1443646,Income statement not found,cash flow not found,cash flow not found
+2011,WRK,1636023,Income statement not found,cash flow not found,cash flow not found
+2011,PKI,31791,1921287.0,7655.0,-30592.0
+2011,ARMK,1584509,1921287.0,7655.0,-30592.0
+2011,REG,910606,500417.0,0,tag not found
+2011,LKQ,1065696,3269862.0,210264.0,-86416.0
+2011,CPT,906345,Income statement not found,0,tag not found
+2011,HSIC,1000228,0,0,-45176.0
+2011,AGNC,1423689,Income statement not found,770480.0,tag not found
+2011,EMN,915389,Income statement not found,696.0,-457.0
+2011,VER,1507385,0.0,cash flow not found,cash flow not found
+2011,DOX,1062579,0.0,cash flow not found,cash flow not found
+2011,CCK,1219601,2058.0,0,-401.0
+2011,NDSN,72331,1233159.0,222364.0,-20239.0
+2011,ETFC,1015780,Income statement not found,cash flow not found,cash flow not found
+2011,TAP,24545,0,0,-235.4
+2011,NBL,72207,3763.0,453.0,tag not found
+2011,FBHS,1519751,3328.6,0,-68.5
+2011,COUP,1385867,3328.6,0,-68.5
+2011,DISH,1001082,Income statement not found,0,-778905.0
+2011,CHRW,1043277,10336346.0,431612.0,-35932.0
+2011,SIRI,908937,3014524.0,426961.0,-137429.0
+2011,MRO,101778,15282.0,2946.0,-3295.0
+2011,RPM,110621,15282.0,2946.0,-3295.0
+2011,PKG,75677,2620111.0,158027.0,-280213.0
+2011,GWRE,1528396,2620111.0,158027.0,-280213.0
+2011,BFAM,1437578,2620111.0,158027.0,-280213.0
+2011,ZEN,1463172,2620111.0,158027.0,-280213.0
+2011,GLPI,1575965,2620111.0,158027.0,-280213.0
+2011,NNN,751364,Income statement not found,158027.0,-280213.0
+2011,MTN,812011,0,0,-95640.0
+2011,NRG,1013871,2132.0,0,-2310.0
+2011,WEX,1309108,553076.0,133622.0,-25145.0
+2011,FRT,34903,553059.0,0,tag not found
+2011,JBHT,728535,Income statement not found,257006.0,-502282.0
+2011,RGA,898174,8829538.0,599620.0,tag not found
+2011,WHR,106640,18666.0,0,-608.0
+2011,CF,1324404,1718.4,0,-247.2
+2011,VST,1692819,1718.4,0,-247.2
+2011,CMA,28412,0,0,tag not found
+2011,NBIX,914475,77413.0,37571.0,-750.0
+2011,OHI,888491,0,52606.0,tag not found
+2011,ALB,915913,2869005.0,0,-190574.0
+2011,OGE,1021635,3915.9,0,-1270.4
+2011,CSL,790051,Income statement not found,180.3,-79.6
+2011,GGG,42888,Income statement not found,0,-23854.0
+2011,LYV,1335258,1185682.0,0,-107500.0
+2011,AAP,1158449,6170462.0,394682.0,-268129.0
+2011,IRM,1020569,0,0,-209155.0
+2011,JLL,1037976,3584544.0,0,tag not found
+2011,IPG,51644,7014.6,0,-140.3
+2011,CGNX,851205,321914.0,cash flow not found,cash flow not found
+2011,DVN,1090012,Income statement not found,4704.0,-7534.0
+2011,PTC,857005,1166949.0,85424.0,-27817.0
+2011,PCG,1004980,14956.0,0,-4038.0
+2011,SNA,91440,Income statement not found,cash flow not found,cash flow not found
+2011,KRC,1025996,Income statement not found,cash flow not found,cash flow not found
+2011,DXC,1688568,Income statement not found,cash flow not found,cash flow not found
+2011,SEIC,350894,929727.0,0,-12271.0
+2011,TRGP,1389170,Income statement not found,cash flow not found,cash flow not found
+2011,UGI,884614,6091.3,0,-360.7
+2011,TTC,737758,Income statement not found,0,-57447.0
+2011,USFD,1665918,Income statement not found,0,-57447.0
+2011,CY,791915,995204.0,0,-80556.0
+2011,ON,1097864,3442.3,cash flow not found,cash flow not found
+2011,AZPN,929940,Income statement not found,cash flow not found,cash flow not found
+2011,CTLT,1596783,Income statement not found,cash flow not found,cash flow not found
+2011,POOL,945841,1793318.0,71993.0,-19454.0
+2011,NOV,1021860,14658.0,0,-483.0
+2011,SRPT,873303,Income statement not found,cash flow not found,cash flow not found
+2011,LII,1069202,3303.6,88.3,-43.2
+2011,ABMD,815094,Income statement not found,cash flow not found,cash flow not found
+2011,RNR,913144,208507.0,0,tag not found
+2011,XPO,1166003,208507.0,0,tag not found
+2011,STOR,1538990,208507.0,0,tag not found
+2011,VOYA,1535929,208507.0,0,tag not found
+2011,ATUS,1702780,208507.0,0,tag not found
+2011,G,1398659,1600436.0,184294.0,-35776.0
+2011,SCI,89089,Income statement not found,cash flow not found,cash flow not found
+2011,AIZ,1267238,8272804.0,cash flow not found,cash flow not found
+2011,AFG,1042046,4750.0,cash flow not found,cash flow not found
+2011,MASI,937556,0,0,-5057.0
+2011,CPB,16732,Income statement not found,0,-272.0
+2011,DVA,927066,0,0,-400156.0
+2011,CZR,858339,8834.5,0,-283.2
+2011,LAMR,1090425,Income statement not found,8550.0,-107070.0
+2011,MOH,1179929,Income statement not found,cash flow not found,cash flow not found
+2011,ZION,109380,0,0,-77669.0
+2011,HUBB,48898,Income statement not found,cash flow not found,cash flow not found
+2011,ALK,766421,4317.8,244.5,-387.4
+2011,JAZZ,1232524,272277.0,124984.0,-1279.0
+2011,EEFT,1029199,1161304.0,0,-46002.0
+2011,KIM,879101,0,0,-46002.0
+2011,BIO,12208,0,0,-46002.0
+2011,MHK,851968,0,0,-275573.0
+2011,ZAYO,1608249,0,0,-275573.0
+2011,AIV,922864,1079584.0,0,tag not found
+2011,TPR,1116132,4158507.0,880800.0,-147744.0
+2011,MPWR,1280452,196519.0,0,-21022.0
+2011,NWL,814453,5864.6,125.2,-222.9
+2011,OLED,1005284,Income statement not found,cash flow not found,cash flow not found
+2011,TECH,842023,Income statement not found,112302.0,-3630.0
+2011,JNPR,1043604,4448709.0,0,-266314.0
+2011,LEA,842162,4448709.0,0,-266314.0
+2011,RS,861884,8134.7,0,-156.4
+2011,QGEN,1015820,8134.7,0,-156.4
+2011,GNTX,355811,8134.7,0,-156.4
+2011,ST,1477294,1826945.0,6474.0,-89807.0
+2011,ENTG,1101302,749259.0,0,-30267.0
+2011,FFIV,1048695,Income statement not found,241397.0,-30445.0
+2011,LPLA,1397911,3479375.0,170382.0,-36347.0
+2011,SLG,1040971,1263428.0,0,-159100.0
+2011,CRL,1100682,1142647.0,0,-49143.0
+2011,CHE,19584,Income statement not found,cash flow not found,cash flow not found
+2011,ATR,896622,2337183.0,0,-179692.0
+2011,IONS,874015,99086.0,0,-7331.0
+2011,NLSN,1492633,5532.0,0,-177.0
+2011,BG,1144519,58743.0,0,-1125.0
+2011,CABO,1632127,58743.0,0,-1125.0
+2011,PNR,77360,3456686.0,0,-73348.0
+2011,PRGO,1585364,3456686.0,0,-73348.0
+2011,ACM,868857,Income statement not found,cash flow not found,cash flow not found
+2011,MOS,1285785,Income statement not found,cash flow not found,cash flow not found
+2011,FLIR,354908,1544062.0,221474.0,-42014.0
+2011,KSS,885639,18804.0,1167.0,-927.0
+2011,RGLD,85535,Income statement not found,0,tag not found
+2011,BEN,38777,7140039.0,0,-131722.0
+2011,HRC,47518,Income statement not found,cash flow not found,cash flow not found
+2011,BWA,908255,Income statement not found,cash flow not found,cash flow not found
+2011,CBSH,22356,0,0,-21332.0
+2011,HUBS,1404655,0,0,-21332.0
+2011,AMH,1562401,0,0,-21332.0
+2011,PBCT,1378946,0,198.8,-20.5
+2011,STWD,1465128,0,0,tag not found
+2011,EWBC,1069157,0,245234.0,-10507.0
+2011,HDS,1573097,0,245234.0,-10507.0
+2011,PFPT,1212458,0,245234.0,-10507.0
+2011,DEI,1364250,575337.0,0,tag not found
+2011,NRZ,1556593,575337.0,0,tag not found
+2011,IVZ,914208,4092.2,0,-107.0
+2011,RHI,315213,0,149922.0,-56535.0
+2011,WBC,1390844,2794.1,0,-98.3
+2011,SPR,1364885,Income statement not found,0,-98.3
+2011,CONE,1553023,Income statement not found,0,-98.3
+2011,DCI,29644,Income statement not found,225291.0,-60633.0
+2011,FAF,1472787,3820574.0,0,-69797.0
+2011,MDB,1441816,3820574.0,0,-69797.0
+2011,OC,1370946,Income statement not found,0,-442.0
+2011,POST,1530950,Income statement not found,0,-442.0
+2011,PRAH,1613859,Income statement not found,0,-442.0
+2011,CACI,16058,3577780.0,0,-14388.0
+2011,TCF,814184,0,109394.0,-34865.0
+2011,XRX,108772,22626.0,109394.0,-34865.0
+2011,PLNT,1637207,22626.0,109394.0,-34865.0
+2011,PB,1068851,0,141749.0,-9480.0
+2011,PVH,78239,Income statement not found,317881.0,-169841.0
+2011,ATH,1527469,Income statement not found,317881.0,-169841.0
+2011,CIEN,936395,1741970.0,-195521.0,-52367.0
+2011,HFC,48039,0,0,-334904.0
+2011,HZNP,1492426,6939.0,-113265.0,-1604.0
+2011,ORI,74260,4645.5,-140.5,tag not found
+2011,CDK,1609702,4645.5,-140.5,tag not found
+2011,HTA,1360604,4645.5,-140.5,tag not found
+2011,FLS,30625,4510201.0,0,-107967.0
+2011,WWD,108312,Income statement not found,0,-48255.0
+2011,FIVE,1177609,Income statement not found,0,-48255.0
+2011,CW,26324,Income statement not found,130423.0,-84831.0
+2011,DNKN,1357204,628198.0,34442.0,-18596.0
+2011,ARW,7536,628198.0,34442.0,-18596.0
+2011,HXL,717605,0,0,-158.0
+2011,MIDD,769520,Income statement not found,95473.0,-7840.0
+2011,OSK,775158,7584.7,0,-82.3
+2011,ACC,1283630,390317.0,0,-23277.0
+2011,BWXT,1486957,Income statement not found,cash flow not found,cash flow not found
+2011,ITT,216228,Income statement not found,0,-103.0
+2011,MKSI,1049502,822517.0,129731.0,-15567.0
+2011,UNM,5513,10278.0,235.4,tag not found
+2011,BRX,1581068,10278.0,235.4,tag not found
+2011,MDU,67716,4050492000.0,235.4,tag not found
+2011,STLD,1022671,7997500.0,0,-167007.0
+2011,W,1616707,7997500.0,0,-167007.0
+2011,AXTA,1616862,7997500.0,0,-167007.0
+2011,SABR,1597033,7997500.0,0,-167007.0
+2011,AYX,1689923,7997500.0,0,-167007.0
+2011,LEG,58492,3636.0,0,-75.0
+2011,Z,1617640,3636.0,0,-75.0
+2011,TOL,794170,0,39795.0,-9553.0
+2011,CUZ,25232,Income statement not found,cash flow not found,cash flow not found
+2011,INGR,1046257,6219.0,0,-263.0
+2011,JBL,898293,16518827.0,0,-458989.0
+2011,RL,1037038,0,567.6,-255.0
+2011,NATI,935494,1024173.0,94072.0,-54830.0
+2011,AOS,91142,0,cash flow not found,cash flow not found
+2011,COG,858470,Income statement not found,cash flow not found,cash flow not found
+2011,CASY,726958,Income statement not found,94623.0,-214573.0
+2011,CUBE,1298675,0,0,tag not found
+2011,JBLU,1158463,0,86.0,-480.0
+2011,NTNX,1618732,0,86.0,-480.0
+2011,SON,91767,4498932.0,0,-173372.0
+2011,SEE,1012100,5640.9,0,-124.5
+2011,BERY,1378992,5640.9,0,-124.5
+2011,ETSY,1370637,5640.9,0,-124.5
+2011,SNX,1177394,10409840.0,0,-40153.0
+2011,SRCL,861878,1676048.0,0,-53301.0
+2011,WSO,105016,2977759.0,0,-13925.0
+2011,WSM,719955,Income statement not found,236931.0,-130353.0
+2011,MAN,871763,0,0,-64.9
+2011,PWR,1050915,0,0,-172005.0
+2011,HPP,1482512,0,0,tag not found
+2011,NUAN,1002517,1318741.0,38238.0,-34907.0
+2011,PEN,1321732,1318741.0,38238.0,-34907.0
+2011,LB,701985,10364.0,0,-426.0
+2011,NXST,1142417,Income statement not found,cash flow not found,cash flow not found
+2011,IDA,1057877,Income statement not found,0,-337765.0
+2011,LECO,59527,0,0,-65813.0
+2011,PK,1617406,0,0,-65813.0
+2011,EPR,1045450,77608.0,0,-53175.0
+2011,MSG,1636519,77608.0,0,-53175.0
+2011,NYT,71691,2323401.0,0,-44887.0
+2011,BPOP,763901,0,151325.0,-50043.0
+2011,ROL,84839,0,151325.0,-50043.0
+2011,WAL,1212545,0,31494.0,tag not found
+2011,EXEL,939767,289636.0,0,-991.0
+2011,THG,944695,3931.6,37.1,-16.5
+2011,CREE,895419,987615.0,146500.0,tag not found
+2011,AXS,1214816,3801226.0,46305.0,tag not found
+2011,EV,350797,1260031.0,0,-10639.0
+2011,PII,931015,0,227575.0,-84484.0
+2011,HOG,793952,5311713.0,0,-189035.0
+2011,M,794367,26405.0,1256.0,-555.0
+2011,CFR,39263,0,217535.0,-26719.0
+2011,HIW,921082,0,0,tag not found
+2011,HBI,1359841,1145315.0,266688.0,-90099.0
+2011,LSI,944314,211156.0,0,tag not found
+2011,SRC,1308606,279345.0,53809.0,tag not found
+2011,HE,354707,3242335.0,0,-235116.0
+2011,WPX,1518832,Income statement not found,cash flow not found,cash flow not found
+2011,PE,1594466,Income statement not found,cash flow not found,cash flow not found
+2011,PRI,1475922,Income statement not found,cash flow not found,cash flow not found
+2011,NYCB,910073,Income statement not found,480037.0,-40746.0
+2011,FHN,36966,1442843.0,480037.0,-40746.0
+2011,SNV,18349,0,0,-15944.0
+2011,ALSN,1411207,0,0,-15944.0
+2011,BRKR,1109354,1651.7,0,-54.4
+2011,BC,14930,3748.0,71.9,-90.0
+2011,BLUE,1293971,3748.0,71.9,-90.0
+2011,GRUB,1594109,3748.0,71.9,-90.0
+2011,ZNGA,1439404,Income statement not found,cash flow not found,cash flow not found
+2011,AWI,7431,Income statement not found,112.4,-150.6
+2011,MTG,876437,1504279.0,-485892.0,tag not found
+2011,JBGS,1689796,1504279.0,-485892.0,tag not found
+2011,SKX,1065837,0,-67484.0,-122238.0
+2011,IPGP,1111928,474482.0,0,-53007.0
+2011,MANH,1056696,329253.0,44907.0,-5074.0
+2011,SERV,1428875,329253.0,44907.0,-5074.0
+2011,HHC,1498828,Income statement not found,cash flow not found,cash flow not found
+2011,MAT,63276,6266037.0,768508.0,-88721.0
+2011,SMG,825542,417.2,167.9,-72.7
+2011,AYI,1144215,0,105.5,-23.3
+2011,HEI,46619,0,105.5,-23.3
+2011,GDI,1699150,0,105.5,-23.3
+2011,AL,1487712,58366.0,0,tag not found
+2011,CRI,1060822,0,114016.0,-45495.0
+2011,DISCA,1437107,4235.0,0,-58.0
+2011,HUN,1307954,Income statement not found,0,-330.0
+2011,KNX,1492691,3333908.0,90550.0,-239575.0
+2011,ASH,1674862,3333908.0,90550.0,-239575.0
+2011,PCTY,1591698,3333908.0,90550.0,-239575.0
+2011,RP,1286225,0,-1231.0,-16147.0
+2011,SLM,1032033,0,633.0,tag not found
+2011,GPK,1408075,0,0,-160.1
+2011,HRB,12659,0,0,-160.1
+2011,HP,46765,2543894.0,0,-694264.0
+2011,BHF,1685040,2543894.0,0,-694264.0
+2011,CIT,1171825,1791000000.0,0,-694264.0
+2011,PNFP,1115055,1791000000.0,0,-694264.0
+2011,AGCO,880266,0,0,-300.4
+2011,CACC,885550,525192.0,188044.0,-6334.0
+2011,DLB,1308547,955505.0,0,-47362.0
+2011,CR,25445,2545867.0,26315.0,-34737.0
+2011,LSTR,853816,2649082.0,0,-4337.0
+2011,KEX,56047,Income statement not found,0,-226238.0
+2011,LAZ,1311370,1919638.0,0,-46438.0
+2011,LFUS,889331,664955.0,0,-17555.0
+2011,NCR,70866,5443.0,0,-101.0
+2011,WBS,801337,0,0,-28867.0
+2011,AGO,1273813,1819313.0,0,tag not found
+2011,XEC,1168054,1757889.0,529932.0,tag not found
+2011,CLH,822818,545886.0,0,-148513.0
+2011,COR,1490892,Income statement not found,0,-148513.0
+2011,THO,730263,0,106273.0,-33749.0
+2011,FL,850209,5623.0,278.0,-152.0
+2011,OUT,1579877,5623.0,278.0,-152.0
+2011,UTHR,1082554,743183.0,0,-35977.0
+2011,FSLR,1274494,2766207.0,0,-731814.0
+2011,JWN,72333,Income statement not found,683.0,-511.0
+2011,PSTG,1474432,Income statement not found,683.0,-511.0
+2011,ADS,1101215,3173287.0,0,-73502.0
+2011,PACW,1102112,Income statement not found,50704.0,-5936.0
+2011,VVV,1674910,Income statement not found,50704.0,-5936.0
+2011,FLO,1128928,0,0,-79162.0
+2011,HLF,1180262,3454537.0,412578.0,-90408.0
+2011,TPX,1206264,1417938.0,0,-29466.0
+2011,TWO,1465740,Income statement not found,0,-29466.0
+2011,JHG,1274173,Income statement not found,0,-29466.0
+2011,STL,1070154,0,11739.0,-3465.0
+2011,AMG,1004434,0,0,-16.1
+2011,MRNA,737207,Income statement not found,cash flow not found,cash flow not found
+2011,WEN,30697,2431358.0,0,-146763.0
+2011,LOGM,1420302,2431358.0,0,-146763.0
+2011,IART,917520,0,27989.0,-38425.0
+2011,MTCH,1575189,0,27989.0,-38425.0
+2011,CVNA,1690820,0,27989.0,-38425.0
+2011,ERIE,922621,1418.0,0,tag not found
+2011,FHB,36377,1418.0,0,tag not found
+2011,GPS,39911,14549.0,833.0,-548.0
+2011,CIM,1409493,Income statement not found,cash flow not found,cash flow not found
+2011,EQC,803649,0,109984.0,tag not found
+2011,FNB,37808,0,87047.0,-17115.0
+2011,RYN,52827,Income statement not found,276005.0,-144522.0
+2011,UNVR,1494319,Income statement not found,276005.0,-144522.0
+2011,LOPE,1434588,Income statement not found,50546.0,-80545.0
+2011,UMPQ,1077771,0,0,-33974.0
+2011,IBKR,1381197,Income statement not found,0,tag not found
+2011,EXP,918646,Income statement not found,14849.0,-17224.0
+2011,NKTR,906709,71480.0,-133978.0,-9722.0
+2011,CLGX,36047,0,0,-45215.0
+2011,ICUI,883984,302195.0,0,-15824.0
+2011,TKR,98362,0,454.3,-205.3
+2011,AVT,8858,Income statement not found,cash flow not found,cash flow not found
+2011,VSAT,797721,Income statement not found,cash flow not found,cash flow not found
+2011,FCNCA,798941,0,195028.0,-76901.0
+2011,WTFC,1015328,0,77575.0,-79132.0
+2011,BOH,46195,0,0,tag not found
+2011,WRI,828916,Income statement not found,0,tag not found
+2011,NFG,70145,Income statement not found,258402.0,-837612.0
+2011,COHR,21510,Income statement not found,cash flow not found,cash flow not found
+2011,GRA,1045309,3211.9,0,-141.6
+2011,WTM,776867,Income statement not found,0,tag not found
+2011,CHH,1046311,638793.0,110396.0,-10924.0
+2011,FND,1507079,638793.0,110396.0,-10924.0
+2011,SAGE,1597553,638793.0,110396.0,-10924.0
+2011,CFX,1420800,693392.0,4555.0,-14786.0
+2011,COTY,1024305,693392.0,4555.0,-14786.0
+2011,MFA,1055160,0,316414.0,-2343.0
+2011,RBC,82811,0,0,-57621.0
+2011,LM,704051,Income statement not found,0,-32904.0
+2011,CNK,1385280,2279613.0,0,-184819.0
+2011,OFC,860546,556841.0,0,tag not found
+2011,MAC,912242,791250.0,0,tag not found
+2011,MUR,717423,27745549.0,872702.0,-2623407.0
+2011,PEGA,1013857,416675.0,10108.0,-9835.0
+2011,MIC,1289790,988791.0,0,-33764.0
+2011,CPA,1345105,988791.0,0,-33764.0
+2011,SCCO,1001838,0,cash flow not found,cash flow not found
+2011,UHAL,4457,Income statement not found,cash flow not found,cash flow not found
+2011,ASB,7789,Income statement not found,cash flow not found,cash flow not found
+2011,H,1468174,Income statement not found,0,-331.0
+2011,APLE,1418121,320500.0,69988.0,tag not found
+2011,BKU,1504008,0,119046.0,-4890.0
+2011,GT,42582,0,0,-1043.0
+2011,ENR,1632790,0,0,-1043.0
+2011,FEYE,1370880,0,0,-1043.0
+2011,PBF,1534504,0,0,-1043.0
+2011,VMI,102729,Income statement not found,0,-83069.0
+2011,MSM,1003078,2021792.0,218786.0,-25479.0
+2011,NEWR,1448056,2021792.0,218786.0,-25479.0
+2011,MORN,1289419,631400.0,0,-23322.0
+2011,EVR,1360901,543655.0,0,-8662.0
+2011,TRIP,1526520,Income statement not found,cash flow not found,cash flow not found
+2011,ALKS,1520262,Income statement not found,cash flow not found,cash flow not found
+2011,SIX,701374,Income statement not found,cash flow not found,cash flow not found
+2011,RIG,1451505,9142.0,0,-1020.0
+2011,AGIO,1439222,9142.0,0,-1020.0
+2011,AGR,1634997,9142.0,0,-1020.0
+2011,ACHC,1520697,0,-34892.0,-9558.0
+2011,AA,1675149,0,-34892.0,-9558.0
+2011,NEU,1282637,505556.0,206907.0,-53515.0
+2011,TCBI,1077428,Income statement not found,cash flow not found,cash flow not found
+2011,DKS,1089063,5211802.0,0,-201807.0
+2011,OLLI,1639300,5211802.0,0,-201807.0
+2011,COLM,1050797,0,103479.0,-78404.0
+2011,OMF,1584207,0,103479.0,-78404.0
+2011,PGRE,1605607,0,103479.0,-78404.0
+2011,BDN,790816,0,0,tag not found
+2011,HGV,1674168,0,0,tag not found
+2011,TDC,816761,2362.0,353.0,-42.0
+2011,KAR,1395942,0,0,-85.8
+2011,NAVI,1593538,0,0,-85.8
+2011,SC,1580608,0,0,-85.8
+2011,FLR,1124198,23381399.0,cash flow not found,cash flow not found
+2011,BOKF,875357,Income statement not found,0,-56195.0
+2011,RPAI,1222840,Income statement not found,0,tag not found
+2011,R,85961,Income statement not found,169777.0,-1698589.0
+2011,OLN,74303,1961.1,241.7,-200.9
+2011,S,101830,Income statement not found,-2890.0,-3130.0
+2011,THS,1320695,2049985.0,94407.0,-68523.0
+2011,CXP,1252849,613157.0,0,tag not found
+2011,SPB,1487730,613157.0,0,tag not found
+2011,SLGN,849869,3509227.0,0,-173009.0
+2011,CBT,16040,3102.0,0,-230.0
+2011,CC,1627223,3102.0,0,-230.0
+2011,COMM,1517228,3102.0,0,-230.0
+2011,CLR,732834,1649789.0,429072.0,tag not found
+2011,TREE,1434621,Income statement not found,cash flow not found,cash flow not found
+2011,AN,350698,Income statement not found,281.4,-149.1
+2011,TDS,1051512,Income statement not found,cash flow not found,cash flow not found
+2011,CMD,19446,Income statement not found,cash flow not found,cash flow not found
+2011,GHC,104889,1063439.0,0,-216381.0
+2011,OI,812074,Income statement not found,cash flow not found,cash flow not found
+2011,WLK,1262823,859175.0,cash flow not found,cash flow not found
+2011,TRN,99780,3075.1,0,-29.4
+2011,WWE,1091907,Income statement not found,24832.0,-27956.0
+2011,UFS,1381531,Income statement not found,365.0,-144.0
+2011,WCC,929008,6125718.0,0,-33347.0
+2011,ESRT,1541401,6125718.0,0,-33347.0
+2011,HAIN,910406,1130257.0,0,tag not found
+2011,MD,893949,0,217997.0,tag not found
+2011,KOS,1509991,676780.0,22357.0,tag not found
+2011,NUS,1021561,0,22357.0,tag not found
+2011,TCO,890319,Income statement not found,cash flow not found,cash flow not found
+2011,SATS,1415404,Income statement not found,0,-377172.0
+2011,PINC,1577916,Income statement not found,0,-377172.0
+2011,SBGI,912752,765288.0,0,-35835.0
+2011,URBN,912615,765288.0,0,-35835.0
+2011,SFM,1575515,765288.0,0,-35835.0
+2011,BGCP,1094831,1464685.0,0,-27190.0
+2011,PAG,1019849,1464685.0,0,-27190.0
+2011,AMCX,1514991,0,0,-15371.0
+2011,PTEN,889900,2565943.0,0,-1011578.0
+2011,X,1163302,Income statement not found,cash flow not found,cash flow not found
+2011,EQT,33213,Income statement not found,cash flow not found,cash flow not found
+2011,IGT,1619762,Income statement not found,cash flow not found,cash flow not found
+2011,PPC,802481,1602734.0,0,tag not found
+2011,AM,1598968,1602734.0,0,tag not found
+2011,MCY,64996,2777285.0,191164.0,-18079.0
+2011,CNA,21175,8947.0,0,-84.0
+2011,SNDR,1692063,8947.0,0,-84.0
+2011,TWOU,1459417,8947.0,0,-84.0
+2011,TFSL,1381668,0,9340.0,-2616.0
+2011,SEB,88121,5746902.0,cash flow not found,cash flow not found
+2011,SWCH,1710583,5746902.0,cash flow not found,cash flow not found
+2011,VIRT,1592386,5746902.0,cash flow not found,cash flow not found
+2011,ANAT,904163,3023027.0,0,-17588.0
+2011,CHK,895126,2728.0,0,tag not found
+2011,RRC,315852,Income statement not found,cash flow not found,cash flow not found
+2011,CDEV,1658566,Income statement not found,cash flow not found,cash flow not found
+2011,USM,821130,Income statement not found,cash flow not found,cash flow not found
+2011,AR,1433270,Income statement not found,cash flow not found,cash flow not found
+2011,ARD,1689662,Income statement not found,cash flow not found,cash flow not found
