@@ -1,7 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[13]:
+# #!/usr/bin/env python
+# # coding: utf-8
+#
+# # In[13]:
 
 
 import numpy as np
@@ -16,29 +16,28 @@ InteractiveShell.ast_node_interactivity = "all"
 # In[14]:
 
 
-sys.path.insert(0, "C:\\kt\\696\\KT\\CS696")
+sys.path.insert(0, r"/home/kajaltiwari/CS696/CS696_Stock_fundamental_prediction/")
 
-
-# In[15]:
-
+#
+# # In[15]:
+#
 
 from edgar.stock import Stock
 wb = xlrd.open_workbook('ticker_lists.xlsx')
-sheet = wb.sheet_by_index(0) 
+sheet = wb.sheet_by_index(0)
 stock_list=[]
-for i in range(4,985):
+for i in range(5,2956):
     stock_list.append(sheet.cell_value(i,0))
 
+# # In[16]:
+#
+#
 
-# In[16]:
-
-
-
-with open('Data_2018_10Q3.csv', mode='w' ,newline='') as file:
+with open('Data_2018.csv', mode='w' ,newline='') as file:
   file_writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
   file_writer.writerow(["year",'Company',"CIK", "Revenue", "NetIncomeLoss","Payments to acquire property"])
 
-            
+
 
 
 # In[17]:
@@ -50,15 +49,15 @@ rnd=['us-gaap:ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost','us-g
 prop=['us-gaap_PaymentsToAcquirePropertyPlantAndEquipment','us-gaap_PropertyPlantAndEquipmentNet','us-gaap_PaymentsToAcquireProductiveAssets']
 
 
-# In[ ]:
-
-
-
-
-
-# In[18]:
-
-
+# # In[ ]:
+#
+#
+#
+#
+#
+# # In[18]:
+#
+#
 cik_not_found=[]
 year_not_found=[]
 income_statements_error=[]
@@ -67,7 +66,7 @@ cash_flows_error=[]
 
 for y in range(2019,2020):
     for k in stock_list:
-        
+
         try:
             stock = Stock(k)
         except:
@@ -76,7 +75,7 @@ for y in range(2019,2020):
         period = 'quarterly'
 
         try:
-            filing = stock.get_filing(period,y,3)
+            filing = stock.get_filing('annual',y,1)
         except:
             year_not_found.append([k,y])
 
@@ -88,15 +87,15 @@ for y in range(2019,2020):
         try:
           balance_sheets = filing.get_balance_sheets()
           newdict_balance_sheets = balance_sheets.reports[0]
-        
-        
 
-       
+
+
+
         #print(type(income_statements),type(cash_flows))
-        
-            
+
+
         except:
-            
+
 
             balance_sheets_error.append(k)
         try:
@@ -107,9 +106,9 @@ for y in range(2019,2020):
 #         print("\n\n",income_statements)
 #         print("\n\n",cash_flows)
         #print(newdict_balance_sheets.map.keys())
-        with open('Data_2018_10Q3.csv', mode='a',newline='') as file:
+        with open('Data_2018.csv', mode='a',newline='') as file:
             file_writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        
+
             if income_statements:
                     print(income_statements)
                     print(newdict_income_statements.map.keys())
@@ -117,17 +116,17 @@ for y in range(2019,2020):
                     rnd='tag not found'
                     for i in revenue:
                           if i in newdict_income_statements.map.keys():
-                              
+
                               rev=newdict_income_statements.map[i].value
-                          
+
 
                     for m in newdict_income_statements.map.keys():
                           if m in rnd:
                               rnd=newdict_income_statements.map[m].value
-                          
-                      
-                        
-              
+
+
+
+
             else:
                 rev='Income statement not found'
                 rnd='Income statement not found'
@@ -138,17 +137,17 @@ for y in range(2019,2020):
                         if j in newdict_cash_flows.map.keys():
                         #print(i)
                             netincome=newdict_cash_flows.map[j].value
-                       
 
-              
+
+
                     for p in prop:
                         if p in newdict_cash_flows.map.keys():
                             paymentProp=newdict_cash_flows.map[p].value
-                       
-                            
-                        
-                      
-               
+
+
+
+
+
             else:
                 netincome='cash flow not found'
                 paymentProp='cash flow not found'
@@ -156,35 +155,19 @@ for y in range(2019,2020):
             file_writer.writerow([y-1,k,stock.cik, rev,netincome,paymentProp])
 
 
-# In[18]:
+f=open("Error_log_2018.txt","w")
+f.write("\nCIK not found \n")
+f.write(str(cik_not_found))
+f.write("\nYEAR not found \n")
+f.write(str(year_not_found))
+f.write("\nIncome Statement Not found \n")
+f.write(str(income_statements_error))
+f.write("\nBalance sheet not found \n")
+f.write(str(balance_sheets_error))
+f.write("\nCash flow not found \n")
+f.write(str(cash_flows_error))
 
-
-cik_not_found
-
-
-# In[19]:
-
-
-year_not_found
-
-
-# In[20]:
-
-
-income_statements_error
-
-
-# In[21]:
-
-
-balance_sheets_error
-
-
-# In[22]:
-
-
-cash_flows_error
-
+f.close()
 
 # In[ ]:
 
