@@ -33,7 +33,7 @@ for i in range(5,2956):
 #
 #
 
-with open('Data_2018.csv', mode='w' ,newline='') as file:
+with open('Data_2016_3k.csv', mode='w' ,newline='') as file:
   file_writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
   file_writer.writerow(["year",'Company',"CIK", "Revenue", "NetIncomeLoss","Payments to acquire property"])
 
@@ -64,7 +64,7 @@ income_statements_error=[]
 balance_sheets_error=[]
 cash_flows_error=[]
 
-for y in range(2019,2020):
+for y in range(2017,2018):
     for k in stock_list:
 
         try:
@@ -106,7 +106,7 @@ for y in range(2019,2020):
 #         print("\n\n",income_statements)
 #         print("\n\n",cash_flows)
         #print(newdict_balance_sheets.map.keys())
-        with open('Data_2018.csv', mode='a',newline='') as file:
+        with open('Data_2016_3k.csv', mode='a',newline='') as file:
             file_writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
             if income_statements:
