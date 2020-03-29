@@ -16,7 +16,7 @@ InteractiveShell.ast_node_interactivity = "all"
 # In[14]:
 
 
-sys.path.insert(0, r"/home/kajaltiwari/CS696/CS696_Stock_fundamental_prediction/")
+sys.path.insert(0, r"/home/kajaltiwari/CS696_Stock_fundamental_prediction/")
 
 #
 # # In[15]:
