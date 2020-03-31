@@ -1,0 +1,1 @@
+['Spotify Technology SA', 'Vistra Energy Corp.', 'Gardner Denver Holdings, Inc.', 'Ardagh Group S.A. Class A']
