@@ -20,7 +20,7 @@ doc_end_pattern = re.compile(r'</DOCUMENT>')
 ''' Regex to find <TYPE> tag prceeding any characters, terminating at new line '''
 type_pattern = re.compile(r'<TYPE>[^\n]+')
 
-''' Write the regex to get different sections from the 10-K '''
+''' Common regex to get different sections'''
 regex = re.compile(r'(>(\s|&#160;|&nbsp;)*item(\s|&#160;|&nbsp;)*(1(\s|&nbsp;|&#160;|&#160;\(|\(|)*a|6|1(\s|&nbsp;|&#160;|&#160;\(|\(|)*b|7(\s|&nbsp;|&#160;|&#160;\(|\(|)*a|7|8|2|4|3)\.{0,1})', re.I)
 
 class FilingsDownloader:

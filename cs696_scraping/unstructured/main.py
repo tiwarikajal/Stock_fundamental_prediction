@@ -12,11 +12,11 @@ if __name__== "__main__":
     fh.setLevel(logging.DEBUG)
     logger.addHandler(fh)
     downloadPath = "../../"
-    fieldnames = ['Ticker', "Company Name", "Industry","Top 100","Year"]
-    tickerList = "../../tickerList1K.csv"
+    fieldnames = ["Year","Company", "Industry","Top 100"]
+    tickerList = "../../tickerList3K.csv"
     logger.info("Start Time: "+str(dateTimeObj))
 #     downloadPath, tickerList, fieldnames,index=0, latest=10, sections=["item1a", "item7"], doc_type = "10-K"
-    companyLessthan10, companyWithNoData, erroneousCompanies,dataStats = writer.startWriting(downloadPath, tickerList, fieldnames,index=0,latest=10,sections = ["item1a", "item2"], doc_type = "10-K")
+    companyLessthan10, companyWithNoData, erroneousCompanies,dataStats = writer.startWriting(downloadPath, tickerList, fieldnames,index=0,latest=10,sections = ["item1a", "item7"], doc_type = "10-K")
     f = open("dataStats.txt","w+")
     f.write(json.dumps(dataStats))
     f.close()

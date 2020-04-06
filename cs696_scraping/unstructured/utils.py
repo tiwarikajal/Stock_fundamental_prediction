@@ -98,10 +98,10 @@ param: path: string , where the csv files will be created
        
 return: list of tuples, where first element of each tuple is the csv dict writer object and second is the file object
 """
-def createCSVWriters(path, fieldnames,num=10):
+def createCSVWriters(path, fieldnames,num, filename):
     writers = []
     for i in range(num):
-        f = open(os.path.join(path,"yoy" + str(i+1) + ".csv"), mode='w+', encoding="utf-8", newline='')
+        f = open(os.path.join(path,filename + ".csv"), mode='w+', encoding="utf-8", newline='')
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writers.append([writer,f])

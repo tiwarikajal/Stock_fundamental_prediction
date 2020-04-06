@@ -1,4 +1,4 @@
-from os import listdir
+from os import listdir, mkdir
 from os.path import isfile, join, isdir
 import csv
 import utils
@@ -22,9 +22,13 @@ def startWriting(downloadPath, tickerList, fieldnames,index=0, latest=10, sectio
     ''' SEC-Edgar module creates a folder 'sec_edgar_filings' in which it downloades the filings '''
     newPath = join(downloadPath, "sec_edgar_filings")
     companyFilingsPath = ""
-
+    
+    ''' Create data folder where company csv(s) will be stored'''
+#     os.mkdir(path)
+    dataPath = join(downloadPath, "data")
+    if not isdir(dataPath):
+        mkdir(dataPath)
     ''' loop through all folders i.e. companies '''
-    writers = utils.createCSVWriters("../../", fieldnames, num=11)
     downloader = FilingsDownloader(downloadPath)
     for i in range(index, len(df)):
         row = df.iloc[i]
@@ -57,7 +61,7 @@ def startWriting(downloadPath, tickerList, fieldnames,index=0, latest=10, sectio
         companyFilings = [(join(companyFilingsPath, f), f) for f in listdir(companyFilingsPath)]
         dataStats[row["Ticker"]]["totalfilings"] = len(companyFilings)
 
-
+        writers = utils.createCSVWriters(dataPath, fieldnames, num=1, filename=row['Ticker'])
         ''' Log the companies having less than 10 recent filings '''
         if len(companyFilings) <latest:
             companyLessthan10.append(row["Company Name"])
@@ -69,10 +73,9 @@ def startWriting(downloadPath, tickerList, fieldnames,index=0, latest=10, sectio
             extractor = SectionExtraction(doc_type)
 
             line = utils.formLine(fieldnames)
-            line["Company Name"] = row["Company Name"]
+            line["Company"] = row["Company Name"]
             line["Industry"] = row["Industry"]
             line["Top 100"] = row["Top 100"] if "Top 100" in row else "N/A"
-            line["Ticker"] = row['Ticker']
             ''' Get filing path and filing path '''
             filingPath, filingName = filing
 
@@ -83,17 +86,14 @@ def startWriting(downloadPath, tickerList, fieldnames,index=0, latest=10, sectio
             ''' Get year of the filling from the filing name '''
             ''' file name ex "0001283630-16-000038.txt", 2016 represents year in which 10k was filed and it was for year 2015 '''
             filingName = filingName.split("-")
-            line["Year"] = int(filingName[1])-1
-            writer_index = int(filingName[1])-10
+            line["Year"] = int(filingName[1])-1 + 2000
+            #writer_index = int(filingName[1])-10
             try:
                 sectionList = extractor.extractHTMLSections(textdata)
             except Exception as e:
-                if writer_index <0 or writer_index>=11:
-                    logger.info("Problem with the writer Index:{}, filing name: {}".format(writer_index, filingName))
-                    continue
                 for item in sections:
                     line[item] = e
-                writers[writer_index][0].writerow(line)
+                writers[0][0].writerow(line)
                 continue
             dataStats[row["Ticker"]]["years"].append(line["Year"])
             ''' Extracting Sections  '''
@@ -115,15 +115,14 @@ def startWriting(downloadPath, tickerList, fieldnames,index=0, latest=10, sectio
 #                     erroneousCompanies.append((e, row["Company Name"]))
                     line[item] = e
                     dataStats[row["Ticker"]][item].append(0)
-
+                    continue
             ''' write to csv file '''
            
-            if writer_index <0 or writer_index>=11:
-                logger.info("Problem with the writer Index: {}, filingsName:{}".format(writer_index, filingName))
-                continue
+            #if writer_index <0 or writer_index>=11:
+            #    logger.info("Problem with the writer Index: {}, filingsName:{}".format(writer_index, filingName))
+            #    continue
 
-            writers[writer_index][0].writerow(line)
+            writers[0][0].writerow(line)
         downloader.removefilings(join(newPath, row['Ticker']))
-
-    utils.closeWriters(writers)
+        utils.closeWriters(writers)
     return companyLessthan10, companyWithNoData, erroneousCompanies,dataStats
