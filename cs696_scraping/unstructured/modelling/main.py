@@ -3,12 +3,12 @@ from model import UnStructuredModel
 import pandas as pd
 from os import listdir, mkdir
 from os.path import isfile, join, isdir
-files_path = "../../../"
+files_path = "./"
 
-# files = ["yoy1.csv", "yoy2.csv", "yoy3.csv", "yoy4.csv", "yoy5.csv", "yoy6.csv", "yoy7.csv", "yoy8.csv", "yoy9.csv", "yoy10.csv","yoy11.csv"]
+files = ["yoy1.csv", "yoy2.csv", "yoy3.csv", "yoy4.csv", "yoy5.csv", "yoy6.csv", "yoy7.csv", "yoy8.csv", "yoy9.csv", "yoy10.csv","yoy11.csv"]
 
 
-files = ["yoy13.csv", "yoy12.csv"]
+# files = ["yoy3.csv", "yoy12.csv"]
 sections = ["Ticker", "Company Name", "Industry", "Top 100", "item1a", "item2"]
 param_sections = ["item1a", "item2"]
 max_length = 500

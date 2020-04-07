@@ -30,6 +30,8 @@ class UnStructuredModel:
         tokenized_array = self.tokenizeText(tokens)
         embeddingTensorsList = [] 
         print(len(tokenized_array))
+        tensor = torch.zeros([batchsize, 768], dtype=torch.float64, device=device)
+        count = 0
         if len(tokenized_array)>batchsize:
             for i in range(0, len(tokenized_array), batchsize):
                 current_tokens = tokenized_array[i:min(i+batchsize,len(tokenized_array))]
@@ -37,16 +39,21 @@ class UnStructuredModel:
                 seg_ids=[[0 for _ in range(len(tokenized_array[0]))] for _ in range(len(current_tokens))]
                 seg_ids   = torch.tensor(seg_ids).to(device)
                 hidden_reps, cls_head = self.model(token_ids, token_type_ids = seg_ids)
-                embeddingTensorsList.append(cls_head)
-            embedding = torch.cat(embeddingTensorsList, dim=0)
+                if if_pool and pooling_type=="mean":
+                    tensor.add(cls_head)
+                    count +=1
+                else:
+                    embeddingTensorsList.append(cls_head)
+            if if_pool and pooling_type=="mean" and count>0:
+                embedding = torch.div(tensor, count)
+            else:
+                embedding = torch.cat(embeddingTensorsList, dim=0)
         else:
             token_ids = torch.tensor(tokenized_array).to(device)
             seg_ids=[[0 for _ in range(len(tokenized_array[0]))] for _ in range(len(tokenized_array))]
             seg_ids   = torch.tensor(seg_ids).to(device)
             hidden_reps, cls_head = self.model(token_ids, token_type_ids = seg_ids)
             embedding = cls_head
-        if if_pool and pooling_type=="mean":
-            embedding = torch.mean(embedding, dim=0)
         return embedding
 
     def tokenizeText(self, tokens):
