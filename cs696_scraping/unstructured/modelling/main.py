@@ -5,10 +5,10 @@ from os import listdir, mkdir
 from os.path import isfile, join, isdir
 files_path = "../../../"
 
-files = ["yoy1.csv", "yoy2.csv", "yoy3.csv", "yoy4.csv", "yoy5.csv", "yoy6.csv", "yoy7.csv", "yoy8.csv", "yoy9.csv", "yoy10.csv","yoy11.csv"]
+# files = ["yoy1.csv", "yoy2.csv", "yoy3.csv", "yoy4.csv", "yoy5.csv", "yoy6.csv", "yoy7.csv", "yoy8.csv", "yoy9.csv", "yoy10.csv","yoy11.csv"]
 
 
-# files = ["yoy13.csv", "yoy12.csv"]
+files = ["yoy13.csv", "yoy12.csv"]
 sections = ["Ticker", "Company Name", "Industry", "Top 100", "item1a", "item2"]
 param_sections = ["item1a", "item2"]
 max_length = 500
@@ -26,7 +26,7 @@ def main():
         for i in range(len(df)):
             row = df.iloc[i]
             embeddingDict = {}
-            embeddingFile = join(embeddingsPath, row["Ticker"] + ".pt")
+            embeddingFile = join(embeddingsPath, row["Ticker"] +'_'+str(int(row["Year"]) + 2000) + ".pt")
             if isfile(embeddingFile):
                 embeddingDict = torch.load(embeddingFile)
             for section in sections:
@@ -34,9 +34,7 @@ def main():
                     embeddingDict[section] = row[section]
             for section in param_sections:
                 if section in row.keys() and len(row[section])>100:
-                    if section not in embeddingDict.keys():
-                        embeddingDict[section] = {}
-                    embeddingDict[section][int(row["Year"]) + 2000] = unstructuredmodel.getEmbedding(text=row[section],if_pool=False)
+                    embeddingDict[section] = unstructuredmodel.getEmbedding(text=row[section],if_pool=True)
                         
             torch.save(embeddingDict,embeddingFile)     
 

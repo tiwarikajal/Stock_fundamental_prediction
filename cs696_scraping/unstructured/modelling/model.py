@@ -15,6 +15,8 @@ class UnStructuredModel:
             configuration = BertConfig()
             self.tokenizer = BertTokenizer.from_pretrained(self.model_name)
             self.model = BertModel(configuration).from_pretrained(self.model_name)
+            self.model.to(device)
+            self.model.eval()
             
         
 
