@@ -4,14 +4,24 @@ import csv
 import utils
 from sectionExtraction import SectionExtraction, FilingsDownloader
 import pandas as pd
+import requests
 import logging
+import re
+from collections import defaultdict
 logger = logging.getLogger('structured')
 
 exceptions = {'Brookfield Property REIT Inc Class A':1496048, 'Liberty Media Corporation Series A Liberty Formula One':1560385, 'Vistra Energy Corp.':1692819 , 'IAA, Inc.':1745041, 'Gardner Denver Holdings, Inc.':1699150}
 
+foldername = 'datalinks'
+
+def startWriting(downloadPath, tickerList, fieldnames,links=True,latest=10, index=0,  sections=["item1a", "item7"], doc_type = "10-K"):
+    if links:
+        startWritingUsingLinks(downloadPath, tickerList, fieldnames, index=0, sections=["item1a", "item7"], doc_type = "10-K")
+    else:
+        startWritingUsingDownloads(downloadPath, tickerList, fieldnames,latest=10,index=0,  sections=["item1a", "item7"], doc_type = "10-K")
 
 
-def startWriting(downloadPath, tickerList, fieldnames,index=0, latest=10, sections=["item1a", "item7"], doc_type = "10-K"):
+def startWritingUsingDownloads(downloadPath, tickerList, fieldnames,index=0, latest=10, sections=["item1a", "item7"], doc_type = "10-K"):
     ''' Get List of all the folders concatenated with its relative path '''
     companyLessthan10 = []
     companyWithNoData = []
@@ -25,7 +35,7 @@ def startWriting(downloadPath, tickerList, fieldnames,index=0, latest=10, sectio
     
     ''' Create data folder where company csv(s) will be stored'''
 #     os.mkdir(path)
-    dataPath = join(downloadPath, "data")
+    dataPath = join(downloadPath, foldername)
     if not isdir(dataPath):
         mkdir(dataPath)
     ''' loop through all folders i.e. companies '''
@@ -126,3 +136,85 @@ def startWriting(downloadPath, tickerList, fieldnames,index=0, latest=10, sectio
         downloader.removefilings(join(newPath, row['Ticker']))
         utils.closeWriters(writers)
     return companyLessthan10, companyWithNoData, erroneousCompanies,dataStats
+
+
+
+
+def startWritingUsingLinks(downloadPath, tickerList, fieldnames, index=0, sections=["item1a", "item7"], doc_type = "10-K"):
+    ''' Get List of all the folders concatenated with its relative path '''
+    fieldnames.extend(sections)
+    df = pd.read_csv(tickerList)
+    dataStats = {}
+    ''' Create data folder where company csv(s) will be stored'''
+    dataPath = join(downloadPath, foldername)
+    if not isdir(dataPath):
+        mkdir(dataPath)
+    for i in range(index, len(df)):
+        row = df.iloc[i]
+        ''' Download latest 10 filings for the Company '''
+        logger.info("Downloading Link: {}  Filings for {}, year:{}".format(row["Form10KLink"], row["Ticker"],row["FilingDate"]))
+        writers = []
+        date = row["FiscalPeriodEnd"].split("/")
+        year = int(date[2])-1
+        if isfile(join(dataPath,row['Ticker']+".csv")):
+            f = open(join(dataPath,row['Ticker']+".csv"), mode='w+', encoding="utf-8", newline='')
+            reader = csv.DictReader(f)
+            foundYear = False
+            for csvrow in reader:
+                if csvrow["Year"] == year:
+                    for item in sections:
+                        foundYear = True
+                        if not len(csvrow["item"])<100:
+                            foundYear = False
+                            break
+              
+            if not foundYear:                
+                writer = csv.DictWriter(f, fieldnames=fieldnames)
+                writers.append([writer,f])
+            else:
+                continue
+        else:
+            writers = utils.createCSVWriters(dataPath, fieldnames, num=1, filename=row['Ticker'])
+        try:
+            link = row["Form10KLink"]
+            link = re.sub('\/(ix\?doc=)\/', '//', link)
+            r_obj = requests.get(link)
+            textdata = str(r_obj.content)
+        except Exception as e:
+            continue
+        line = utils.formLine(fieldnames)
+        line["CIK"] = row["CIK"]
+        line["Form10KName"] = row["Form10KName"]
+        line["IndexLink"] = row["IndexLink"]
+        line["DocIndex"] = row["DocIndex"]
+        line["Description"] = row["Description"]
+        date = row["FiscalPeriodEnd"].split("/")
+        line["Year"] = year
+
+        extractor = SectionExtraction(doc_type)
+        try:
+            sectionList = extractor.extractHTMLSectionsFromLinks(textdata)
+        except Exception as e:
+            continue
+        ''' Extracting Sections  '''
+        for item in sections:
+            try:
+                if item in sectionList:
+                    line[item] = extractor.extractTextFromSection(key =item)
+                else:
+                    logger.info(" {} not in section list for Company Name: {}, path: {}".format(item, row["Ticker"], row["Form10KLink"]))
+                if len(line[item]) <100:
+                    line[item] = ""
+                    logger.info("empty text, Company Name: {}, filing:{} ".format(row["Ticker"], row["10KLink"]))
+                else:
+                    if row["Ticker"] not in dataStats.keys():
+                        dataStats[row["Ticker"]] = defaultdict(int)
+                    dataStats[row["Ticker"]][item] +=1
+                logger.info("Extracted {} Length:{}".format(item,len(line[item])))
+            except Exception as e:
+                line[item] = ""
+                continue
+        ''' write to csv file '''
+        writers[0][0].writerow(line)
+        utils.closeWriters(writers)
+    return dataStats

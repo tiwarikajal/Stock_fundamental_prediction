@@ -127,3 +127,35 @@ class SectionExtraction:
         else:
             logger.info("{} not found".format(key))
             return ""
+    def extractHTMLSectionsFromLinks(self, raw_10k):
+        
+        try:
+            ''' Create 3 lists with the span idices for each regex '''
+            self.document[self.doc_type] = raw_10k
+            ''' Use finditer to math the regex '''
+            matches = regex.finditer(self.document[self.doc_type])
+
+            ''' Create the dataframe '''
+            test_df = pd.DataFrame([(x.group(), x.start(), x.end()) for x in matches])
+
+            test_df.columns = ['item', 'start', 'end']
+            test_df['item'] = test_df.item.str.lower()
+
+            ''' Get rid of unnesesary charcters from the dataframe '''
+            test_df.replace('&#160;ris',' ',regex=True,inplace=True)
+            test_df.replace('&#160;unresolve',' ',regex=True,inplace=True)
+            test_df.replace('&#160;',' ',regex=True,inplace=True)
+            test_df.replace('&nbsp;',' ',regex=True,inplace=True)
+            test_df.replace(' ','',regex=True,inplace=True)
+            test_df.replace('\.','',regex=True,inplace=True)
+            test_df.replace('>','',regex=True,inplace=True)
+            test_df.replace('\n','',regex=True,inplace=True)
+            test_df.replace('\(','',regex=True,inplace=True)
+
+            ''' Aggregate the different parts of the sane section '''
+            self.pos_dat = test_df.groupby(['item']).agg({'start': utils.customsort, 'end': 'max'})
+            logger.info("Sections Extracted:{}".format(list(self.pos_dat.index)))
+        #     print("send any section name as printed")
+            return list(self.pos_dat.index)
+        except ValueError as e:
+            raise ValueError
