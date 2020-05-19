@@ -1,0 +1,5 @@
+/cm/local/apps/slurm/var/spool/job6498901/slurm_script: line 10: modele: command not found
+cuda
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 6498901 ON node060 CANCELLED AT 2020-04-30T00:29:44 ***
+slurmstepd: error: *** STEP 6498901.0 ON node060 CANCELLED AT 2020-04-30T00:29:44 ***

@@ -1,0 +1,981 @@
+Ticker,Company Name,Industry,Top 100
+AAPL,Apple Inc.,Technology Hardware Storage & Peripherals,1
+MSFT,Microsoft Corporation,Software,1
+AMZN,"Amazon.com, Inc.",Internet & Direct Marketing Retail,1
+FB,"Facebook, Inc. Class A",Interactive Media & Services,1
+BRKB,Berkshire Hathaway Inc. Class B,Diversified Financial Services,1
+GOOGL,Alphabet Inc. Class A,Interactive Media & Services,1
+JPM,JPMorgan Chase & Co.,Banks,1
+JNJ,Johnson & Johnson,Pharmaceuticals,1
+V,Visa Inc. Class A,IT Services,1
+PG,Procter & Gamble Company,Household Products,1
+INTC,Intel Corporation,Semiconductors & Semiconductor Equipment,1
+MA,Mastercard Incorporated Class A,IT Services,1
+BAC,Bank of America Corp,Banks,1
+UNH,UnitedHealth Group Incorporated,Health Care Providers & Services,1
+T,AT&T Inc.,Diversified Telecommunication Services,1
+XOM,Exxon Mobil Corporation,Oil Gas & Consumable Fuels,1
+HD,"Home Depot, Inc.",Specialty Retail,1
+DIS,Walt Disney Company,Entertainment,1
+VZ,Verizon Communications Inc.,Diversified Telecommunication Services,1
+KO,Coca-Cola Company,Beverages,1
+MRK,"Merck & Co., Inc.",Pharmaceuticals,1
+PFE,Pfizer Inc.,Pharmaceuticals,1
+CVX,Chevron Corporation,Oil Gas & Consumable Fuels,1
+CSCO,"Cisco Systems, Inc.",Communications Equipment,1
+PEP,"PepsiCo, Inc.",Beverages,1
+CMCSA,Comcast Corporation Class A,Media,1
+WFC,Wells Fargo & Company,Banks,1
+ADBE,Adobe Inc.,Software,1
+BA,Boeing Company,Aerospace & Defense,1
+C,Citigroup Inc.,Banks,1
+WMT,Walmart Inc.,Food & Staples Retailing,1
+MDT,Medtronic Plc,Health Care Equipment & Supplies,1
+MCD,McDonald's Corporation,Hotels Restaurants & Leisure,1
+NFLX,"Netflix, Inc.",Entertainment,1
+ABT,Abbott Laboratories,Health Care Equipment & Supplies,1
+CRM,"salesforce.com, inc.",Software,1
+BMY,Bristol-Myers Squibb Company,Pharmaceuticals,1
+NVDA,NVIDIA Corporation,Semiconductors & Semiconductor Equipment,1
+PYPL,PayPal Holdings Inc,IT Services,1
+AMGN,Amgen Inc.,Biotechnology,1
+IBM,International Business Machines Corporation,IT Services,1
+COST,Costco Wholesale Corporation,Food & Staples Retailing,1
+ACN,Accenture Plc Class A,IT Services,1
+TMO,Thermo Fisher Scientific Inc.,Life Sciences Tools & Services,1
+PM,Philip Morris International Inc.,Tobacco,1
+NEE,"NextEra Energy, Inc.",Electric Utilities,1
+UNP,Union Pacific Corporation,Road & Rail,1
+ABBV,"AbbVie, Inc.",Biotechnology,1
+HON,Honeywell International Inc.,Industrial Conglomerates,1
+UTX,United Technologies Corporation,Aerospace & Defense,1
+LLY,Eli Lilly and Company,Pharmaceuticals,1
+TXN,Texas Instruments Incorporated,Semiconductors & Semiconductor Equipment,1
+NKE,"NIKE, Inc. Class B",Textiles Apparel & Luxury Goods,1
+AVGO,Broadcom Inc.,Semiconductors & Semiconductor Equipment,1
+LIN,Linde plc,Chemicals,1
+ORCL,Oracle Corporation,Software,1
+GE,General Electric Company,Industrial Conglomerates,1
+LMT,Lockheed Martin Corporation,Aerospace & Defense,1
+TSLA,Tesla Inc,Automobiles,1
+QCOM,QUALCOMM Incorporated,Semiconductors & Semiconductor Equipment,1
+AMT,American Tower Corporation,Equity Real Estate Investment Trusts (REITs),1
+SBUX,Starbucks Corporation,Hotels Restaurants & Leisure,1
+DHR,Danaher Corporation,Health Care Equipment & Supplies,1
+LOW,"Lowe's Companies, Inc.",Specialty Retail,1
+CVS,CVS Health Corporation,Health Care Providers & Services,1
+MMM,3M Company,Industrial Conglomerates,1
+AXP,American Express Company,Consumer Finance,1
+FIS,"Fidelity National Information Services, Inc.",IT Services,1
+MO,Altria Group Inc,Tobacco,1
+GILD,"Gilead Sciences, Inc.",Biotechnology,1
+MDLZ,"Mondelez International, Inc. Class A",Food Products,1
+BKNG,Booking Holdings Inc.,Internet & Direct Marketing Retail,1
+CHTR,"Charter Communications, Inc. Class A",Media,1
+USB,U.S. Bancorp,Banks,1
+GS,"Goldman Sachs Group, Inc.",Capital Markets,1
+ADP,"Automatic Data Processing, Inc.",IT Services,1
+BDX,"Becton, Dickinson and Company",Health Care Equipment & Supplies,1
+CI,Cigna Corporation,Health Care Providers & Services,1
+CME,CME Group Inc. Class A,Capital Markets,1
+TJX,TJX Companies Inc,Specialty Retail,1
+SYK,Stryker Corporation,Health Care Equipment & Supplies,1
+CB,Chubb Limited,Insurance,1
+UPS,"United Parcel Service, Inc. Class B",Air Freight & Logistics,1
+CAT,Caterpillar Inc.,Machinery,1
+ANTM,"Anthem, Inc.",Health Care Providers & Services,1
+TFC,Truist Financial Corporation,Banks,1
+SPGI,"S&P Global, Inc.",Capital Markets,1
+INTU,Intuit Inc.,Software,1
+SO,Southern Company,Electric Utilities,1
+DUK,Duke Energy Corporation,Electric Utilities,1
+D,Dominion Energy Inc,Multi-Utilities,1
+FISV,"Fiserv, Inc.",IT Services,1
+PLD,"Prologis, Inc.",Equity Real Estate Investment Trusts (REITs),1
+PNC,"PNC Financial Services Group, Inc.",Banks,1
+ISRG,"Intuitive Surgical, Inc.",Health Care Equipment & Supplies,1
+ZTS,"Zoetis, Inc. Class A",Pharmaceuticals,1
+COP,ConocoPhillips,Oil Gas & Consumable Fuels,1
+BLK,"BlackRock, Inc.",Capital Markets,1
+MS,Morgan Stanley,Capital Markets,1
+CL,Colgate-Palmolive Company,Household Products,1
+RTN,Raytheon Company,Aerospace & Defense,0
+NOW,"ServiceNow, Inc.",Software,0
+AGN,Allergan plc,Pharmaceuticals,0
+MU,"Micron Technology, Inc.",Semiconductors & Semiconductor Equipment,0
+CCI,Crown Castle International Corp,Equity Real Estate Investment Trusts (REITs),0
+VRTX,Vertex Pharmaceuticals Incorporated,Biotechnology,0
+BIIB,Biogen Inc.,Biotechnology,0
+GPN,Global Payments Inc.,IT Services,0
+ITW,Illinois Tool Works Inc.,Machinery,0
+BSX,Boston Scientific Corporation,Health Care Equipment & Supplies,0
+MMC,"Marsh & McLennan Companies, Inc.",Insurance,0
+AMAT,"Applied Materials, Inc.",Semiconductors & Semiconductor Equipment,0
+CSX,CSX Corporation,Road & Rail,0
+NOC,Northrop Grumman Corporation,Aerospace & Defense,0
+TGT,Target Corporation,Multiline Retail,0
+NSC,Norfolk Southern Corporation,Road & Rail,0
+SCHW,Charles Schwab Corporation,Capital Markets,0
+APD,"Air Products and Chemicals, Inc.",Chemicals,0
+AON,Aon plc,Insurance,0
+DE,Deere & Company,Machinery,0
+WM,"Waste Management, Inc.",Commercial Services & Supplies,0
+ECL,Ecolab Inc.,Chemicals,0
+AMD,"Advanced Micro Devices, Inc.",Semiconductors & Semiconductor Equipment,0
+EQIX,"Equinix, Inc.",Equity Real Estate Investment Trusts (REITs),0
+ICE,"Intercontinental Exchange, Inc.",Capital Markets,0
+AEP,"American Electric Power Company, Inc.",Electric Utilities,0
+KMB,Kimberly-Clark Corporation,Household Products,0
+LHX,L3Harris Technologies Inc,Aerospace & Defense,0
+COF,Capital One Financial Corporation,Consumer Finance,0
+SLB,Schlumberger NV,Energy Equipment & Services,0
+PGR,Progressive Corporation,Insurance,0
+SHW,Sherwin-Williams Company,Chemicals,0
+HUM,Humana Inc.,Health Care Providers & Services,0
+EW,Edwards Lifesciences Corporation,Health Care Equipment & Supplies,0
+LRCX,Lam Research Corporation,Semiconductors & Semiconductor Equipment,0
+EXC,Exelon Corporation,Electric Utilities,0
+GD,General Dynamics Corporation,Aerospace & Defense,0
+EMR,Emerson Electric Co.,Electrical Equipment,0
+AIG,"American International Group, Inc.",Insurance,0
+SRE,Sempra Energy,Multi-Utilities,0
+EOG,"EOG Resources, Inc.",Oil Gas & Consumable Fuels,0
+ATVI,"Activision Blizzard, Inc.",Entertainment,0
+ADSK,"Autodesk, Inc.",Software,0
+BAX,Baxter International Inc.,Health Care Equipment & Supplies,0
+ILMN,"Illumina, Inc.",Life Sciences Tools & Services,0
+EL,Estee Lauder Companies Inc. Class A,Personal Products,0
+GM,General Motors Company,Automobiles,0
+MCO,Moody's Corporation,Capital Markets,0
+SPG,"Simon Property Group, Inc.",Equity Real Estate Investment Trusts (REITs),0
+ADI,"Analog Devices, Inc.",Semiconductors & Semiconductor Equipment,0
+ETN,Eaton Corp. Plc,Electrical Equipment,0
+ROST,"Ross Stores, Inc.",Specialty Retail,0
+PSX,Phillips 66,Oil Gas & Consumable Fuels,0
+KMI,Kinder Morgan Inc Class P,Oil Gas & Consumable Fuels,0
+DG,Dollar General Corporation,Multiline Retail,0
+HCA,HCA Healthcare Inc,Health Care Providers & Services,0
+MAR,"Marriott International, Inc. Class A",Hotels Restaurants & Leisure,0
+ALL,Allstate Corporation,Insurance,0
+DD,"DuPont de Nemours, Inc.",Chemicals,0
+MET,"MetLife, Inc.",Insurance,0
+WBA,Walgreens Boots Alliance Inc,Food & Staples Retailing,0
+ROP,"Roper Technologies, Inc.",Industrial Conglomerates,0
+PRU,"Prudential Financial, Inc.",Insurance,0
+AFL,Aflac Incorporated,Insurance,0
+BK,Bank of New York Mellon Corporation,Capital Markets,0
+CNC,Centene Corporation,Health Care Providers & Services,0
+OXY,Occidental Petroleum Corporation,Oil Gas & Consumable Fuels,0
+DOW,"Dow, Inc.",Chemicals,0
+XEL,Xcel Energy Inc.,Electric Utilities,0
+NEM,Newmont Corporation,Metals & Mining,0
+FDX,FedEx Corporation,Air Freight & Logistics,0
+SYY,Sysco Corporation,Food & Staples Retailing,0
+CTSH,Cognizant Technology Solutions Corporation Class A,IT Services,0
+MPC,Marathon Petroleum Corporation,Oil Gas & Consumable Fuels,0
+TRV,"Travelers Companies, Inc.",Insurance,0
+UBER,"Uber Technologies, Inc.",Road & Rail,0
+VLO,Valero Energy Corporation,Oil Gas & Consumable Fuels,0
+IR,Ingersoll-Rand Plc,Machinery,0
+WELL,"Welltower, Inc.",Equity Real Estate Investment Trusts (REITs),0
+DAL,"Delta Air Lines, Inc.",Airlines,0
+PSA,Public Storage,Equity Real Estate Investment Trusts (REITs),0
+F,Ford Motor Company,Automobiles,0
+ZBH,"Zimmer Biomet Holdings, Inc.",Health Care Equipment & Supplies,0
+YUM,"Yum! Brands, Inc.",Hotels Restaurants & Leisure,0
+HPQ,HP Inc.,Technology Hardware Storage & Peripherals,0
+INFO,IHS Markit Ltd.,Professional Services,0
+WEC,WEC Energy Group Inc,Multi-Utilities,0
+HLT,Hilton Worldwide Holdings Inc,Hotels Restaurants & Leisure,0
+GIS,"General Mills, Inc.",Food Products,0
+TROW,T. Rowe Price Group,Capital Markets,0
+EA,Electronic Arts Inc.,Entertainment,0
+OKE,"ONEOK, Inc.",Oil Gas & Consumable Fuels,0
+STZ,"Constellation Brands, Inc. Class A",Beverages,0
+ORLY,"O'Reilly Automotive, Inc.",Specialty Retail,0
+ED,"Consolidated Edison, Inc.",Multi-Utilities,0
+JCI,Johnson Controls International plc,Building Products,0
+TDG,TransDigm Group Incorporated,Aerospace & Defense,0
+WDAY,"Workday, Inc. Class A",Software,0
+APH,Amphenol Corporation Class A,Electronic Equipment Instruments & Components,0
+EQR,Equity Residential,Equity Real Estate Investment Trusts (REITs),0
+REGN,"Regeneron Pharmaceuticals, Inc.",Biotechnology,0
+AVB,"AvalonBay Communities, Inc.",Equity Real Estate Investment Trusts (REITs),0
+MSI,"Motorola Solutions, Inc.",Communications Equipment,0
+PEG,Public Service Enterprise Group Inc,Multi-Utilities,0
+PPG,"PPG Industries, Inc.",Chemicals,0
+ES,Eversource Energy,Electric Utilities,0
+STT,State Street Corporation,Capital Markets,0
+LULU,Lululemon Athletica Inc,Textiles Apparel & Luxury Goods,0
+EBAY,eBay Inc.,Internet & Direct Marketing Retail,0
+SBAC,SBA Communications Corp. Class A,Equity Real Estate Investment Trusts (REITs),0
+WLTW,Willis Towers Watson Public Limited Company,Insurance,0
+PAYX,"Paychex, Inc.",IT Services,0
+IQV,IQVIA Holdings Inc,Life Sciences Tools & Services,0
+FE,FirstEnergy Corp.,Electric Utilities,0
+FLT,"FleetCor Technologies, Inc.",IT Services,0
+MCK,McKesson Corporation,Health Care Providers & Services,0
+KLAC,KLA Corporation,Semiconductors & Semiconductor Equipment,0
+EIX,Edison International,Electric Utilities,0
+PH,Parker-Hannifin Corporation,Machinery,0
+LUV,Southwest Airlines Co.,Airlines,0
+SQ,"Square, Inc. Class A",IT Services,0
+VRSK,Verisk Analytics Inc,Professional Services,0
+PCAR,PACCAR Inc,Machinery,0
+A,"Agilent Technologies, Inc.",Life Sciences Tools & Services,0
+MNST,Monster Beverage Corporation,Beverages,0
+PPL,PPL Corporation,Electric Utilities,0
+WMB,"Williams Companies, Inc.",Oil Gas & Consumable Fuels,0
+VFC,V.F. Corporation,Textiles Apparel & Luxury Goods,0
+ETR,Entergy Corporation,Electric Utilities,0
+DLR,"Digital Realty Trust, Inc.",Equity Real Estate Investment Trusts (REITs),0
+ADM,Archer-Daniels-Midland Company,Food Products,0
+TMUS,"T-Mobile US, Inc.",Wireless Telecommunication Services,0
+O,Realty Income Corporation,Equity Real Estate Investment Trusts (REITs),0
+AZO,"AutoZone, Inc.",Specialty Retail,0
+SWK,"Stanley Black & Decker, Inc.",Machinery,0
+TWTR,"Twitter, Inc.",Interactive Media & Services,0
+SPLK,Splunk Inc.,Software,0
+MCHP,Microchip Technology Incorporated,Semiconductors & Semiconductor Equipment,0
+CMI,Cummins Inc.,Machinery,0
+DTE,DTE Energy Company,Multi-Utilities,0
+BLL,Ball Corporation,Containers & Packaging,0
+CERN,Cerner Corporation,Health Care Technology,0
+AWK,"American Water Works Company, Inc.",Water Utilities,0
+CTAS,Cintas Corporation,Commercial Services & Supplies,0
+MSCI,MSCI Inc. Class A,Capital Markets,0
+DFS,Discover Financial Services,Consumer Finance,0
+TSN,"Tyson Foods, Inc. Class A",Food Products,0
+CSGP,"CoStar Group, Inc.",Professional Services,0
+CTVA,Corteva Inc,Chemicals,0
+RMD,ResMed Inc.,Health Care Equipment & Supplies,0
+ANSS,"ANSYS, Inc.",Software,0
+ROK,"Rockwell Automation, Inc.",Electrical Equipment,0
+PXD,Pioneer Natural Resources Company,Oil Gas & Consumable Fuels,0
+APTV,Aptiv PLC,Auto Components,0
+IDXX,"IDEXX Laboratories, Inc.",Health Care Equipment & Supplies,0
+LVS,Las Vegas Sands Corp.,Hotels Restaurants & Leisure,0
+SNPS,"Synopsys, Inc.",Software,0
+FTV,Fortive Corp.,Machinery,0
+PANW,"Palo Alto Networks, Inc.",Software,0
+MTB,M&T Bank Corporation,Banks,0
+AME,"AMETEK, Inc.",Electrical Equipment,0
+XLNX,"Xilinx, Inc.",Semiconductors & Semiconductor Equipment,0
+BXP,"Boston Properties, Inc.",Equity Real Estate Investment Trusts (REITs),0
+LYB,LyondellBasell Industries NV,Chemicals,0
+KR,Kroger Co.,Food & Staples Retailing,0
+AMP,"Ameriprise Financial, Inc.",Capital Markets,0
+ALXN,"Alexion Pharmaceuticals, Inc.",Biotechnology,0
+HSY,Hershey Company,Food Products,0
+VRSN,"VeriSign, Inc.",IT Services,0
+CMG,"Chipotle Mexican Grill, Inc.",Hotels Restaurants & Leisure,0
+VTR,"Ventas, Inc.",Equity Real Estate Investment Trusts (REITs),0
+DXCM,"DexCom, Inc.",Health Care Equipment & Supplies,0
+SYF,Synchrony Financial,Consumer Finance,0
+FAST,Fastenal Company,Trading Companies & Distributors,0
+WY,Weyerhaeuser Company,Equity Real Estate Investment Trusts (REITs),0
+CBRE,"CBRE Group, Inc. Class A",Real Estate Management & Development,0
+GLW,Corning Inc,Electronic Equipment Instruments & Components,0
+FITB,Fifth Third Bancorp,Banks,0
+HIG,"Hartford Financial Services Group, Inc.",Insurance,0
+DLTR,"Dollar Tree, Inc.",Multiline Retail,0
+ALGN,"Align Technology, Inc.",Health Care Equipment & Supplies,0
+CLX,Clorox Company,Household Products,0
+CDNS,"Cadence Design Systems, Inc.",Software,0
+RSG,"Republic Services, Inc.",Commercial Services & Supplies,0
+CPRT,"Copart, Inc.",Commercial Services & Supplies,0
+SWKS,"Skyworks Solutions, Inc.",Semiconductors & Semiconductor Equipment,0
+ESS,"Essex Property Trust, Inc.",Equity Real Estate Investment Trusts (REITs),0
+RCL,Royal Caribbean Cruises Ltd.,Hotels Restaurants & Leisure,0
+WDC,Western Digital Corporation,Technology Hardware Storage & Peripherals,0
+AEE,Ameren Corporation,Multi-Utilities,0
+BBY,"Best Buy Co., Inc.",Specialty Retail,0
+NTRS,Northern Trust Corporation,Capital Markets,0
+DHI,"D.R. Horton, Inc.",Household Durables,0
+MKC,"McCormick & Company, Incorporated",Food Products,0
+VEEV,Veeva Systems Inc Class A,Health Care Technology,0
+HAL,Halliburton Company,Energy Equipment & Services,0
+KEY,KeyCorp,Banks,0
+VMC,Vulcan Materials Company,Construction Materials,0
+HPE,Hewlett Packard Enterprise Co.,Technology Hardware Storage & Peripherals,0
+CDW,CDW Corp.,Electronic Equipment Instruments & Components,0
+FRC,First Republic Bank,Banks,0
+AJG,Arthur J. Gallagher & Co.,Insurance,0
+CMS,CMS Energy Corporation,Multi-Utilities,0
+ARE,"Alexandria Real Estate Equities, Inc.",Equity Real Estate Investment Trusts (REITs),0
+UAL,"United Airlines Holdings, Inc.",Airlines,0
+EFX,Equifax Inc.,Professional Services,0
+LEN,Lennar Corporation Class A,Household Durables,0
+MTD,Mettler-Toledo International Inc.,Life Sciences Tools & Services,0
+VIAC,ViacomCBS Inc. Class B,Media,0
+KHC,Kraft Heinz Company,Food Products,0
+CHD,"Church & Dwight Co., Inc.",Household Products,0
+FCX,"Freeport-McMoRan, Inc.",Metals & Mining,0
+KEYS,Keysight Technologies Inc,Electronic Equipment Instruments & Components,0
+PEAK,"Healthpeak Properties, Inc.",Equity Real Estate Investment Trusts (REITs),0
+LH,Laboratory Corporation of America Holdings,Health Care Providers & Services,0
+TFX,Teleflex Incorporated,Health Care Equipment & Supplies,0
+TRU,TransUnion,Professional Services,0
+IAC,IAC/InterActiveCorp.,Interactive Media & Services,0
+CCL,Carnival Corporation,Hotels Restaurants & Leisure,0
+ACGL,Arch Capital Group Ltd.,Insurance,0
+MXIM,"Maxim Integrated Products, Inc.",Semiconductors & Semiconductor Equipment,0
+SPOT,Spotify Technology SA,Entertainment,0
+IP,International Paper Company,Containers & Packaging,0
+MLM,"Martin Marietta Materials, Inc.",Construction Materials,0
+DOV,Dover Corporation,Machinery,0
+TEAM,Atlassian Corp. Plc Class A,Software,0
+COO,"Cooper Companies, Inc.",Health Care Equipment & Supplies,0
+CFG,"Citizens Financial Group, Inc.",Banks,0
+FTNT,"Fortinet, Inc.",Software,0
+MRVL,Marvell Technology Group Ltd.,Semiconductors & Semiconductor Equipment,0
+K,Kellogg Company,Food Products,0
+MKL,Markel Corporation,Insurance,0
+KSU,Kansas City Southern,Road & Rail,0
+INVH,"Invitation Homes, Inc.",Equity Real Estate Investment Trusts (REITs),0
+OMC,Omnicom Group Inc,Media,0
+CINF,Cincinnati Financial Corporation,Insurance,0
+CXO,Concho Resources Inc.,Oil Gas & Consumable Fuels,0
+TIF,Tiffany & Co.,Specialty Retail,0
+EVRG,"Evergy, Inc.",Electric Utilities,0
+MGM,MGM Resorts International,Hotels Restaurants & Leisure,0
+KMX,"CarMax, Inc.",Specialty Retail,0
+YUMC,"Yum China Holdings, Inc.",Hotels Restaurants & Leisure,0
+RF,Regions Financial Corporation,Banks,0
+HES,Hess Corporation,Oil Gas & Consumable Fuels,0
+BMRN,BioMarin Pharmaceutical Inc.,Biotechnology,0
+PAYC,"Paycom Software, Inc.",Software,0
+MAA,"Mid-America Apartment Communities, Inc.",Equity Real Estate Investment Trusts (REITs),0
+CAG,"Conagra Brands, Inc.",Food Products,0
+CTL,"CenturyLink, Inc.",Diversified Telecommunication Services,0
+ULTA,Ulta Beauty Inc,Specialty Retail,0
+XYL,Xylem Inc.,Machinery,0
+TWLO,"Twilio, Inc. Class A",IT Services,0
+PFG,"Principal Financial Group, Inc.",Insurance,0
+CAH,"Cardinal Health, Inc.",Health Care Providers & Services,0
+EXPE,"Expedia Group, Inc.",Internet & Direct Marketing Retail,0
+RNG,"RingCentral, Inc. Class A",Software,0
+CTXS,"Citrix Systems, Inc.",Software,0
+IFF,International Flavors & Fragrances Inc.,Chemicals,0
+AKAM,"Akamai Technologies, Inc.",IT Services,0
+BURL,"Burlington Stores, Inc.",Specialty Retail,0
+NUE,Nucor Corporation,Metals & Mining,0
+DGX,Quest Diagnostics Incorporated,Health Care Providers & Services,0
+WAB,Westinghouse Air Brake Technologies Corporation,Machinery,0
+HBAN,Huntington Bancshares Incorporated,Banks,0
+DRI,"Darden Restaurants, Inc.",Hotels Restaurants & Leisure,0
+HOLX,"Hologic, Inc.",Health Care Equipment & Supplies,0
+SUI,"Sun Communities, Inc.",Equity Real Estate Investment Trusts (REITs),0
+WPC,W. P. Carey Inc.,Equity Real Estate Investment Trusts (REITs),0
+LDOS,"Leidos Holdings, Inc.",IT Services,0
+BKR,Baker Hughes Company Class A,Energy Equipment & Services,0
+GRMN,Garmin Ltd.,Household Durables,0
+MAS,Masco Corporation,Building Products,0
+NLY,"Annaly Capital Management, Inc.",Mortgage Real Estate Investment Trusts (REITs),0
+SSNC,"SS&C Technologies Holdings, Inc.",Software,0
+LBRDK,Liberty Broadband Corp. Class C,Media,0
+WAT,Waters Corporation,Life Sciences Tools & Services,0
+LNT,Alliant Energy Corp,Electric Utilities,0
+UDR,"UDR, Inc.",Equity Real Estate Investment Trusts (REITs),0
+ABC,AmerisourceBergen Corporation,Health Care Providers & Services,0
+ATO,Atmos Energy Corporation,Gas Utilities,0
+NTAP,"NetApp, Inc.",Technology Hardware Storage & Peripherals,0
+GPC,Genuine Parts Company,Distributors,0
+AES,AES Corporation,Independent Power and Renewable Electricity Producers,0
+LNG,"Cheniere Energy, Inc.",Oil Gas & Consumable Fuels,0
+EXR,Extra Space Storage Inc.,Equity Real Estate Investment Trusts (REITs),0
+BR,"Broadridge Financial Solutions, Inc.",IT Services,0
+L,Loews Corporation,Insurance,0
+CBOE,Cboe Global Markets Inc,Capital Markets,0
+ANET,"Arista Networks, Inc.",Communications Equipment,0
+SIVB,SVB Financial Group,Banks,0
+GWW,"W.W. Grainger, Inc.",Trading Companies & Distributors,0
+FOXA,Fox Corporation Class A,Media,0
+OKTA,"Okta, Inc. Class A",IT Services,0
+SGEN,"Seattle Genetics, Inc.",Biotechnology,0
+TDY,Teledyne Technologies Incorporated,Aerospace & Defense,0
+TTWO,"Take-Two Interactive Software, Inc.",Entertainment,0
+INCY,Incyte Corporation,Biotechnology,0
+LW,"Lamb Weston Holdings, Inc.",Food Products,0
+DRE,Duke Realty Corporation,Equity Real Estate Investment Trusts (REITs),0
+IT,"Gartner, Inc.",IT Services,0
+AMTD,TD Ameritrade Holding Corporation,Capital Markets,0
+CNP,"CenterPoint Energy, Inc.",Multi-Utilities,0
+EXAS,Exact Sciences Corporation,Biotechnology,0
+ODFL,"Old Dominion Freight Line, Inc.",Road & Rail,0
+NDAQ,"Nasdaq, Inc.",Capital Markets,0
+CE,Celanese Corporation,Chemicals,0
+HAS,"Hasbro, Inc.",Leisure Products,0
+ZBRA,Zebra Technologies Corporation Class A,Electronic Equipment Instruments & Components,0
+FMC,FMC Corporation,Chemicals,0
+HRL,Hormel Foods Corporation,Food Products,0
+FNF,"Fidelity National Financial, Inc. - FNF Group",Insurance,0
+WYNN,"Wynn Resorts, Limited",Hotels Restaurants & Leisure,0
+QRVO,"Qorvo, Inc.",Semiconductors & Semiconductor Equipment,0
+ALNY,"Alnylam Pharmaceuticals, Inc",Biotechnology,0
+IEX,IDEX Corporation,Machinery,0
+VAR,"Varian Medical Systems, Inc.",Health Care Equipment & Supplies,0
+STE,STERIS Plc,Health Care Equipment & Supplies,0
+XRAY,"DENTSPLY SIRONA, Inc.",Health Care Equipment & Supplies,0
+J,Jacobs Engineering Group Inc.,Construction & Engineering,0
+TYL,"Tyler Technologies, Inc.",Software,0
+EXPD,"Expeditors International of Washington, Inc.",Air Freight & Logistics,0
+JKHY,"Jack Henry & Associates, Inc.",IT Services,0
+MKTX,MarketAxess Holdings Inc.,Capital Markets,0
+NVR,"NVR, Inc.",Household Durables,0
+DOCU,"DocuSign, Inc.",Software,0
+ELAN,"Elanco Animal Health, Inc.",Pharmaceuticals,0
+ELS,"Equity LifeStyle Properties, Inc.",Equity Real Estate Investment Trusts (REITs),0
+ALLY,Ally Financial Inc,Consumer Finance,0
+VICI,VICI Properties Inc,Equity Real Estate Investment Trusts (REITs),0
+ALLE,Allegion PLC,Building Products,0
+FANG,"Diamondback Energy, Inc.",Oil Gas & Consumable Fuels,0
+HST,"Host Hotels & Resorts, Inc.",Equity Real Estate Investment Trusts (REITs),0
+ARNC,"Arconic, Inc.",Aerospace & Defense,0
+EPAM,"EPAM Systems, Inc.",IT Services,0
+RJF,"Raymond James Financial, Inc.",Capital Markets,0
+TER,"Teradyne, Inc.",Semiconductors & Semiconductor Equipment,0
+BF.B,Brown-Forman Corporation Class B,Beverages,0
+SJM,J.M. Smucker Company,Food Products,0
+MYL,Mylan N.V.,Pharmaceuticals,0
+TXT,Textron Inc.,Aerospace & Defense,0
+GDDY,"GoDaddy, Inc. Class A",IT Services,0
+WU,Western Union Company,IT Services,0
+AVY,Avery Dennison Corporation,Containers & Packaging,0
+MPW,"Medical Properties Trust, Inc.",Equity Real Estate Investment Trusts (REITs),0
+NCLH,Norwegian Cruise Line Holdings Ltd.,Hotels Restaurants & Leisure,0
+WST,"West Pharmaceutical Services, Inc.",Health Care Equipment & Supplies,0
+FICO,Fair Isaac Corporation,Software,0
+VMW,"VMware, Inc. Class A",Software,0
+LNC,Lincoln National Corporation,Insurance,0
+URI,"United Rentals, Inc.",Trading Companies & Distributors,0
+GL,Globe Life Inc.,Insurance,0
+WTRG,"Essential Utilities, Inc.",Water Utilities,0
+PODD,Insulet Corporation,Health Care Equipment & Supplies,0
+VNO,Vornado Realty Trust,Equity Real Estate Investment Trusts (REITs),0
+Y,Alleghany Corporation,Insurance,0
+AAL,"American Airlines Group, Inc.",Airlines,0
+DPZ,"Domino's Pizza, Inc.",Hotels Restaurants & Leisure,0
+RE,"Everest Re Group, Ltd.",Insurance,0
+PHM,"PulteGroup, Inc.",Household Durables,0
+TRMB,Trimble Inc.,Electronic Equipment Instruments & Components,0
+TTD,"Trade Desk, Inc. Class A",Software,0
+TSCO,Tractor Supply Company,Specialty Retail,0
+UHS,"Universal Health Services, Inc. Class B",Health Care Providers & Services,0
+NI,NiSource Inc,Multi-Utilities,0
+PNW,Pinnacle West Capital Corporation,Electric Utilities,0
+WRB,W. R. Berkley Corporation,Insurance,0
+BRO,"Brown & Brown, Inc.",Insurance,0
+APA,Apache Corporation,Oil Gas & Consumable Fuels,0
+FDS,FactSet Research Systems Inc.,Capital Markets,0
+HII,"Huntington Ingalls Industries, Inc.",Aerospace & Defense,0
+ROKU,"Roku, Inc. Class A",Entertainment,0
+BAH,Booz Allen Hamilton Holding Corporation Class A,IT Services,0
+EQH,"Equitable Holdings, Inc.",Diversified Financial Services,0
+WRK,WestRock Company,Containers & Packaging,0
+PKI,"PerkinElmer, Inc.",Life Sciences Tools & Services,0
+ARMK,Aramark,Hotels Restaurants & Leisure,0
+REG,Regency Centers Corporation,Equity Real Estate Investment Trusts (REITs),0
+LKQ,LKQ Corporation,Distributors,0
+CPT,Camden Property Trust,Equity Real Estate Investment Trusts (REITs),0
+HSIC,"Henry Schein, Inc.",Health Care Providers & Services,0
+AGNC,AGNC Investment Corp.,Mortgage Real Estate Investment Trusts (REITs),0
+EMN,Eastman Chemical Company,Chemicals,0
+VER,"VEREIT, Inc. Class A",Equity Real Estate Investment Trusts (REITs),0
+DOX,Amdocs Limited,IT Services,0
+CCK,"Crown Holdings, Inc.",Containers & Packaging,0
+NDSN,Nordson Corporation,Machinery,0
+NLOK,NortonLifeLock Inc.,Software,0
+ETFC,E*TRADE Financial Corporation,Capital Markets,0
+TAP,Molson Coors Beverage Company Class B,Beverages,0
+NBL,"Noble Energy, Inc.",Oil Gas & Consumable Fuels,0
+FBHS,"Fortune Brands Home & Security, Inc.",Building Products,0
+COUP,"Coupa Software, Inc.",Software,0
+DISH,DISH Network Corporation Class A,Media,0
+BKI,"Black Knight, Inc.",IT Services,0
+CHRW,"C.H. Robinson Worldwide, Inc.",Air Freight & Logistics,0
+SIRI,"Sirius XM Holdings, Inc.",Media,0
+MRO,Marathon Oil Corporation,Oil Gas & Consumable Fuels,0
+RPM,RPM International Inc.,Chemicals,0
+PKG,Packaging Corporation of America,Containers & Packaging,0
+GWRE,"Guidewire Software, Inc.",Software,0
+BFAM,"Bright Horizons Family Solutions, Inc.",Diversified Consumer Services,0
+ZEN,"Zendesk, Inc.",Software,0
+GLPI,"Gaming and Leisure Properties, Inc.",Equity Real Estate Investment Trusts (REITs),0
+NNN,"National Retail Properties, Inc.",Equity Real Estate Investment Trusts (REITs),0
+MTN,"Vail Resorts, Inc.",Hotels Restaurants & Leisure,0
+NRG,"NRG Energy, Inc.",Independent Power and Renewable Electricity Producers,0
+WEX,WEX Inc.,IT Services,0
+FRT,Federal Realty Investment Trust,Equity Real Estate Investment Trusts (REITs),0
+JBHT,"J.B. Hunt Transport Services, Inc.",Road & Rail,0
+RGA,"Reinsurance Group of America, Incorporated",Insurance,0
+WHR,Whirlpool Corporation,Household Durables,0
+CF,"CF Industries Holdings, Inc.",Chemicals,0
+VST,Vistra Energy Corp.,Independent Power and Renewable Electricity Producers,0
+CMA,Comerica Incorporated,Banks,0
+NBIX,"Neurocrine Biosciences, Inc.",Biotechnology,0
+OHI,"Omega Healthcare Investors, Inc.",Equity Real Estate Investment Trusts (REITs),0
+ALB,Albemarle Corporation,Chemicals,0
+OGE,OGE Energy Corp.,Electric Utilities,0
+CSL,Carlisle Companies Incorporated,Industrial Conglomerates,0
+GGG,Graco Inc.,Machinery,0
+LYFT,Lyft Inc Class A,Road & Rail,0
+LYV,"Live Nation Entertainment, Inc.",Entertainment,0
+AAP,"Advance Auto Parts, Inc.",Specialty Retail,0
+IRM,"Iron Mountain, Inc.",Equity Real Estate Investment Trusts (REITs),0
+JLL,Jones Lang LaSalle Incorporated,Real Estate Management & Development,0
+IPG,"Interpublic Group of Companies, Inc.",Media,0
+CGNX,Cognex Corporation,Electronic Equipment Instruments & Components,0
+DVN,Devon Energy Corporation,Oil Gas & Consumable Fuels,0
+PTC,PTC Inc.,Software,0
+PCG,PG&E Corporation,Electric Utilities,0
+SNA,Snap-on Incorporated,Machinery,0
+KRC,Kilroy Realty Corporation,Equity Real Estate Investment Trusts (REITs),0
+DXC,DXC Technology Co.,IT Services,0
+SEIC,SEI Investments Company,Capital Markets,0
+TRGP,Targa Resources Corp.,Oil Gas & Consumable Fuels,0
+UGI,UGI Corporation,Gas Utilities,0
+TTC,Toro Company,Machinery,0
+USFD,US Foods Holding Corp.,Food & Staples Retailing,0
+CY,Cypress Semiconductor Corporation,Semiconductors & Semiconductor Equipment,0
+ON,ON Semiconductor Corporation,Semiconductors & Semiconductor Equipment,0
+AZPN,"Aspen Technology, Inc.",Software,0
+CTLT,Catalent Inc,Pharmaceuticals,0
+POOL,Pool Corporation,Distributors,0
+NOV,"National Oilwell Varco, Inc.",Energy Equipment & Services,0
+SRPT,"Sarepta Therapeutics, Inc.",Biotechnology,0
+LII,Lennox International Inc.,Building Products,0
+ABMD,"ABIOMED, Inc.",Health Care Equipment & Supplies,0
+RNR,RenaissanceRe Holdings Ltd.,Insurance,0
+XPO,"XPO Logistics, Inc.",Air Freight & Logistics,0
+STOR,STORE Capital Corporation,Equity Real Estate Investment Trusts (REITs),0
+VOYA,"Voya Financial, Inc.",Diversified Financial Services,0
+ATUS,"Altice USA, Inc. Class A",Media,0
+G,Genpact Limited,IT Services,0
+SCI,Service Corporation International,Diversified Consumer Services,0
+AIZ,"Assurant, Inc.",Insurance,0
+AFG,"American Financial Group, Inc.",Insurance,0
+MASI,Masimo Corporation,Health Care Equipment & Supplies,0
+CPB,Campbell Soup Company,Food Products,0
+DVA,DaVita Inc.,Health Care Providers & Services,0
+CZR,Caesars Entertainment Corporation,Hotels Restaurants & Leisure,0
+LAMR,Lamar Advertising Company Class A,Equity Real Estate Investment Trusts (REITs),0
+MOH,"Molina Healthcare, Inc.",Health Care Providers & Services,0
+ZION,"Zions Bancorporation, N.A.",Banks,0
+HUBB,Hubbell Incorporated Class B,Electrical Equipment,0
+ALK,"Alaska Air Group, Inc.",Airlines,0
+JAZZ,Jazz Pharmaceuticals Plc,Pharmaceuticals,0
+EEFT,"Euronet Worldwide, Inc.",IT Services,0
+KIM,Kimco Realty Corporation,Equity Real Estate Investment Trusts (REITs),0
+BIO,"Bio-Rad Laboratories, Inc. Class A",Life Sciences Tools & Services,0
+MHK,"Mohawk Industries, Inc.",Household Durables,0
+ZAYO,"Zayo Group Holdings, Inc.",Diversified Telecommunication Services,0
+AIV,Apartment Investment & Management Co Class A,Equity Real Estate Investment Trusts (REITs),0
+TPR,"Tapestry, Inc.",Textiles Apparel & Luxury Goods,0
+MPWR,"Monolithic Power Systems, Inc.",Semiconductors & Semiconductor Equipment,0
+NWL,Newell Brands Inc,Household Durables,0
+OLED,Universal Display Corporation,Semiconductors & Semiconductor Equipment,0
+EHC,Encompass Health Corporation,Health Care Providers & Services,0
+SBNY,Signature Bank,Banks,0
+TECH,Bio-Techne Corporation,Life Sciences Tools & Services,0
+JNPR,"Juniper Networks, Inc.",Communications Equipment,0
+LEA,Lear Corporation,Auto Components,0
+RS,Reliance Steel & Aluminum Co.,Metals & Mining,0
+DELL,Dell Technologies Inc Class C,Technology Hardware Storage & Peripherals,0
+QGEN,QIAGEN NV,Life Sciences Tools & Services,0
+GNTX,Gentex Corporation,Auto Components,0
+ST,Sensata Technologies Holding PLC,Electrical Equipment,0
+ENTG,"Entegris, Inc.",Semiconductors & Semiconductor Equipment,0
+FFIV,"F5 Networks, Inc.",Communications Equipment,0
+LPLA,LPL Financial Holdings Inc.,Capital Markets,0
+SLG,SL Green Realty Corp.,Equity Real Estate Investment Trusts (REITs),0
+CRL,"Charles River Laboratories International, Inc.",Life Sciences Tools & Services,0
+CHE,Chemed Corporation,Health Care Providers & Services,0
+ATR,"Aptargroup, Inc.",Containers & Packaging,0
+IONS,"Ionis Pharmaceuticals, Inc.",Biotechnology,0
+NLSN,Nielsen Holdings Plc,Professional Services,0
+BG,Bunge Limited,Food Products,0
+CABO,"Cable One, Inc.",Media,0
+PNR,Pentair plc,Machinery,0
+PRGO,Perrigo Co. Plc,Pharmaceuticals,0
+ACM,AECOM,Construction & Engineering,0
+MOS,Mosaic Company,Chemicals,0
+FLIR,"FLIR Systems, Inc.",Electronic Equipment Instruments & Components,0
+GLIBA,"GCI Liberty, Inc. Class A",Diversified Telecommunication Services,0
+KSS,Kohl's Corporation,Multiline Retail,0
+RGLD,"Royal Gold, Inc.",Metals & Mining,0
+BEN,"Franklin Resources, Inc.",Capital Markets,0
+HRC,"Hill-Rom Holdings, Inc.",Health Care Equipment & Supplies,0
+BWA,BorgWarner Inc.,Auto Components,0
+CBSH,"Commerce Bancshares, Inc.",Banks,0
+HUBS,"HubSpot, Inc.",Software,0
+AMH,American Homes 4 Rent Class A,Equity Real Estate Investment Trusts (REITs),0
+PBCT,"People's United Financial, Inc.",Banks,0
+STWD,"Starwood Property Trust, Inc.",Mortgage Real Estate Investment Trusts (REITs),0
+EWBC,"East West Bancorp, Inc.",Banks,0
+HDS,"HD Supply Holdings, Inc.",Trading Companies & Distributors,0
+PFPT,"Proofpoint, Inc.",Software,0
+DEI,"Douglas Emmett, Inc",Equity Real Estate Investment Trusts (REITs),0
+NRZ,New Residential Investment Corp.,Mortgage Real Estate Investment Trusts (REITs),0
+IVZ,Invesco Ltd.,Capital Markets,0
+RHI,Robert Half International Inc.,Professional Services,0
+WBC,WABCO Holdings Inc.,Machinery,0
+SPR,"Spirit AeroSystems Holdings, Inc. Class A",Aerospace & Defense,0
+CDAY,"Ceridian HCM Holding, Inc.",Software,0
+CONE,"CyrusOne, Inc.",Equity Real Estate Investment Trusts (REITs),0
+DCI,"Donaldson Company, Inc.",Machinery,0
+FAF,First American Financial Corporation,Insurance,0
+MDB,"MongoDB, Inc. Class A",IT Services,0
+OC,Owens Corning,Building Products,0
+POST,"Post Holdings, Inc.",Food Products,0
+PRAH,"PRA Health Sciences, Inc.",Life Sciences Tools & Services,0
+CACI,CACI International Inc Class A,IT Services,0
+TCF,TCF Financial Corporation,Banks,0
+XRX,Xerox Holdings Corporation,Technology Hardware Storage & Peripherals,0
+PLNT,"Planet Fitness, Inc. Class A",Hotels Restaurants & Leisure,0
+PB,"Prosperity Bancshares, Inc.(R)",Banks,0
+PVH,PVH Corp.,Textiles Apparel & Luxury Goods,0
+COLD,Americold Realty Trust,Equity Real Estate Investment Trusts (REITs),0
+ATH,Athene Holding Ltd. Class A,Insurance,0
+CIEN,Ciena Corporation,Communications Equipment,0
+HFC,HollyFrontier Corporation,Oil Gas & Consumable Fuels,0
+HZNP,Horizon Therapeutics Public Limited Company,Pharmaceuticals,0
+ORI,Old Republic International Corporation,Insurance,0
+CDK,CDK Global Inc,Software,0
+HTA,"Healthcare Trust of America, Inc. Class A",Equity Real Estate Investment Trusts (REITs),0
+FLS,Flowserve Corporation,Machinery,0
+WWD,"Woodward, Inc.",Machinery,0
+FIVE,"Five Below, Inc.",Specialty Retail,0
+IAA,"IAA, Inc.",Commercial Services & Supplies,0
+CW,Curtiss-Wright Corporation,Aerospace & Defense,0
+DNKN,"Dunkin' Brands Group, Inc.",Hotels Restaurants & Leisure,0
+ARW,"Arrow Electronics, Inc.",Electronic Equipment Instruments & Components,0
+HXL,Hexcel Corporation,Aerospace & Defense,0
+MIDD,Middleby Corporation,Machinery,0
+OSK,Oshkosh Corp,Machinery,0
+ACC,"American Campus Communities, Inc.",Equity Real Estate Investment Trusts (REITs),0
+BWXT,"BWX Technologies, Inc.",Aerospace & Defense,0
+ITT,"ITT, Inc.",Machinery,0
+MKSI,"MKS Instruments, Inc.",Semiconductors & Semiconductor Equipment,0
+UNM,Unum Group,Insurance,0
+BRX,"Brixmor Property Group, Inc.",Equity Real Estate Investment Trusts (REITs),0
+MDU,MDU Resources Group Inc,Multi-Utilities,0
+STLD,"Steel Dynamics, Inc.",Metals & Mining,0
+W,"Wayfair, Inc. Class A",Internet & Direct Marketing Retail,0
+AXTA,Axalta Coating Systems Ltd.,Chemicals,0
+SABR,Sabre Corp.,IT Services,0
+AYX,"Alteryx, Inc. Class A",Software,0
+LEG,"Leggett & Platt, Incorporated",Household Durables,0
+Z,"Zillow Group, Inc. Class C",Interactive Media & Services,0
+JEF,Jefferies Financial Group Inc.,Diversified Financial Services,0
+TOL,"Toll Brothers, Inc.",Household Durables,0
+AVTR,"Avantor, Inc.",Life Sciences Tools & Services,0
+CUZ,Cousins Properties Incorporated,Equity Real Estate Investment Trusts (REITs),0
+INGR,Ingredion Incorporated,Food Products,0
+JBL,Jabil Inc.,Electronic Equipment Instruments & Components,0
+RL,Ralph Lauren Corporation Class A,Textiles Apparel & Luxury Goods,0
+NATI,National Instruments Corporation,Electronic Equipment Instruments & Components,0
+AOS,A. O. Smith Corporation,Building Products,0
+COG,Cabot Oil & Gas Corporation,Oil Gas & Consumable Fuels,0
+CASY,"Casey's General Stores, Inc.",Food & Staples Retailing,0
+CUBE,CubeSmart,Equity Real Estate Investment Trusts (REITs),0
+JBLU,JetBlue Airways Corporation,Airlines,0
+NTNX,"Nutanix, Inc. Class A",Software,0
+SON,Sonoco Products Company,Containers & Packaging,0
+KDP,Keurig Dr Pepper Inc.,Beverages,0
+SEE,Sealed Air Corporation,Containers & Packaging,0
+BERY,Berry Global Group Inc,Containers & Packaging,0
+ETSY,"Etsy, Inc.",Internet & Direct Marketing Retail,0
+SNX,SYNNEX Corporation,Electronic Equipment Instruments & Components,0
+SRCL,"Stericycle, Inc.",Commercial Services & Supplies,0
+WSO,"Watsco, Inc.",Trading Companies & Distributors,0
+WSM,"Williams-Sonoma, Inc.",Specialty Retail,0
+MAN,ManpowerGroup Inc.,Professional Services,0
+PWR,"Quanta Services, Inc.",Construction & Engineering,0
+WH,"Wyndham Hotels & Resorts, Inc.",Hotels Restaurants & Leisure,0
+HPP,"Hudson Pacific Properties, Inc.",Equity Real Estate Investment Trusts (REITs),0
+NUAN,"Nuance Communications, Inc.",Software,0
+PEN,"Penumbra, Inc.",Health Care Equipment & Supplies,0
+LB,"L Brands, Inc.",Specialty Retail,0
+NXST,"Nexstar Media Group, Inc. Class A",Media,0
+IDA,"IDACORP, Inc.",Electric Utilities,0
+LECO,"Lincoln Electric Holdings, Inc.",Machinery,0
+PK,"Park Hotels & Resorts, Inc.",Equity Real Estate Investment Trusts (REITs),0
+EPR,EPR Properties,Equity Real Estate Investment Trusts (REITs),0
+MSG,Madison Square Garden Co. Class A,Entertainment,0
+NYT,New York Times Company Class A,Media,0
+BPOP,"Popular, Inc.",Banks,0
+ROL,"Rollins, Inc.",Commercial Services & Supplies,0
+WAL,Western Alliance Bancorp,Banks,0
+EXEL,"Exelixis, Inc.",Biotechnology,0
+THG,"Hanover Insurance Group, Inc.",Insurance,0
+CREE,"Cree, Inc.",Semiconductors & Semiconductor Equipment,0
+AXS,Axis Capital Holdings Limited,Insurance,0
+EV,Eaton Vance Corp.,Capital Markets,0
+PII,Polaris Inc.,Leisure Products,0
+HOG,"Harley-Davidson, Inc.",Automobiles,0
+NWSA,News Corporation Class A,Media,0
+M,Macy's Inc,Multiline Retail,0
+CFR,"Cullen/Frost Bankers, Inc.",Banks,0
+HIW,"Highwoods Properties, Inc.",Equity Real Estate Investment Trusts (REITs),0
+HBI,Hanesbrands Inc.,Textiles Apparel & Luxury Goods,0
+LSI,"Life Storage, Inc.",Equity Real Estate Investment Trusts (REITs),0
+SRC,"Spirit Realty Capital, Inc.",Equity Real Estate Investment Trusts (REITs),0
+BYND,"Beyond Meat, Inc.",Food Products,0
+HE,"Hawaiian Electric Industries, Inc.",Electric Utilities,0
+WPX,"WPX Energy, Inc.",Oil Gas & Consumable Fuels,0
+PE,"Parsley Energy, Inc. Class A",Oil Gas & Consumable Fuels,0
+PRI,"Primerica, Inc.",Insurance,0
+NYCB,"New York Community Bancorp, Inc.",Thrifts & Mortgage Finance,0
+FHN,First Horizon National Corporation,Banks,0
+SNV,Synovus Financial Corp.,Banks,0
+ALSN,"Allison Transmission Holdings, Inc.",Machinery,0
+BRKR,Bruker Corporation,Life Sciences Tools & Services,0
+BC,Brunswick Corporation,Leisure Products,0
+PLAN,"Anaplan, Inc.",Software,0
+BLUE,"bluebird bio, Inc.",Biotechnology,0
+GRUB,"Grubhub, Inc.",Internet & Direct Marketing Retail,0
+ZNGA,Zynga Inc. Class A,Entertainment,0
+AWI,"Armstrong World Industries, Inc.",Building Products,0
+MTG,MGIC Investment Corporation,Thrifts & Mortgage Finance,0
+JBGS,JBG SMITH Properties,Equity Real Estate Investment Trusts (REITs),0
+KMPR,Kemper Corporation,Insurance,0
+SKX,"Skechers U.S.A., Inc. Class A",Textiles Apparel & Luxury Goods,0
+IPGP,IPG Photonics Corporation,Electronic Equipment Instruments & Components,0
+MANH,"Manhattan Associates, Inc.",Software,0
+SERV,"ServiceMaster Global Holdings, Inc.",Diversified Consumer Services,0
+HHC,Howard Hughes Corporation,Real Estate Management & Development,0
+MAT,"Mattel, Inc.",Leisure Products,0
+SMG,Scotts Miracle-Gro Company Class A,Chemicals,0
+AYI,"Acuity Brands, Inc.",Electrical Equipment,0
+HEI,HEICO Corporation,Aerospace & Defense,0
+GDI,"Gardner Denver Holdings, Inc.",Machinery,0
+AL,Air Lease Corporation Class A,Trading Companies & Distributors,0
+CRI,"Carter's, Inc.",Textiles Apparel & Luxury Goods,0
+DISCA,"Discovery, Inc. Class A",Media,0
+HUN,Huntsman Corporation,Chemicals,0
+CPRI,Capri Holdings Limited,Textiles Apparel & Luxury Goods,0
+KNX,Knight-Swift Transportation Holdings Inc. Class A,Road & Rail,0
+ASH,"Ashland Global Holdings, Inc.",Chemicals,0
+PCTY,Paylocity Holding Corp.,Software,0
+RP,"RealPage, Inc.",Software,0
+SLM,SLM Corp,Consumer Finance,0
+GPK,Graphic Packaging Holding Company,Containers & Packaging,0
+HRB,"H&R Block, Inc.",Diversified Consumer Services,0
+HP,"Helmerich & Payne, Inc.",Energy Equipment & Services,0
+BHF,"Brighthouse Financial, Inc.",Insurance,0
+CIT,CIT Group Inc.,Banks,0
+PNFP,"Pinnacle Financial Partners, Inc.",Banks,0
+AGCO,AGCO Corporation,Machinery,0
+CACC,Credit Acceptance Corporation,Consumer Finance,0
+DLB,"Dolby Laboratories, Inc. Class A",Electronic Equipment Instruments & Components,0
+CR,Crane Co.,Machinery,0
+LSTR,"Landstar System, Inc.",Road & Rail,0
+KEX,Kirby Corporation,Marine,0
+LAZ,Lazard Ltd Class A,Capital Markets,0
+LFUS,"Littelfuse, Inc.",Electronic Equipment Instruments & Components,0
+NCR,NCR Corporation,Technology Hardware Storage & Peripherals,0
+WBS,Webster Financial Corporation,Banks,0
+WYND,"Wyndham Destinations, Inc.",Hotels Restaurants & Leisure,0
+AGO,Assured Guaranty Ltd.,Insurance,0
+XEC,Cimarex Energy Co.,Oil Gas & Consumable Fuels,0
+CLH,"Clean Harbors, Inc.",Commercial Services & Supplies,0
+COR,CoreSite Realty Corporation,Equity Real Estate Investment Trusts (REITs),0
+THO,"Thor Industries, Inc.",Automobiles,0
+FL,"Foot Locker, Inc.",Specialty Retail,0
+OUT,OUTFRONT Media Inc.,Equity Real Estate Investment Trusts (REITs),0
+UTHR,United Therapeutics Corporation,Biotechnology,0
+FSLR,"First Solar, Inc.",Semiconductors & Semiconductor Equipment,0
+JWN,"Nordstrom, Inc.",Multiline Retail,0
+PSTG,"Pure Storage, Inc. Class A",Technology Hardware Storage & Peripherals,0
+ADS,Alliance Data Systems Corporation,IT Services,0
+PACW,PacWest Bancorp,Banks,0
+SMAR,"Smartsheet, Inc. Class A",Software,0
+VVV,Valvoline Inc.,Chemicals,0
+NVST,Envista Holdings Corp.,Health Care Equipment & Supplies,0
+FLO,"Flowers Foods, Inc.",Food Products,0
+HLF,Herbalife Nutrition Ltd.,Personal Products,0
+TPX,Tempur Sealy International Inc,Household Durables,0
+TWO,Two Harbors Investment Corp.,Mortgage Real Estate Investment Trusts (REITs),0
+JHG,Janus Henderson Group PLC,Capital Markets,0
+STL,Sterling Bancorp,Banks,0
+AMG,"Affiliated Managers Group, Inc.",Capital Markets,0
+AVLR,Avalara Inc,Software,0
+MRNA,"Moderna, Inc.",Biotechnology,0
+WEN,Wendy's Company,Hotels Restaurants & Leisure,0
+LOGM,"LogMeIn, Inc.",Software,0
+IART,Integra LifeSciences Holdings Corporation,Health Care Equipment & Supplies,0
+MTCH,"Match Group, Inc.",Interactive Media & Services,0
+CVNA,Carvana Co. Class A,Specialty Retail,0
+ERIE,Erie Indemnity Company Class A,Insurance,0
+FHB,"First Hawaiian, Inc.",Banks,0
+GPS,"Gap, Inc.",Specialty Retail,0
+NVT,nVent Electric plc,Electrical Equipment,0
+CIM,Chimera Investment Corporation,Mortgage Real Estate Investment Trusts (REITs),0
+EQC,Equity Commonwealth,Equity Real Estate Investment Trusts (REITs),0
+FNB,F.N.B. Corporation,Banks,0
+RYN,Rayonier Inc.,Equity Real Estate Investment Trusts (REITs),0
+UNVR,"Univar Solutions, Inc.",Trading Companies & Distributors,0
+LOPE,"Grand Canyon Education, Inc.",Diversified Consumer Services,0
+UMPQ,Umpqua Holdings Corporation,Banks,0
+UAA,"Under Armour, Inc. Class A",Textiles Apparel & Luxury Goods,0
+IBKR,"Interactive Brokers Group, Inc. Class A",Capital Markets,0
+EXP,Eagle Materials Inc.,Construction Materials,0
+NKTR,Nektar Therapeutics,Pharmaceuticals,0
+CLGX,"CoreLogic, Inc.",IT Services,0
+ICUI,"ICU Medical, Inc.",Health Care Equipment & Supplies,0
+TKR,Timken Company,Machinery,0
+AVT,"Avnet, Inc.",Electronic Equipment Instruments & Components,0
+VSAT,"ViaSat, Inc.",Communications Equipment,0
+DBX,"Dropbox, Inc. Class A",Software,0
+FCNCA,"First Citizens BancShares, Inc. Class A",Banks,0
+WTFC,Wintrust Financial Corporation,Banks,0
+SVC,Service Properties Trust,Equity Real Estate Investment Trusts (REITs),0
+ZS,"Zscaler, Inc.",Software,0
+BOH,Bank of Hawaii Corporation,Banks,0
+FTDR,"frontdoor, Inc.",Diversified Consumer Services,0
+WRI,Weingarten Realty Investors,Equity Real Estate Investment Trusts (REITs),0
+NFG,National Fuel Gas Company,Gas Utilities,0
+COHR,"Coherent, Inc.",Electronic Equipment Instruments & Components,0
+GRA,W R Grace & Co,Chemicals,0
+WTM,White Mountains Insurance Group Ltd,Insurance,0
+CHH,"Choice Hotels International, Inc.",Hotels Restaurants & Leisure,0
+FND,"Floor & Decor Holdings, Inc. Class A",Specialty Retail,0
+SAGE,"SAGE Therapeutics, Inc.",Biotechnology,0
+CFX,Colfax Corporation,Machinery,0
+COTY,Coty Inc. Class A,Personal Products,0
+MFA,"MFA Financial, Inc.",Mortgage Real Estate Investment Trusts (REITs),0
+RBC,Regal Beloit Corp,Electrical Equipment,0
+LM,"Legg Mason, Inc.",Capital Markets,0
+CNK,"Cinemark Holdings, Inc.",Entertainment,0
+OZK,Bank OZK,Banks,0
+OFC,Corporate Office Properties Trust,Equity Real Estate Investment Trusts (REITs),0
+MAC,Macerich Company,Equity Real Estate Investment Trusts (REITs),0
+MUR,Murphy Oil Corporation,Oil Gas & Consumable Fuels,0
+PEGA,Pegasystems Inc.,Software,0
+MIC,Macquarie Infrastructure Corporation,Transportation Infrastructure,0
+QRTEA,"Qurate Retail, Inc. Class A",Internet & Direct Marketing Retail,0
+CPA,"Copa Holdings, S.A. Class A",Airlines,0
+SCCO,Southern Copper Corporation,Metals & Mining,0
+UHAL,AMERCO,Road & Rail,0
+ASB,Associated Banc-Corp,Banks,0
+H,Hyatt Hotels Corporation Class A,Hotels Restaurants & Leisure,0
+APLE,Apple Hospitality REIT Inc,Equity Real Estate Investment Trusts (REITs),0
+BKU,"BankUnited, Inc.",Banks,0
+GT,Goodyear Tire & Rubber Company,Auto Components,0
+ENR,Energizer Holdings Inc,Household Products,0
+FEYE,"FireEye, Inc.",Software,0
+PBF,"PBF Energy, Inc. Class A",Oil Gas & Consumable Fuels,0
+VMI,"Valmont Industries, Inc.",Construction & Engineering,0
+MSM,"MSC Industrial Direct Co., Inc. Class A",Trading Companies & Distributors,0
+NEWR,"New Relic, Inc.",Software,0
+MORN,"Morningstar, Inc.",Capital Markets,0
+EVR,Evercore Inc Class A,Capital Markets,0
+TRIP,"TripAdvisor, Inc.",Interactive Media & Services,0
+ESTC,Elastic NV,Software,0
+ALKS,Alkermes Plc,Biotechnology,0
+SIX,Six Flags Entertainment Corporation,Hotels Restaurants & Leisure,0
+RIG,Transocean Ltd.,Energy Equipment & Services,0
+AGIO,"Agios Pharmaceuticals, Inc.",Biotechnology,0
+AGR,"Avangrid, Inc.",Electric Utilities,0
+ACHC,"Acadia Healthcare Company, Inc.",Health Care Providers & Services,0
+AA,Alcoa Corp.,Metals & Mining,0
+NEU,NewMarket Corporation,Chemicals,0
+GH,"Guardant Health, Inc.",Health Care Providers & Services,0
+TCBI,"Texas Capital Bancshares, Inc.",Banks,0
+DKS,"Dick's Sporting Goods, Inc.",Specialty Retail,0
+OLLI,Ollie's Bargain Outlet Holdings Inc,Multiline Retail,0
+COLM,Columbia Sportswear Company,Textiles Apparel & Luxury Goods,0
+OMF,"OneMain Holdings, Inc.",Consumer Finance,0
+PGRE,"Paramount Group, Inc.",Equity Real Estate Investment Trusts (REITs),0
+BDN,Brandywine Realty Trust,Equity Real Estate Investment Trusts (REITs),0
+HGV,"Hilton Grand Vacations, Inc.",Hotels Restaurants & Leisure,0
+TDC,Teradata Corporation,Software,0
+KAR,"KAR Auction Services, Inc.",Commercial Services & Supplies,0
+NAVI,Navient Corp,Consumer Finance,0
+SC,"Santander Consumer USA Holdings, Inc.",Consumer Finance,0
+ESI,"Element Solutions, Inc.",Chemicals,0
+FLR,Fluor Corporation,Construction & Engineering,0
+BOKF,BOK Financial Corporation,Banks,0
+RPAI,"Retail Properties of America, Inc. Class A",Equity Real Estate Investment Trusts (REITs),0
+R,"Ryder System, Inc.",Road & Rail,0
+OLN,Olin Corporation,Chemicals,0
+S,Sprint Corp.,Wireless Telecommunication Services,0
+THS,"TreeHouse Foods, Inc.",Food Products,0
+CXP,"Columbia Property Trust, Inc.",Equity Real Estate Investment Trusts (REITs),0
+SPB,"Spectrum Brands Holdings, Inc.",Household Products,0
+SLGN,Silgan Holdings Inc.,Containers & Packaging,0
+CBT,Cabot Corporation,Chemicals,0
+CC,Chemours Co.,Chemicals,0
+COMM,"CommScope Holding Co., Inc.",Communications Equipment,0
+CLR,"Continental Resources, Inc.",Oil Gas & Consumable Fuels,0
+TREE,"LendingTree, Inc.",Consumer Finance,0
+AN,"AutoNation, Inc.",Specialty Retail,0
+STAY,"Extended Stay America, Inc.",Hotels Restaurants & Leisure,0
+TDS,"Telephone and Data Systems, Inc.",Wireless Telecommunication Services,0
+CMD,Cantel Medical Corp.,Health Care Equipment & Supplies,0
+CLNY,"Colony Capital, Inc. Class A",Equity Real Estate Investment Trusts (REITs),0
+GHC,Graham Holdings Co.,Diversified Consumer Services,0
+OI,O-I Glass Inc,Containers & Packaging,0
+WLK,Westlake Chemical Corporation,Chemicals,0
+TRN,"Trinity Industries, Inc.",Machinery,0
+WWE,"World Wrestling Entertainment, Inc. Class A",Entertainment,0
+APY,Apergy Corp.,Energy Equipment & Services,0
+UFS,Domtar Corporation,Paper & Forest Products,0
+ETRN,Equitrans Midstream Corp.,Oil Gas & Consumable Fuels,0
+WCC,"WESCO International, Inc.",Trading Companies & Distributors,0
+ESRT,"Empire State Realty Trust, Inc. Class A",Equity Real Estate Investment Trusts (REITs),0
+HAIN,"Hain Celestial Group, Inc.",Food Products,0
+MD,"MEDNAX, Inc.",Health Care Providers & Services,0
+DT,"Dynatrace, Inc.",Software,0
+KOS,Kosmos Energy Ltd.,Oil Gas & Consumable Fuels,0
+NUS,"Nu Skin Enterprises, Inc. Class A",Personal Products,0
+TCO,"Taubman Centers, Inc.",Equity Real Estate Investment Trusts (REITs),0
+SATS,EchoStar Corporation Class A,Communications Equipment,0
+JWA,"John Wiley & Sons, Inc. Class A",Media,0
+PINC,Premier Inc. Class A,Health Care Providers & Services,0
+SITC,SITE Centers Corp.,Equity Real Estate Investment Trusts (REITs),0
+SBGI,"Sinclair Broadcast Group, Inc. Class A",Media,0
+URBN,"Urban Outfitters, Inc.",Specialty Retail,0
+SFM,"Sprouts Farmers Markets, Inc.",Food & Staples Retailing,0
+BGCP,"BGC Partners, Inc. Class A",Capital Markets,0
+PAG,"Penske Automotive Group, Inc.",Specialty Retail,0
+AMCX,AMC Networks Inc. Class A,Media,0
+PTEN,"Patterson-UTI Energy, Inc.",Energy Equipment & Services,0
+X,United States Steel Corporation,Metals & Mining,0
+EQT,EQT Corporation,Oil Gas & Consumable Fuels,0
+GO,Grocery Outlet Holding Corp.,Food & Staples Retailing,0
+UI,Ubiquiti Inc.,Communications Equipment,0
+IGT,International Game Technology PLC,Hotels Restaurants & Leisure,0
+PPC,Pilgrim's Pride Corporation,Food Products,0
+AM,Antero Midstream Corp.,Oil Gas & Consumable Fuels,0
+MCY,Mercury General Corporation,Insurance,0
+CNA,CNA Financial Corporation,Insurance,0
+REZI,"Resideo Technologies, Inc.",Building Products,0
+CVET,"Covetrus, Inc.",Health Care Providers & Services,0
+SNDR,"Schneider National, Inc. Class B",Road & Rail,0
+TWOU,"2U, Inc.",Software,0
+BPR,Brookfield Property REIT Inc Class A,Equity Real Estate Investment Trusts (REITs),0
+PS,"Pluralsight, Inc. Class A",Software,0
+FWONA,Liberty Media Corporation Series A Liberty Formula One,Entertainment,0
+TFSL,TFS Financial Corporation,Thrifts & Mortgage Finance,0
+SEB,Seaboard Corporation,Food Products,0
+PD,"PagerDuty, Inc.",Software,0
+SWCH,"Switch, Inc. Class A",IT Services,0
+VIRT,"Virtu Financial, Inc. Class A",Capital Markets,0
+SWI,SolarWinds Corp.,Software,0
+ANAT,American National Insurance Company,Insurance,0
+CHNG,"Change Healthcare, Inc.",Health Care Technology,0
+ADT,"ADT, Inc.",Commercial Services & Supplies,0
+CRNC,Cerence Inc,Software,0
+CHK,Chesapeake Energy Corporation,Oil Gas & Consumable Fuels,0
+EAF,GrafTech International Ltd.,Electrical Equipment,0
+RRC,Range Resources Corporation,Oil Gas & Consumable Fuels,0
+CDEV,"Centennial Resource Development, Inc. Class A",Oil Gas & Consumable Fuels,0
+GTES,Gates Industrial Corporation plc,Machinery,0
+USM,United States Cellular Corp,Wireless Telecommunication Services,0
+ADPT,Adaptive Biotechnologies Corp.,Life Sciences Tools & Services,0
+AR,Antero Resources Corporation,Oil Gas & Consumable Fuels,0
+LGF,Lions Gate Entertainment Corp Class A,Entertainment,0
+MDLA,"Medallia, Inc.",Software,0
+ARD,Ardagh Group S.A. Class A,Containers & Packaging,0

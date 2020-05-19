@@ -1,0 +1,2952 @@
+Ticker,Company Name,Industry
+AAXN,Axon Enterprise Inc,Aerospace & Defense
+AIR,AAR CORP.,Aerospace & Defense
+AJRD,"Aerojet Rocketdyne Holdings, Inc.",Aerospace & Defense
+ARNC,"Arconic, Inc.",Aerospace & Defense
+ATRO,Astronics Corporation,Aerospace & Defense
+AVAV,"AeroVironment, Inc.",Aerospace & Defense
+BA,Boeing Company,Aerospace & Defense
+BWXT,"BWX Technologies, Inc.",Aerospace & Defense
+CUB,Cubic Corporation,Aerospace & Defense
+CW,Curtiss-Wright Corporation,Aerospace & Defense
+DCO,Ducommun Incorporated,Aerospace & Defense
+GD,General Dynamics Corporation,Aerospace & Defense
+HEI,HEICO Corporation,Aerospace & Defense
+HII,"Huntington Ingalls Industries, Inc.",Aerospace & Defense
+HXL,Hexcel Corporation,Aerospace & Defense
+KTOS,"Kratos Defense & Security Solutions, Inc.",Aerospace & Defense
+LHX,L3Harris Technologies Inc,Aerospace & Defense
+LMT,Lockheed Martin Corporation,Aerospace & Defense
+MOG.A,Moog Inc. Class A,Aerospace & Defense
+MRCY,"Mercury Systems, Inc.",Aerospace & Defense
+NOC,Northrop Grumman Corporation,Aerospace & Defense
+NPK,"National Presto Industries, Inc.",Aerospace & Defense
+PKE,Park Aerospace Corp.,Aerospace & Defense
+PSN,Parsons Corporation,Aerospace & Defense
+RTN,Raytheon Company,Aerospace & Defense
+SPR,"Spirit AeroSystems Holdings, Inc. Class A",Aerospace & Defense
+TDG,TransDigm Group Incorporated,Aerospace & Defense
+TDY,Teledyne Technologies Incorporated,Aerospace & Defense
+TGI,"Triumph Group, Inc.",Aerospace & Defense
+TXT,Textron Inc.,Aerospace & Defense
+UTX,United Technologies Corporation,Aerospace & Defense
+VEC,Vectrus Inc,Aerospace & Defense
+AAWW,"Atlas Air Worldwide Holdings, Inc.",Air Freight & Logistics
+ATSG,"Air Transport Services Group, Inc.",Air Freight & Logistics
+CHRW,"C.H. Robinson Worldwide, Inc.",Air Freight & Logistics
+ECHO,"Echo Global Logistics, Inc",Air Freight & Logistics
+EXPD,"Expeditors International of Washington, Inc.",Air Freight & Logistics
+FDX,FedEx Corporation,Air Freight & Logistics
+FWRD,Forward Air Corporation,Air Freight & Logistics
+HUBG,"Hub Group, Inc. Class A",Air Freight & Logistics
+RLGT,"Radiant Logistics, Inc.",Air Freight & Logistics
+UPS,"United Parcel Service, Inc. Class B",Air Freight & Logistics
+XPO,"XPO Logistics, Inc.",Air Freight & Logistics
+AAL,"American Airlines Group, Inc.",Airlines
+ALGT,Allegiant Travel Company,Airlines
+ALK,"Alaska Air Group, Inc.",Airlines
+CPA,"Copa Holdings, S.A. Class A",Airlines
+DAL,"Delta Air Lines, Inc.",Airlines
+HA,"Hawaiian Holdings, Inc.",Airlines
+JBLU,JetBlue Airways Corporation,Airlines
+LUV,Southwest Airlines Co.,Airlines
+MESA,Mesa Air Group Inc,Airlines
+SAVE,"Spirit Airlines, Inc.",Airlines
+SKYW,"SkyWest, Inc",Airlines
+UAL,"United Airlines Holdings, Inc.",Airlines
+ADNT,Adient plc,Auto Components
+APTV,Aptiv PLC,Auto Components
+AXL,"American Axle & Manufacturing Holdings, Inc.",Auto Components
+BWA,BorgWarner Inc.,Auto Components
+CPS,Cooper-Standard Holdings Inc.,Auto Components
+CTB,Cooper Tire & Rubber Company,Auto Components
+DAN,Dana Incorporated,Auto Components
+DORM,"Dorman Products, Inc.",Auto Components
+FOXF,Fox Factory Holding Corp.,Auto Components
+GNTX,Gentex Corporation,Auto Components
+GT,Goodyear Tire & Rubber Company,Auto Components
+LCII,LCI Industries,Auto Components
+LEA,Lear Corporation,Auto Components
+MOD,Modine Manufacturing Company,Auto Components
+MPAA,"Motorcar Parts of America, Inc.",Auto Components
+SMP,"Standard Motor Products, Inc.",Auto Components
+SRI,"Stoneridge, Inc.",Auto Components
+TEN,Tenneco Inc. Class A,Auto Components
+THRM,Gentherm Incorporated,Auto Components
+VC,Visteon Corporation,Auto Components
+F,Ford Motor Company,Automobiles
+GM,General Motors Company,Automobiles
+HOG,"Harley-Davidson, Inc.",Automobiles
+THO,"Thor Industries, Inc.",Automobiles
+TSLA,Tesla Inc,Automobiles
+WGO,"Winnebago Industries, Inc.",Automobiles
+ABCB,Ameris Bancorp,Banks
+ABTX,"Allegiance Bancshares, Inc.",Banks
+ACBI,"Atlantic Capital Bancshares, Inc.",Banks
+ACNB,ACNB Corporation,Banks
+AMAL,Amalgamated Bank,Banks
+AMNB,American National Bankshares Inc.,Banks
+AMTB,Amerant Bancorp Inc. Class A,Banks
+AROW,Arrow Financial Corporation,Banks
+ASB,Associated Banc-Corp,Banks
+ATLO,Ames National Corporation,Banks
+AUB,Atlantic Union Bankshares Corporation,Banks
+BAC,Bank of America Corp,Banks
+BANC,Banc of California Incorporated,Banks
+BANF,BancFirst Corporation,Banks
+BANR,Banner Corporation,Banks
+BCBP,"BCB Bancorp, Inc.",Banks
+BCML,BayCom Corp.,Banks
+BDGE,"Bridge Bancorp, Inc.",Banks
+BFC,Bank First Corp,Banks
+BFIN,BankFinancial Corporation,Banks
+BFST,"Business First Bancshares, Inc.",Banks
+BHB,"Bar Harbor Bankshares, Inc.",Banks
+BHLB,"Berkshire Hills Bancorp, Inc.",Banks
+BKU,"BankUnited, Inc.",Banks
+BMRC,Bank of Marin Bancorp,Banks
+BMTC,Bryn Mawr Bank Corporation,Banks
+BOCH,Bank of Commerce Holdings,Banks
+BOH,Bank of Hawaii Corporation,Banks
+BOKF,BOK Financial Corporation,Banks
+BPFH,"Boston Private Financial Holdings, Inc.",Banks
+BPOP,"Popular, Inc.",Banks
+BPRN,Bank of Princeton,Banks
+BRKL,"Brookline Bancorp, Inc.",Banks
+BSRR,Sierra Bancorp,Banks
+BSVN,Bank7 Corp.,Banks
+BUSE,First Busey Corporation,Banks
+BWFG,"Bankwell Financial Group, Inc.",Banks
+BXS,BancorpSouth Bank,Banks
+BY,"Byline Bancorp, Inc.",Banks
+C,Citigroup Inc.,Banks
+CAC,Camden National Corporation,Banks
+CADE,Cadence Bancorporation Class A,Banks
+CARE,Carter Bank & Trust,Banks
+CARO,Carolina Financial Corp.,Banks
+CATC,Cambridge Bancorp,Banks
+CATY,Cathay General Bancorp,Banks
+CBAN,"Colony Bankcorp, Inc.",Banks
+CBNK,"Capital Bancorp, Inc.",Banks
+CBSH,"Commerce Bancshares, Inc.",Banks
+CBTX,"CBTX, Inc.",Banks
+CBU,"Community Bank System, Inc.",Banks
+CCB,Coastal Financial Corporation,Banks
+CCBG,"Capital City Bank Group, Inc.",Banks
+CCNE,CNB Financial Corporation,Banks
+CFB,"CrossFirst Bankshares, Inc.",Banks
+CFFI,C&F Financial Corporation,Banks
+CFG,"Citizens Financial Group, Inc.",Banks
+CFR,"Cullen/Frost Bankers, Inc.",Banks
+CHCO,City Holding Company,Banks
+CHMG,Chemung Financial Corporation,Banks
+CIT,CIT Group Inc.,Banks
+CIVB,"Civista Bancshares, Inc.",Banks
+CMA,Comerica Incorporated,Banks
+CNBKA,"Century Bancorp, Inc. Class A",Banks
+CNOB,"ConnectOne Bancorp, Inc.",Banks
+COLB,"Columbia Banking System, Inc.",Banks
+CPF,Central Pacific Financial Corp.,Banks
+CSFL,CenterState Bank Corporation,Banks
+CSTR,"CapStar Financial Holdings, Inc.",Banks
+CTBI,"Community Trust Bancorp, Inc.",Banks
+CUBI,"Customers Bancorp, Inc.",Banks
+CVBF,CVB Financial Corp.,Banks
+CVCY,Central Valley Community Bancorp,Banks
+CVLY,"Codorus Valley Bancorp, Inc.",Banks
+CZNC,Citizens & Northern Corporation,Banks
+DCOM,"Dime Community Bancshares, Inc.",Banks
+EBTC,"Enterprise Bancorp, Inc.",Banks
+EFSC,Enterprise Financial Services Corp,Banks
+EGBN,"Eagle Bancorp, Inc.",Banks
+EQBK,"Equity Bancshares, Inc. Class A",Banks
+ESQ,"Esquire Financial Holdings, Inc.",Banks
+ESXB,Community Bankers Trust Corporation,Banks
+EVBN,"Evans Bancorp, Inc.",Banks
+EWBC,"East West Bancorp, Inc.",Banks
+FBIZ,"First Business Financial Services, Inc.",Banks
+FBK,FB Financial Corporation,Banks
+FBMS,"First Bancshares, Inc.",Banks
+FBNC,First Bancorp,Banks
+FBP,First Bancorp,Banks
+FCAP,"First Capital, Inc.",Banks
+FCBC,First Community Bankshares Inc,Banks
+FCBP,First Choice Bancorp,Banks
+FCCY,1st Constitution Bancorp,Banks
+FCF,First Commonwealth Financial Corporation,Banks
+FCNCA,"First Citizens BancShares, Inc. Class A",Banks
+FDBC,"Fidelity D & D Bancorp, Inc.",Banks
+FFBC,First Financial Bancorp.,Banks
+FFIC,Flushing Financial Corporation,Banks
+FFIN,First Financial Bankshares Inc,Banks
+FFNW,"First Financial Northwest, Inc.",Banks
+FFWM,"First Foundation, Inc.",Banks
+FGBI,"First Guaranty Bancshares, Inc.",Banks
+FHB,"First Hawaiian, Inc.",Banks
+FHN,First Horizon National Corporation,Banks
+FIBK,"First Interstate BancSystem, Inc. Class A",Banks
+FISI,"Financial Institutions, Inc.",Banks
+FITB,Fifth Third Bancorp,Banks
+FLIC,First of Long Island Corporation,Banks
+FMAO,"Farmers & Merchants Bancorp, Inc.",Banks
+FMBH,"First Mid Bancshares, Inc.",Banks
+FMBI,"First Midwest Bancorp, Inc.",Banks
+FMNB,Farmers National Banc Corp.,Banks
+FNB,F.N.B. Corporation,Banks
+FNCB,"FNCB Bancorp, Inc.",Banks
+FNLC,"First Bancorp, Inc.",Banks
+FNWB,First Northwest Bancorp,Banks
+FRAF,Franklin Financial Services Corporation,Banks
+FRBA,First Bank,Banks
+FRBK,"Republic First Bancorp, Inc.",Banks
+FRC,First Republic Bank,Banks
+FRME,First Merchants Corporation,Banks
+FSB,"Franklin Financial Network, Inc.",Banks
+FULT,Fulton Financial Corporation,Banks
+FVCB,"FVCBankcorp, Inc.",Banks
+GABC,"German American Bancorp, Inc.",Banks
+GBCI,"Glacier Bancorp, Inc.",Banks
+GNTY,"Guaranty Bancshares, Inc.",Banks
+GSBC,"Great Southern Bancorp, Inc.",Banks
+GWB,"Great Western Bancorp, Inc.",Banks
+HAFC,Hanmi Financial Corporation,Banks
+HBAN,Huntington Bancshares Incorporated,Banks
+HBMD,"Howard Bancorp, Inc.",Banks
+HBNC,"Horizon Bancorp, Inc.",Banks
+HBT,"HBT Financial, Inc.",Banks
+HFWA,Heritage Financial Corporation,Banks
+HOMB,"Home BancShares, Inc.",Banks
+HONE,HarborOne Bancorp Inc,Banks
+HOPE,"Hope Bancorp, Inc.",Banks
+HTBI,"HomeTrust Bancshares, Inc.",Banks
+HTBK,Heritage Commerce Corp,Banks
+HTH,Hilltop Holdings Inc.,Banks
+HTLF,"Heartland Financial USA, Inc.",Banks
+HWBK,"Hawthorn Bancshares, Inc.",Banks
+HWC,Hancock Whitney Corporation,Banks
+IBCP,Independent Bank Corporation,Banks
+IBKC,IBERIABANK Corporation,Banks
+IBOC,International Bancshares Corporation,Banks
+IBTX,"Independent Bank Group, Inc.",Banks
+INBK,First Internet Bancorp,Banks
+INDB,Independent Bank Corp.,Banks
+ISBC,Investors Bancorp Inc,Banks
+ISTR,Investar Holding Corp,Banks
+JPM,JPMorgan Chase & Co.,Banks
+KEY,KeyCorp,Banks
+LBAI,"Lakeland Bancorp, Inc.",Banks
+LCNB,LCNB Corp.,Banks
+LEVL,"Level One Bancorp, Inc.",Banks
+LKFN,Lakeland Financial Corporation,Banks
+LOB,"Live Oak Bancshares, Inc.",Banks
+MBWM,Mercantile Bank Corporation,Banks
+MCB,Metropolitan Bank Holding Corp.,Banks
+MCBC,Macatawa Bank Corporation,Banks
+MCBS,"MetroCity Bankshares, Inc.",Banks
+MFNC,Mackinac Financial Corporation,Banks
+MFSF,"MutualFirst Financial, Inc.",Banks
+MLVF,"Malvern Bancorp, Inc.",Banks
+MNSB,"MainStreet Bancshares, Inc.",Banks
+MOFG,"MidWestOne Financial Group, Inc.",Banks
+MPB,"Mid Penn Bancorp, Inc.",Banks
+MSBI,"Midland States Bancorp, Inc.",Banks
+MTB,M&T Bank Corporation,Banks
+MVBF,MVB Financial Corp.,Banks
+NBHC,National Bank Holdings Corporation Class A,Banks
+NBN,Northeast Bank,Banks
+NBTB,NBT Bancorp Inc.,Banks
+NCBS,"Nicolet Bankshares, Inc.",Banks
+NKSH,"National Bankshares, Inc.",Banks
+NRIM,"Northrim BanCorp, Inc.",Banks
+NTB,Bank of N.T. Butterfield & Son Limited (The),Banks
+NWFL,Norwood Financial Corp.,Banks
+OBNK,"Origin Bancorp, Inc.",Banks
+OFG,OFG Bancorp,Banks
+ONB,Old National Bancorp,Banks
+OPB,Opus Bank,Banks
+ORRF,"Orrstown Financial Services, Inc.",Banks
+OSBC,"Old Second Bancorp, Inc.",Banks
+OVBC,Ohio Valley Banc Corp.,Banks
+OVLY,Oak Valley Bancorp,Banks
+OZK,Bank OZK,Banks
+PACW,PacWest Bancorp,Banks
+PB,"Prosperity Bancshares, Inc.(R)",Banks
+PBCT,"People's United Financial, Inc.",Banks
+PCB,PCB Bancorp,Banks
+PEBK,"Peoples Bancorp of North Carolina, Inc.",Banks
+PEBO,Peoples Bancorp Inc.,Banks
+PFBC,Preferred Bank,Banks
+PFBI,"Premier Financial Bancorp, Inc.",Banks
+PFHD,Professional Holding Corp Class A,Banks
+PFIS,Peoples Financial Services Corp.,Banks
+PGC,Peapack-Gladstone Financial Corporation,Banks
+PKBK,"Parke Bancorp, Inc.",Banks
+PMBC,Pacific Mercantile Bancorp,Banks
+PNC,"PNC Financial Services Group, Inc.",Banks
+PNFP,"Pinnacle Financial Partners, Inc.",Banks
+PPBI,"Pacific Premier Bancorp, Inc.",Banks
+PRK,Park National Corporation,Banks
+PUB,People's Utah Bancorp,Banks
+PWOD,"Penns Woods Bancorp, Inc.",Banks
+QCRH,"QCR Holdings, Inc.",Banks
+RBB,RBB Bancorp,Banks
+RBCAA,"Republic Bancorp, Inc. Class A",Banks
+RBNC,Reliant Bancorp Inc,Banks
+RF,Regions Financial Corporation,Banks
+RMBI,"Richmond Mutual Bancorporation, Inc.",Banks
+RNST,Renasant Corporation,Banks
+RRBI,"Red River Bancshares, Inc.",Banks
+SASR,"Sandy Spring Bancorp, Inc.",Banks
+SBBX,SB One Bancorp,Banks
+SBCF,Seacoast Banking Corporation of Florida,Banks
+SBNY,Signature Bank,Banks
+SBSI,"Southside Bancshares, Inc.",Banks
+SFBS,ServisFirst Bancshares Inc,Banks
+SFNC,Simmons First National Corporation Class A,Banks
+SFST,"Southern First Bancshares, Inc.",Banks
+SHBI,"Shore Bancshares, Inc.",Banks
+SI,Silvergate Capital Corp. Class A,Banks
+SIVB,SVB Financial Group,Banks
+SLCT,Select Bancorp Inc,Banks
+SMBK,"SmartFinancial, Inc.",Banks
+SMMF,"Summit Financial Group, Inc.",Banks
+SNV,Synovus Financial Corp.,Banks
+SONA,"Southern National Bancorp of Virginia, Inc.",Banks
+SPFI,South Plains Financial Inc,Banks
+SRCE,1st Source Corporation,Banks
+SSB,South State Corporation,Banks
+STBA,"S&T Bancorp, Inc.",Banks
+STL,Sterling Bancorp,Banks
+STXB,"Spirit of Texas Bancshares, Inc.",Banks
+SYBT,"Stock Yards Bancorp, Inc.",Banks
+TBBK,Bancorp Inc,Banks
+TBK,"Triumph Bancorp, Inc.",Banks
+TCBI,"Texas Capital Bancshares, Inc.",Banks
+TCBK,TriCo Bancshares,Banks
+TCF,TCF Financial Corporation,Banks
+TCFC,Community Financial Corporation,Banks
+TFC,Truist Financial Corporation,Banks
+THFF,First Financial Corporation,Banks
+TMP,Tompkins Financial Corporation,Banks
+TOWN,TowneBank,Banks
+TRMK,Trustmark Corporation,Banks
+TSC,"TriState Capital Holdings, Inc.",Banks
+UBFO,United Security Bancshares,Banks
+UBSI,"United Bankshares, Inc.",Banks
+UCBI,"United Community Banks, Inc.",Banks
+UMBF,UMB Financial Corporation,Banks
+UMPQ,Umpqua Holdings Corporation,Banks
+UNB,"Union Bankshares, Inc.",Banks
+UNTY,"Unity Bancorp, Inc.",Banks
+USB,U.S. Bancorp,Banks
+UVSP,Univest Financial Corporation,Banks
+VBTX,"Veritex Holdings, Inc.",Banks
+VLY,Valley National Bancorp,Banks
+WABC,Westamerica Bancorporation,Banks
+WAL,Western Alliance Bancorp,Banks
+WASH,"Washington Trust Bancorp, Inc.",Banks
+WBS,Webster Financial Corporation,Banks
+WFC,Wells Fargo & Company,Banks
+WSBC,"WesBanco, Inc.",Banks
+WTBA,"West Bancorporation, Inc.",Banks
+WTFC,Wintrust Financial Corporation,Banks
+ZION,"Zions Bancorporation, N.A.",Banks
+BF.B,Brown-Forman Corporation Class B,Beverages
+BREW,Craft Brew Alliance,Beverages
+CELH,"Celsius Holdings, Inc.",Beverages
+COKE,"Coca-Cola Consolidated, Inc.",Beverages
+FIZZ,National Beverage Corp.,Beverages
+KDP,Keurig Dr Pepper Inc.,Beverages
+KO,Coca-Cola Company,Beverages
+MGPI,"MGP Ingredients, Inc.",Beverages
+MNST,Monster Beverage Corporation,Beverages
+NBEV,New Age Beverages Corp,Beverages
+PEP,"PepsiCo, Inc.",Beverages
+SAM,"Boston Beer Company, Inc. Class A",Beverages
+STZ,"Constellation Brands, Inc. Class A",Beverages
+TAP,Molson Coors Beverage Company Class B,Beverages
+ABBV,"AbbVie, Inc.",Biotechnology
+ABEO,"Abeona Therapeutics, Inc.",Biotechnology
+ACAD,ACADIA Pharmaceuticals Inc.,Biotechnology
+ACOR,"Acorda Therapeutics, Inc.",Biotechnology
+ADMA,"ADMA Biologics, Inc.",Biotechnology
+ADMS,"Adamas Pharmaceuticals, Inc.",Biotechnology
+ADRO,"Aduro BioTech, Inc.",Biotechnology
+ADVM,Adverum Biotechnologies Inc,Biotechnology
+AFMD,Affimed N.V.,Biotechnology
+AGE,"AgeX Therapeutics, Inc.",Biotechnology
+AGEN,Agenus Inc.,Biotechnology
+AGIO,"Agios Pharmaceuticals, Inc.",Biotechnology
+AGLE,Aeglea BioTherapeutics Inc,Biotechnology
+AIMT,Aimmune Therapeutics Inc,Biotechnology
+AKBA,"Akebia Therapeutics, Inc.",Biotechnology
+AKCA,"Akcea Therapeutics, Inc.",Biotechnology
+AKRO,"Akero Therapeutics, Inc.",Biotechnology
+ALBO,"Albireo Pharma, Inc.",Biotechnology
+ALDX,"Aldeyra Therapeutics, Inc.",Biotechnology
+ALEC,"Alector, Inc.",Biotechnology
+ALKS,Alkermes Plc,Biotechnology
+ALLK,"Allakos, Inc.",Biotechnology
+ALLO,"Allogene Therapeutics, Inc.",Biotechnology
+ALNY,"Alnylam Pharmaceuticals, Inc",Biotechnology
+ALXN,"Alexion Pharmaceuticals, Inc.",Biotechnology
+AMAG,"AMAG Pharmaceuticals, Inc.",Biotechnology
+AMGN,Amgen Inc.,Biotechnology
+ANAB,"AnaptysBio, Inc.",Biotechnology
+ANIK,"Anika Therapeutics, Inc.",Biotechnology
+APLS,"Apellis Pharmaceuticals, Inc.",Biotechnology
+APLT,"Applied Therapeutics, Inc.",Biotechnology
+APRE,"Aprea Therapeutics, Inc.",Biotechnology
+ARDX,"Ardelyx, Inc.",Biotechnology
+ARNA,"Arena Pharmaceuticals, Inc.",Biotechnology
+ARQT,Arcutis Biotherapeutics Inc,Biotechnology
+ARWR,"Arrowhead Pharmaceuticals, Inc.",Biotechnology
+ASMB,"Assembly Biosciences, Inc.",Biotechnology
+ATHX,"Athersys, Inc.",Biotechnology
+ATNX,"Athenex, Inc.",Biotechnology
+ATRA,Atara Biotherapeutics Inc,Biotechnology
+AVRO,AVROBIO Inc,Biotechnology
+AVXL,Anavex Life Sciences Corp.,Biotechnology
+AXLA,"Axcella Health, Inc.",Biotechnology
+BBIO,"BridgeBio Pharma, Inc.",Biotechnology
+BCEL,"Atreca, Inc. Class A",Biotechnology
+BCRX,"BioCryst Pharmaceuticals, Inc.",Biotechnology
+BDTX,"Black Diamond Therapeutics, Inc.",Biotechnology
+BEAM,"Beam Therapeutics, Inc.",Biotechnology
+BHVN,Biohaven Pharmaceutical Holding Company Ltd.,Biotechnology
+BIIB,Biogen Inc.,Biotechnology
+BLUE,"bluebird bio, Inc.",Biotechnology
+BMRN,BioMarin Pharmaceutical Inc.,Biotechnology
+BPMC,Blueprint Medicines Corp.,Biotechnology
+BSTC,BioSpecifics Technologies Corp.,Biotechnology
+BTAI,"BioXcel Therapeutics, Inc.",Biotechnology
+BYSI,BeyondSpring Inc.,Biotechnology
+CABA,"Cabaletta Bio, Inc.",Biotechnology
+CALA,"Calithera Biosciences, Inc.",Biotechnology
+CASI,CASI Pharmaceuticals Inc,Biotechnology
+CBMG,"Cellular Biomedicine Group, Inc.",Biotechnology
+CCXI,"Chemocentryx, Inc.",Biotechnology
+CDMO,"Avid Bioservices, Inc.",Biotechnology
+CDNA,"CareDx, Inc.",Biotechnology
+CELC,Celcuity Inc.,Biotechnology
+CHRS,"Coherus BioSciences, Inc.",Biotechnology
+CKPT,"Checkpoint Therapeutics, Inc.",Biotechnology
+CLVS,"Clovis Oncology, Inc.",Biotechnology
+CLXT,"Calyxt, Inc.",Biotechnology
+CMRX,"Chimerix, Inc.",Biotechnology
+CNCE,"Concert Pharmaceuticals, Inc.",Biotechnology
+CNST,"Constellation Pharmaceuticals, Inc.",Biotechnology
+CNTG,Centogene NV,Biotechnology
+CPRX,"Catalyst Pharmaceuticals, Inc.",Biotechnology
+CRBP,Corbus Pharmaceuticals Holdings Inc,Biotechnology
+CRNX,Crinetics Pharmaceuticals Inc,Biotechnology
+CRTX,"Cortexyme, Inc.",Biotechnology
+CSTL,"Castle Biosciences, Inc.",Biotechnology
+CTMX,"CytomX Therapeutics, Inc.",Biotechnology
+CUE,"Cue Biopharma, Inc.",Biotechnology
+CVM,CEL-SCI Corporation,Biotechnology
+CYCN,"Cyclerion Therapeutics,Inc.",Biotechnology
+CYTK,"Cytokinetics, Incorporated",Biotechnology
+DCPH,"Deciphera Pharmaceuticals, Inc.",Biotechnology
+DNLI,Denali Therapeutics Inc.,Biotechnology
+DRNA,"Dicerna Pharmaceuticals, Inc.",Biotechnology
+DTIL,"Precision BioSciences, Inc.",Biotechnology
+DVAX,Dynavax Technologies Corporation,Biotechnology
+EBS,Emergent BioSolutions Inc.,Biotechnology
+EDIT,"Editas Medicine, Inc.",Biotechnology
+EGRX,"Eagle Pharmaceuticals, Inc.",Biotechnology
+EIDX,Eidos Therapeutics Inc,Biotechnology
+EIGR,"Eiger BioPharmaceuticals, Inc.",Biotechnology
+ENOB,Enochian Biosciences Inc.,Biotechnology
+ENTA,"Enanta Pharmaceuticals, Inc.",Biotechnology
+EPZM,"Epizyme, Inc.",Biotechnology
+ESPR,"Esperion Therapeutics, Inc.",Biotechnology
+ETNB,89bio Inc,Biotechnology
+EVLO,"Evelo Biosciences, Inc.",Biotechnology
+EXAS,Exact Sciences Corporation,Biotechnology
+EXEL,"Exelixis, Inc.",Biotechnology
+FATE,"Fate Therapeutics, Inc.",Biotechnology
+FGEN,"FibroGen, Inc.",Biotechnology
+FIXX,"Homology Medicines, Inc.",Biotechnology
+FLXN,"Flexion Therapeutics, Inc.",Biotechnology
+FOLD,"Amicus Therapeutics, Inc.",Biotechnology
+FPRX,"Five Prime Therapeutics, Inc.",Biotechnology
+FREQ,"Frequency Therapeutics, Inc.",Biotechnology
+FTSV,Forty Seven Inc,Biotechnology
+GALT,Galectin Therapeutics Inc.,Biotechnology
+GBT,Global Blood Therapeutics Inc,Biotechnology
+GERN,Geron Corporation,Biotechnology
+GILD,"Gilead Sciences, Inc.",Biotechnology
+GLYC,"GlycoMimetics, Inc.",Biotechnology
+GOSS,"Gossamer Bio, Inc.",Biotechnology
+GRTS,"Gritstone Oncology, Inc.",Biotechnology
+GRTX,"Galera Therapeutics, Inc.",Biotechnology
+GTHX,"G1 Therapeutics, Inc.",Biotechnology
+HALO,"Halozyme Therapeutics, Inc.",Biotechnology
+HARP,"Harpoon Therapeutics, Inc.",Biotechnology
+HOOK,"Hookipa Pharma, Inc.",Biotechnology
+HRTX,Heron Therapeutics Inc,Biotechnology
+ICPT,"Intercept Pharmaceuticals, Inc.",Biotechnology
+IGMS,"IGM Biosciences, Inc.",Biotechnology
+IMGN,"ImmunoGen, Inc.",Biotechnology
+IMMU,"Immunomedics, Inc.",Biotechnology
+INCY,Incyte Corporation,Biotechnology
+INO,"Inovio Pharmaceuticals, Inc.",Biotechnology
+INSM,Insmed Incorporated,Biotechnology
+IONS,"Ionis Pharmaceuticals, Inc.",Biotechnology
+IOVA,Iovance Biotherapeutics Inc,Biotechnology
+IRWD,"Ironwood Pharmaceuticals, Inc. Class A",Biotechnology
+JNCE,"Jounce Therapeutics, Inc.",Biotechnology
+KALV,"KalVista Pharmaceuticals, Inc.",Biotechnology
+KDMN,"Kadmon Holdings, Inc.",Biotechnology
+KIN,"Kindred Biosciences, Inc.",Biotechnology
+KNSA,Kiniksa Pharmaceuticals Ltd. Class A,Biotechnology
+KOD,"Kodiak Sciences, Inc.",Biotechnology
+KPTI,"Karyopharm Therapeutics, Inc.",Biotechnology
+KRTX,"Karuna Therapeutics, Inc.",Biotechnology
+KRYS,"Krystal Biotech, Inc.",Biotechnology
+KURA,"Kura Oncology, Inc.",Biotechnology
+KZR,Kezar Life Sciences Inc,Biotechnology
+LCTX,"Lineage Cell Therapeutics, Inc.",Biotechnology
+LGND,Ligand Pharmaceuticals Incorporated,Biotechnology
+LJPC,La Jolla Pharmaceutical Company,Biotechnology
+LOGC,"LogicBio Therapeutics, Inc.",Biotechnology
+LXRX,"Lexicon Pharmaceuticals, Inc.",Biotechnology
+MBIO,"Mustang Bio, Inc.",Biotechnology
+MCRB,Seres Therapeutics Inc,Biotechnology
+MDGL,"Madrigal Pharmaceuticals, Inc.",Biotechnology
+MEIP,"MEI Pharma, Inc.",Biotechnology
+MGNX,"MacroGenics, Inc.",Biotechnology
+MGTA,Magenta Therapeutics Inc,Biotechnology
+MGTX,MeiraGTx Holdings Plc,Biotechnology
+MIRM,"Mirum Pharmaceuticals, Inc.",Biotechnology
+MLND,"Millendo Therapeutics, Inc.",Biotechnology
+MNKD,MannKind Corporation,Biotechnology
+MNOV,"MediciNova, Inc.",Biotechnology
+MNTA,"Momenta Pharmaceuticals, Inc.",Biotechnology
+MORF,"Morphic Holding, Inc.",Biotechnology
+MRKR,"Marker Therapeutics, Inc.",Biotechnology
+MRNA,"Moderna, Inc.",Biotechnology
+MRSN,"Mersana Therapeutics, Inc.",Biotechnology
+MRTX,Mirati Therapeutics Inc.,Biotechnology
+MTEM,"Molecular Templates, Inc.",Biotechnology
+MYGN,"Myriad Genetics, Inc.",Biotechnology
+NBIX,"Neurocrine Biosciences, Inc.",Biotechnology
+NERV,Minerva Neurosciences Inc,Biotechnology
+NTGN,Neon Therapeutics Inc,Biotechnology
+NTLA,"Intellia Therapeutics, Inc.",Biotechnology
+NTRA,"Natera, Inc.",Biotechnology
+NVAX,"Novavax, Inc.",Biotechnology
+NVTA,Invitae Corp.,Biotechnology
+NXTC,"NextCure, Inc.",Biotechnology
+OCX,OncoCyte Corp.,Biotechnology
+OPK,"OPKO Health, Inc.",Biotechnology
+ORGO,"Organogenesis Holdings, Inc. Class A",Biotechnology
+OYST,Oyster Point Pharma Inc,Biotechnology
+PBYI,"Puma Biotechnology, Inc.",Biotechnology
+PDLI,"PDL BioPharma, Inc.",Biotechnology
+PFNX,"Pfenex, Inc.",Biotechnology
+PGEN,Precigen Inc,Biotechnology
+PGNX,"Progenics Pharmaceuticals, Inc.",Biotechnology
+PHAS,"PhaseBio Pharmaceuticals, Inc.",Biotechnology
+PIRS,"Pieris Pharmaceuticals, Inc.",Biotechnology
+PRNB,"Principia Biopharma, Inc.",Biotechnology
+PRTA,Prothena Corp. Plc,Biotechnology
+PRVL,"Prevail Therapeutics, Inc.",Biotechnology
+PTCT,"PTC Therapeutics, Inc.",Biotechnology
+PTE,"PolarityTE, Inc.",Biotechnology
+PTGX,"Protagonist Therapeutics, Inc.",Biotechnology
+PTLA,"Portola Pharmaceuticals, Inc.",Biotechnology
+PTN,"Palatin Technologies, Inc.",Biotechnology
+RAPT,"RAPT Therapeutics, Inc.",Biotechnology
+RARE,"Ultragenyx Pharmaceutical, Inc.",Biotechnology
+RARX,"Ra Pharmaceuticals, Inc.",Biotechnology
+RCKT,"Rocket Pharmaceuticals, Inc.",Biotechnology
+RCUS,"Arcus Biosciences, Inc.",Biotechnology
+RDUS,Radius Health Inc,Biotechnology
+REGN,"Regeneron Pharmaceuticals, Inc.",Biotechnology
+REPL,"Replimune Group, Inc.",Biotechnology
+RGNX,"REGENXBIO, Inc.",Biotechnology
+RIGL,"Rigel Pharmaceuticals, Inc.",Biotechnology
+RTRX,"Retrophin, Inc.",Biotechnology
+RUBY,"Rubius Therapeutics, Inc.",Biotechnology
+RVMD,"Revolution Medicines, Inc.",Biotechnology
+RYTM,"Rhythm Pharmaceuticals, Inc.",Biotechnology
+SAGE,"SAGE Therapeutics, Inc.",Biotechnology
+SGEN,"Seattle Genetics, Inc.",Biotechnology
+SGMO,"Sangamo Therapeutics, Inc.",Biotechnology
+SLDB,Solid Biosciences Inc.,Biotechnology
+SNDX,Syndax Pharmaceuticals Inc,Biotechnology
+SPPI,"Spectrum Pharmaceuticals, Inc.",Biotechnology
+SPRO,"Spero Therapeutics, Inc.",Biotechnology
+SRNE,"Sorrento Therapeutics, Inc.",Biotechnology
+SRPT,"Sarepta Therapeutics, Inc.",Biotechnology
+SRRK,Scholar Rock Holding Corp.,Biotechnology
+STML,"Stemline Therapeutics, Inc.",Biotechnology
+STOK,"Stoke Therapeutics, Inc.",Biotechnology
+STRO,"Sutro Biopharma, Inc.",Biotechnology
+SVRA,"Savara, Inc.",Biotechnology
+SWTX,"Springworks Therapeutics, Inc.",Biotechnology
+SYBX,Synlogic Inc,Biotechnology
+SYRS,"Syros Pharmaceuticals, Inc.",Biotechnology
+TBIO,"Translate Bio, Inc.",Biotechnology
+TCRR,"TCR2 Therapeutics, Inc.",Biotechnology
+TGTX,"TG Therapeutics, Inc.",Biotechnology
+TOCA,Tocagen Inc.,Biotechnology
+TPTX,"Turning Point Therapeutics, Inc.",Biotechnology
+TWST,Twist Bioscience Corp.,Biotechnology
+TYME,"Tyme Technologies, Inc.",Biotechnology
+UBX,"Unity Biotechnology, Inc.",Biotechnology
+URGN,UroGen Pharma Ltd.,Biotechnology
+UTHR,United Therapeutics Corporation,Biotechnology
+VBIV,"VBI Vaccines, Inc.",Biotechnology
+VCEL,Vericel Corporation,Biotechnology
+VCYT,Veracyte Inc,Biotechnology
+VIE,"Viela Bio, Inc.",Biotechnology
+VIR,"Vir Biotechnology, Inc.",Biotechnology
+VKTX,"Viking Therapeutics, Inc.",Biotechnology
+VNDA,Vanda Pharmaceuticals Inc.,Biotechnology
+VRTX,Vertex Pharmaceuticals Incorporated,Biotechnology
+VYGR,"Voyager Therapeutics, Inc.",Biotechnology
+XBIT,"XBiotech, Inc.",Biotechnology
+XFOR,"X4 Pharmaceuticals, Inc.",Biotechnology
+XLRN,Acceleron Pharma Inc,Biotechnology
+XNCR,"Xencor, Inc.",Biotechnology
+YMAB,"Y-mAbs Therapeutics, Inc.",Biotechnology
+ZIOP,"ZIOPHARM Oncology, Inc.",Biotechnology
+AAON,"AAON, Inc.",Building Products
+AFI,"Armstrong Flooring, Inc.",Building Products
+ALLE,Allegion PLC,Building Products
+AMWD,American Woodmark Corporation,Building Products
+AOS,A. O. Smith Corporation,Building Products
+APOG,"Apogee Enterprises, Inc.",Building Products
+AWI,"Armstrong World Industries, Inc.",Building Products
+BLDR,"Builders FirstSource, Inc.",Building Products
+CNR,Cornerstone Building Brands Inc,Building Products
+CSTE,Caesarstone Ltd.,Building Products
+CSWI,"CSW Industrials, Inc.",Building Products
+DOOR,Masonite International Corp.,Building Products
+FBHS,"Fortune Brands Home & Security, Inc.",Building Products
+GFF,Griffon Corporation,Building Products
+IIIN,"Insteel Industries, Inc.",Building Products
+JCI,Johnson Controls International plc,Building Products
+JELD,"JELD-WEN Holding, Inc.",Building Products
+LII,Lennox International Inc.,Building Products
+MAS,Masco Corporation,Building Products
+NX,Quanex Building Products Corporation,Building Products
+OC,Owens Corning,Building Products
+PATK,"Patrick Industries, Inc.",Building Products
+PGTI,"PGT Innovations, Inc.",Building Products
+REZI,"Resideo Technologies, Inc.",Building Products
+ROCK,"Gibraltar Industries, Inc.",Building Products
+SSD,"Simpson Manufacturing Co., Inc.",Building Products
+TREX,"Trex Company, Inc.",Building Products
+TT,Trane Technologies plc,Building Products
+UFPI,"Universal Forest Products, Inc.",Building Products
+WMS,"Advanced Drainage Systems, Inc.",Building Products
+AC,"Associated Capital Group, Inc. Class A",Capital Markets
+AMG,"Affiliated Managers Group, Inc.",Capital Markets
+AMK,"AssetMark Financial Holdings, Inc.",Capital Markets
+AMP,"Ameriprise Financial, Inc.",Capital Markets
+AMTD,TD Ameritrade Holding Corporation,Capital Markets
+APAM,"Artisan Partners Asset Management, Inc. Class A",Capital Markets
+ARES,Ares Management Corporation,Capital Markets
+BCOR,"Blucora, Inc.",Capital Markets
+BEN,"Franklin Resources, Inc.",Capital Markets
+BGCP,"BGC Partners, Inc. Class A",Capital Markets
+BK,Bank of New York Mellon Corporation,Capital Markets
+BLK,"BlackRock, Inc.",Capital Markets
+BSIG,"BrightSphere Investment Group, Inc.",Capital Markets
+CBOE,Cboe Global Markets Inc,Capital Markets
+CME,CME Group Inc. Class A,Capital Markets
+CNS,"Cohen & Steers, Inc.",Capital Markets
+COWN,Cowen Inc Class A,Capital Markets
+DFIN,"Donnelley Financial Solutions, Inc.",Capital Markets
+DHIL,"Diamond Hill Investment Group, Inc.",Capital Markets
+ETFC,E*TRADE Financial Corporation,Capital Markets
+EV,Eaton Vance Corp.,Capital Markets
+EVR,Evercore Inc Class A,Capital Markets
+FDS,FactSet Research Systems Inc.,Capital Markets
+FHI,"Federated Hermes, Inc. Class B",Capital Markets
+FOCS,"Focus Financial Partners, Inc. Class A",Capital Markets
+GBL,"GAMCO Investors, Inc. Class A",Capital Markets
+GCAP,"GAIN Capital Holdings, Inc.",Capital Markets
+GHL,"Greenhill & Co., Inc.",Capital Markets
+GS,"Goldman Sachs Group, Inc.",Capital Markets
+HLI,"Houlihan Lokey, Inc. Class A",Capital Markets
+HLNE,Hamilton Lane Incorporated Class A,Capital Markets
+IBKR,"Interactive Brokers Group, Inc. Class A",Capital Markets
+ICE,"Intercontinental Exchange, Inc.",Capital Markets
+INTL,INTL FCStone Inc.,Capital Markets
+IVZ,Invesco Ltd.,Capital Markets
+JHG,Janus Henderson Group PLC,Capital Markets
+LAZ,Lazard Ltd Class A,Capital Markets
+LM,"Legg Mason, Inc.",Capital Markets
+LPLA,LPL Financial Holdings Inc.,Capital Markets
+MC,Moelis & Co. Class A,Capital Markets
+MCO,Moody's Corporation,Capital Markets
+MKTX,MarketAxess Holdings Inc.,Capital Markets
+MORN,"Morningstar, Inc.",Capital Markets
+MS,Morgan Stanley,Capital Markets
+MSCI,MSCI Inc. Class A,Capital Markets
+NDAQ,"Nasdaq, Inc.",Capital Markets
+NTRS,Northern Trust Corporation,Capital Markets
+OPY,Oppenheimer Holdings Inc. Class A,Capital Markets
+PIPR,Piper Sandler Companies,Capital Markets
+PJT,"PJT Partners, Inc. Class A",Capital Markets
+PZN,"Pzena Investment Management, Inc. Class A",Capital Markets
+RILY,"B. Riley Financial, Inc.",Capital Markets
+RJF,"Raymond James Financial, Inc.",Capital Markets
+SAMG,"Silvercrest Asset Management Group, Inc. Class A",Capital Markets
+SCHW,Charles Schwab Corporation,Capital Markets
+SCU,"Sculptor Capital Management, Inc. Class A",Capital Markets
+SEIC,SEI Investments Company,Capital Markets
+SF,Stifel Financial Corp.,Capital Markets
+SFE,"Safeguard Scientifics, Inc.",Capital Markets
+SIEB,Siebert Financial Corp.,Capital Markets
+SPGI,"S&P Global, Inc.",Capital Markets
+STT,State Street Corporation,Capital Markets
+TROW,T. Rowe Price Group,Capital Markets
+VALU,"Value Line, Inc.",Capital Markets
+VIRT,"Virtu Financial, Inc. Class A",Capital Markets
+VRTS,"Virtus Investment Partners, Inc.",Capital Markets
+WDR,"Waddell & Reed Financial, Inc. Class A",Capital Markets
+WETF,"WisdomTree Investments, Inc.",Capital Markets
+WHG,"Westwood Holdings Group, Inc.",Capital Markets
+ADES,"Advanced Emissions Solutions, Inc.",Chemicals
+ALB,Albemarle Corporation,Chemicals
+AMRS,"Amyris, Inc.",Chemicals
+APD,"Air Products and Chemicals, Inc.",Chemicals
+ASH,"Ashland Global Holdings, Inc.",Chemicals
+ASIX,"AdvanSix, Inc.",Chemicals
+AVD,American Vanguard Corporation,Chemicals
+AXTA,Axalta Coating Systems Ltd.,Chemicals
+BCPC,Balchem Corporation,Chemicals
+CBT,Cabot Corporation,Chemicals
+CC,Chemours Co.,Chemicals
+CCF,Chase Corporation,Chemicals
+CE,Celanese Corporation,Chemicals
+CF,"CF Industries Holdings, Inc.",Chemicals
+CTVA,Corteva Inc,Chemicals
+DD,"DuPont de Nemours, Inc.",Chemicals
+DOW,"Dow, Inc.",Chemicals
+ECL,Ecolab Inc.,Chemicals
+EMN,Eastman Chemical Company,Chemicals
+ESI,"Element Solutions, Inc.",Chemicals
+FF,FutureFuel Corp.,Chemicals
+FMC,FMC Corporation,Chemicals
+FOE,Ferro Corporation,Chemicals
+FTK,"Flotek Industries, Inc.",Chemicals
+FUL,H.B. Fuller Company,Chemicals
+GCP,"GCP Applied Technologies, Inc.",Chemicals
+GRA,W R Grace & Co,Chemicals
+HUN,Huntsman Corporation,Chemicals
+HWKN,"Hawkins, Inc.",Chemicals
+IFF,International Flavors & Fragrances Inc.,Chemicals
+IOSP,Innospec Inc.,Chemicals
+IPI,"Intrepid Potash, Inc.",Chemicals
+KOP,Koppers Holdings Inc.,Chemicals
+KRA,Kraton Corporation,Chemicals
+KRO,"Kronos Worldwide, Inc.",Chemicals
+KWR,Quaker Chemical Corporation,Chemicals
+LIN,Linde plc,Chemicals
+LTHM,Livent Corporation,Chemicals
+LXU,"LSB Industries, Inc.",Chemicals
+LYB,LyondellBasell Industries NV,Chemicals
+MBII,"Marrone Bio Innovations, Inc.",Chemicals
+MOS,Mosaic Company,Chemicals
+MTX,Minerals Technologies Inc.,Chemicals
+NEU,NewMarket Corporation,Chemicals
+NGVT,Ingevity Corporation,Chemicals
+OEC,Orion Engineered Carbons SA,Chemicals
+OLN,Olin Corporation,Chemicals
+OMN,OMNOVA Solutions Inc.,Chemicals
+POL,PolyOne Corporation,Chemicals
+PPG,"PPG Industries, Inc.",Chemicals
+PQG,"PQ Group Holdings, Inc.",Chemicals
+RPM,RPM International Inc.,Chemicals
+RYAM,Rayonier Advanced Materials Inc,Chemicals
+SCL,Stepan Company,Chemicals
+SHW,Sherwin-Williams Company,Chemicals
+SMG,Scotts Miracle-Gro Company Class A,Chemicals
+SXT,Sensient Technologies Corporation,Chemicals
+TG,Tredegar Corporation,Chemicals
+TREC,Trecora Resources,Chemicals
+TROX,Tronox Holdings Plc,Chemicals
+TSE,Trinseo SA,Chemicals
+VHI,"Valhi, Inc.",Chemicals
+VVV,Valvoline Inc.,Chemicals
+WLK,Westlake Chemical Corporation,Chemicals
+ABM,ABM Industries Incorporated,Commercial Services & Supplies
+ACCO,ACCO Brands Corporation,Commercial Services & Supplies
+ADSW,"Advanced Disposal Services, Inc.",Commercial Services & Supplies
+ADT,"ADT, Inc.",Commercial Services & Supplies
+BCO,Brink's Company,Commercial Services & Supplies
+BRC,Brady Corporation Class A,Commercial Services & Supplies
+BV,"BrightView Holdings, Inc.",Commercial Services & Supplies
+CECE,CECO Environmental Corp.,Commercial Services & Supplies
+CHRA,"Charah Solutions, Inc.",Commercial Services & Supplies
+CIX,CompX International Inc. Class A,Commercial Services & Supplies
+CLH,"Clean Harbors, Inc.",Commercial Services & Supplies
+CMPR,Cimpress Plc,Commercial Services & Supplies
+CPRT,"Copart, Inc.",Commercial Services & Supplies
+CTAS,Cintas Corporation,Commercial Services & Supplies
+CVA,Covanta Holding Corporation,Commercial Services & Supplies
+CWST,"Casella Waste Systems, Inc. Class A",Commercial Services & Supplies
+DLX,Deluxe Corporation,Commercial Services & Supplies
+EBF,"Ennis, Inc.",Commercial Services & Supplies
+ECOL,"US Ecology, Inc.",Commercial Services & Supplies
+HCCI,"Heritage-Crystal Clean, Inc.",Commercial Services & Supplies
+HCSG,"Healthcare Services Group, Inc.",Commercial Services & Supplies
+HNI,HNI Corporation,Commercial Services & Supplies
+HSC,Harsco Corporation,Commercial Services & Supplies
+IAA,"IAA, Inc.",Commercial Services & Supplies
+KAR,"KAR Auction Services, Inc.",Commercial Services & Supplies
+KBAL,"Kimball International, Inc. Class B",Commercial Services & Supplies
+KNL,"Knoll, Inc.",Commercial Services & Supplies
+MATW,Matthews International Corporation Class A,Commercial Services & Supplies
+MGRC,McGrath RentCorp,Commercial Services & Supplies
+MINI,"Mobile Mini, Inc.",Commercial Services & Supplies
+MLHR,"Herman Miller, Inc.",Commercial Services & Supplies
+MSA,"MSA Safety, Inc.",Commercial Services & Supplies
+NL,NL Industries Inc,Commercial Services & Supplies
+PBI,Pitney Bowes Inc.,Commercial Services & Supplies
+PICO,"PICO Holdings, Inc.",Commercial Services & Supplies
+QUAD,"Quad/Graphics, Inc. Class A",Commercial Services & Supplies
+ROL,"Rollins, Inc.",Commercial Services & Supplies
+RRD,R.R. Donnelley & Sons Company,Commercial Services & Supplies
+RSG,"Republic Services, Inc.",Commercial Services & Supplies
+SCS,Steelcase Inc. Class A,Commercial Services & Supplies
+SP,SP Plus Corporation,Commercial Services & Supplies
+SRCL,"Stericycle, Inc.",Commercial Services & Supplies
+TILE,"Interface, Inc.",Commercial Services & Supplies
+TISI,"Team, Inc.",Commercial Services & Supplies
+TTEK,"Tetra Tech, Inc.",Commercial Services & Supplies
+UNF,UniFirst Corporation,Commercial Services & Supplies
+VSEC,VSE Corporation,Commercial Services & Supplies
+VVI,Viad Corp,Commercial Services & Supplies
+WM,"Waste Management, Inc.",Commercial Services & Supplies
+AAOI,"Applied Optoelectronics, Inc.",Communications Equipment
+ACIA,"Acacia Communications, Inc.",Communications Equipment
+ADTN,"ADTRAN, Inc.",Communications Equipment
+ANET,"Arista Networks, Inc.",Communications Equipment
+CALX,"Calix, Inc.",Communications Equipment
+CAMP,CalAmp Corp.,Communications Equipment
+CASA,"Casa Systems, Inc.",Communications Equipment
+CIEN,Ciena Corporation,Communications Equipment
+CLFD,"Clearfield, Inc.",Communications Equipment
+CMBM,Cambium Networks Corporation,Communications Equipment
+CMTL,Comtech Telecommunications Corp.,Communications Equipment
+COMM,"CommScope Holding Co., Inc.",Communications Equipment
+CSCO,"Cisco Systems, Inc.",Communications Equipment
+DGII,Digi International Inc.,Communications Equipment
+DZSI,DASAN Zhone Solutions Inc.,Communications Equipment
+EXTR,"Extreme Networks, Inc.",Communications Equipment
+FFIV,"F5 Networks, Inc.",Communications Equipment
+HLIT,Harmonic Inc.,Communications Equipment
+IDCC,"InterDigital, Inc.",Communications Equipment
+INFN,Infinera Corporation,Communications Equipment
+INSG,Inseego Corp.,Communications Equipment
+JNPR,"Juniper Networks, Inc.",Communications Equipment
+KVHI,"KVH Industries, Inc.",Communications Equipment
+LITE,"Lumentum Holdings, Inc.",Communications Equipment
+MSI,"Motorola Solutions, Inc.",Communications Equipment
+NTCT,"NetScout Systems, Inc.",Communications Equipment
+NTGR,"NETGEAR, Inc.",Communications Equipment
+PLT,"Plantronics, Inc.",Communications Equipment
+RBBN,Ribbon Communications Inc.,Communications Equipment
+SATS,EchoStar Corporation Class A,Communications Equipment
+TESS,TESSCO Technologies Incorporated,Communications Equipment
+UI,Ubiquiti Inc.,Communications Equipment
+VIAV,Viavi Solutions Inc,Communications Equipment
+VSAT,"ViaSat, Inc.",Communications Equipment
+ACA,Arcosa Inc,Construction & Engineering
+ACM,AECOM,Construction & Engineering
+AEGN,Aegion Corporation,Construction & Engineering
+AGX,"Argan, Inc.",Construction & Engineering
+AMRC,"Ameresco, Inc. Class A",Construction & Engineering
+BBCP,"Concrete Pumping Holdings, Inc. Class A",Construction & Engineering
+DY,"Dycom Industries, Inc.",Construction & Engineering
+EME,"EMCOR Group, Inc.",Construction & Engineering
+FIX,"Comfort Systems USA, Inc.",Construction & Engineering
+FLR,Fluor Corporation,Construction & Engineering
+GLDD,Great Lakes Dredge & Dock Corporation,Construction & Engineering
+GVA,Granite Construction Incorporated,Construction & Engineering
+IESC,"IES Holdings, Inc.",Construction & Engineering
+J,Jacobs Engineering Group Inc.,Construction & Engineering
+MTZ,"MasTec, Inc.",Construction & Engineering
+MYRG,MYR Group Inc.,Construction & Engineering
+NVEE,NV5 Global Inc,Construction & Engineering
+NWPX,Northwest Pipe Company,Construction & Engineering
+PRIM,Primoris Services Corporation,Construction & Engineering
+PWR,"Quanta Services, Inc.",Construction & Engineering
+ROAD,"Construction Partners, Inc. Class A",Construction & Engineering
+STRL,"Sterling Construction Company, Inc.",Construction & Engineering
+TPC,Tutor Perini Corporation,Construction & Engineering
+VMI,"Valmont Industries, Inc.",Construction & Engineering
+WSC,WillScot Corporation Class A,Construction & Engineering
+EXP,Eagle Materials Inc.,Construction Materials
+FRTA,"Forterra, Inc.",Construction Materials
+MLM,"Martin Marietta Materials, Inc.",Construction Materials
+SUM,"Summit Materials, Inc. Class A",Construction Materials
+USCR,"U.S. Concrete, Inc.",Construction Materials
+USLM,"United States Lime & Minerals, Inc.",Construction Materials
+VMC,Vulcan Materials Company,Construction Materials
+ALLY,Ally Financial Inc,Consumer Finance
+AXP,American Express Company,Consumer Finance
+CACC,Credit Acceptance Corporation,Consumer Finance
+COF,Capital One Financial Corporation,Consumer Finance
+CURO,CURO Group Holdings Corp.,Consumer Finance
+DFS,Discover Financial Services,Consumer Finance
+ECPG,"Encore Capital Group, Inc.",Consumer Finance
+ELVT,"Elevate Credit, Inc.",Consumer Finance
+ENVA,Enova International Inc,Consumer Finance
+EZPW,"EZCORP, Inc. Class A",Consumer Finance
+FCFS,"FirstCash, Inc.",Consumer Finance
+GDOT,Green Dot Corporation Class A,Consumer Finance
+LC,LendingClub Corp,Consumer Finance
+MFIN,Medallion Financial Corp.,Consumer Finance
+NAVI,Navient Corp,Consumer Finance
+NNI,"Nelnet, Inc. Class A",Consumer Finance
+OMF,"OneMain Holdings, Inc.",Consumer Finance
+OPRT,Oportun Financial Corp.,Consumer Finance
+PRAA,PRA Group Inc,Consumer Finance
+RM,Regional Management Corp.,Consumer Finance
+SC,"Santander Consumer USA Holdings, Inc.",Consumer Finance
+SLM,SLM Corp,Consumer Finance
+SYF,Synchrony Financial,Consumer Finance
+TREE,"LendingTree, Inc.",Consumer Finance
+WRLD,World Acceptance Corporation,Consumer Finance
+ARD,Ardagh Group S.A. Class A,Containers & Packaging
+ATR,"Aptargroup, Inc.",Containers & Packaging
+AVY,Avery Dennison Corporation,Containers & Packaging
+BERY,Berry Global Group Inc,Containers & Packaging
+BLL,Ball Corporation,Containers & Packaging
+CCK,"Crown Holdings, Inc.",Containers & Packaging
+GEF,Greif Class A,Containers & Packaging
+GPK,Graphic Packaging Holding Company,Containers & Packaging
+IP,International Paper Company,Containers & Packaging
+MYE,"Myers Industries, Inc.",Containers & Packaging
+OI,O-I Glass Inc,Containers & Packaging
+PKG,Packaging Corporation of America,Containers & Packaging
+SEE,Sealed Air Corporation,Containers & Packaging
+SLGN,Silgan Holdings Inc.,Containers & Packaging
+SON,Sonoco Products Company,Containers & Packaging
+UFPT,"UFP Technologies, Inc.",Containers & Packaging
+WRK,WestRock Company,Containers & Packaging
+CORE,"Core-Mark Holding Company, Inc.",Distributors
+FNKO,"Funko, Inc. Class A",Distributors
+GNLN,"Greenlane Holdings, Inc. Class A",Distributors
+GPC,Genuine Parts Company,Distributors
+LKQ,LKQ Corporation,Distributors
+POOL,Pool Corporation,Distributors
+WEYS,"Weyco Group, Inc.",Distributors
+APEI,"American Public Education, Inc.",Diversified Consumer Services
+ATGE,Adtalem Global Education Inc.,Diversified Consumer Services
+BFAM,"Bright Horizons Family Solutions, Inc.",Diversified Consumer Services
+CHGG,"Chegg, Inc.",Diversified Consumer Services
+CLCT,"Collectors Universe, Inc.",Diversified Consumer Services
+CSV,Carriage Services Inc.,Diversified Consumer Services
+FTDR,"frontdoor, Inc.",Diversified Consumer Services
+GHC,Graham Holdings Co.,Diversified Consumer Services
+HMHC,Houghton Mifflin Harcourt Company,Diversified Consumer Services
+HRB,"H&R Block, Inc.",Diversified Consumer Services
+LAUR,"Laureate Education, Inc. Class A",Diversified Consumer Services
+LOPE,"Grand Canyon Education, Inc.",Diversified Consumer Services
+LRN,K12 Inc.,Diversified Consumer Services
+OSW,OneSpaWorld Holdings Ltd.,Diversified Consumer Services
+PRDO,Perdoceo Education Corporation,Diversified Consumer Services
+RGS,Regis Corporation,Diversified Consumer Services
+SCI,Service Corporation International,Diversified Consumer Services
+SERV,"ServiceMaster Global Holdings, Inc.",Diversified Consumer Services
+SIC,"Select Interior Concepts, Inc. Class A",Diversified Consumer Services
+STRA,"Strategic Education, Inc.",Diversified Consumer Services
+WW,"WW International, Inc.",Diversified Consumer Services
+ALRS,Alerus Financial Corporation,Diversified Financial Services
+BLX,"Banco Latinoamericano de Comercio Exterior, S.A. Class E",Diversified Financial Services
+BRK.B,Berkshire Hathaway Inc. Class B,Diversified Financial Services
+CNNE,"Cannae Holdings, Inc.",Diversified Financial Services
+EQH,"Equitable Holdings, Inc.",Diversified Financial Services
+FG,FGL Holdings Class A,Diversified Financial Services
+GWGH,"GWG Holdings, Inc.",Diversified Financial Services
+JEF,Jefferies Financial Group Inc.,Diversified Financial Services
+MRLN,Marlin Business Services Corp.,Diversified Financial Services
+ONDK,"On Deck Capital, Inc.",Diversified Financial Services
+VOYA,"Voya Financial, Inc.",Diversified Financial Services
+ATEX,Anterix Inc.,Diversified Telecommunication Services
+ATNI,"ATN International, Inc.",Diversified Telecommunication Services
+BAND,Bandwidth Inc. Class A,Diversified Telecommunication Services
+CBB,Cincinnati Bell Inc.,Diversified Telecommunication Services
+CCOI,Cogent Communications Holdings Inc,Diversified Telecommunication Services
+CNSL,"Consolidated Communications Holdings, Inc.",Diversified Telecommunication Services
+CTL,"CenturyLink, Inc.",Diversified Telecommunication Services
+FTR,Frontier Communications Corporation Class B,Diversified Telecommunication Services
+GLIBA,"GCI Liberty, Inc. Class A",Diversified Telecommunication Services
+I,Intelsat S.A.,Diversified Telecommunication Services
+IDT,IDT Corporation Class B,Diversified Telecommunication Services
+IRDM,Iridium Communications Inc.,Diversified Telecommunication Services
+OOMA,Ooma Inc,Diversified Telecommunication Services
+ORBC,ORBCOMM Inc.,Diversified Telecommunication Services
+T,AT&T Inc.,Diversified Telecommunication Services
+TEUM,Pareteum Corporation,Diversified Telecommunication Services
+VG,Vonage Holdings Corp.,Diversified Telecommunication Services
+VZ,Verizon Communications Inc.,Diversified Telecommunication Services
+AEP,"American Electric Power Company, Inc.",Electric Utilities
+AGR,"Avangrid, Inc.",Electric Utilities
+ALE,"ALLETE, Inc.",Electric Utilities
+DUK,Duke Energy Corporation,Electric Utilities
+EE,El Paso Electric Company,Electric Utilities
+EIX,Edison International,Electric Utilities
+ES,Eversource Energy,Electric Utilities
+ETR,Entergy Corporation,Electric Utilities
+EVRG,"Evergy, Inc.",Electric Utilities
+EXC,Exelon Corporation,Electric Utilities
+FE,FirstEnergy Corp.,Electric Utilities
+GNE,Genie Energy Ltd. Class B,Electric Utilities
+HE,"Hawaiian Electric Industries, Inc.",Electric Utilities
+IDA,"IDACORP, Inc.",Electric Utilities
+LNT,Alliant Energy Corp,Electric Utilities
+MGEE,"MGE Energy, Inc.",Electric Utilities
+NEE,"NextEra Energy, Inc.",Electric Utilities
+NRG,"NRG Energy, Inc.",Electric Utilities
+OGE,OGE Energy Corp.,Electric Utilities
+OTTR,Otter Tail Corporation,Electric Utilities
+PCG,PG&E Corporation,Electric Utilities
+PNM,"PNM Resources, Inc.",Electric Utilities
+PNW,Pinnacle West Capital Corporation,Electric Utilities
+POR,Portland General Electric Company,Electric Utilities
+PPL,PPL Corporation,Electric Utilities
+SO,Southern Company,Electric Utilities
+SPKE,"Spark Energy, Inc. Class A",Electric Utilities
+XEL,Xcel Energy Inc.,Electric Utilities
+AME,"AMETEK, Inc.",Electrical Equipment
+AMOT,Allied Motion Technologies Inc.,Electrical Equipment
+AMSC,American Superconductor Corporation,Electrical Equipment
+ATKR,Atkore International Group Inc.,Electrical Equipment
+AYI,"Acuity Brands, Inc.",Electrical Equipment
+AZZ,AZZ Inc.,Electrical Equipment
+BE,Bloom Energy Corporation Class A,Electrical Equipment
+EAF,GrafTech International Ltd.,Electrical Equipment
+EMR,Emerson Electric Co.,Electrical Equipment
+ENS,EnerSys,Electrical Equipment
+ETN,Eaton Corp. Plc,Electrical Equipment
+GNRC,Generac Holdings Inc.,Electrical Equipment
+HUBB,Hubbell Incorporated Class B,Electrical Equipment
+NVT,nVent Electric plc,Electrical Equipment
+PLPC,Preformed Line Products Company,Electrical Equipment
+PLUG,Plug Power Inc.,Electrical Equipment
+POWL,"Powell Industries, Inc.",Electrical Equipment
+RBC,Regal Beloit Corp,Electrical Equipment
+ROK,"Rockwell Automation, Inc.",Electrical Equipment
+RUN,Sunrun Inc.,Electrical Equipment
+ST,Sensata Technologies Holding PLC,Electrical Equipment
+THR,"Thermon Group Holdings, Inc.",Electrical Equipment
+TPIC,"TPI Composites, Inc.",Electrical Equipment
+VICR,Vicor Corporation,Electrical Equipment
+VSLR,Vivint Solar Inc,Electrical Equipment
+WATT,Energous Corp.,Electrical Equipment
+WIRE,Encore Wire Corporation,Electrical Equipment
+AIRG,"Airgain, Inc.",Electronic Equipment Instruments & Components
+AKTS,"Akoustis Technologies, Inc.",Electronic Equipment Instruments & Components
+APH,Amphenol Corporation Class A,Electronic Equipment Instruments & Components
+ARLO,"Arlo Technologies, Inc.",Electronic Equipment Instruments & Components
+ARW,"Arrow Electronics, Inc.",Electronic Equipment Instruments & Components
+AVT,"Avnet, Inc.",Electronic Equipment Instruments & Components
+AVX,AVX Corporation,Electronic Equipment Instruments & Components
+AXE,Anixter International Inc.,Electronic Equipment Instruments & Components
+BDC,Belden Inc.,Electronic Equipment Instruments & Components
+BELFB,Bel Fuse Inc. Class B,Electronic Equipment Instruments & Components
+BHE,"Benchmark Electronics, Inc.",Electronic Equipment Instruments & Components
+BMI,"Badger Meter, Inc.",Electronic Equipment Instruments & Components
+CDW,CDW Corp.,Electronic Equipment Instruments & Components
+CGNX,Cognex Corporation,Electronic Equipment Instruments & Components
+CNXN,"PC Connection, Inc.",Electronic Equipment Instruments & Components
+CODA,"Coda Octopus Group, Inc.",Electronic Equipment Instruments & Components
+COHR,"Coherent, Inc.",Electronic Equipment Instruments & Components
+CTS,CTS Corporation,Electronic Equipment Instruments & Components
+DAKT,"Daktronics, Inc.",Electronic Equipment Instruments & Components
+DLB,"Dolby Laboratories, Inc. Class A",Electronic Equipment Instruments & Components
+FARO,"FARO Technologies, Inc.",Electronic Equipment Instruments & Components
+FIT,"Fitbit, Inc. Class A",Electronic Equipment Instruments & Components
+FLIR,"FLIR Systems, Inc.",Electronic Equipment Instruments & Components
+FN,Fabrinet,Electronic Equipment Instruments & Components
+GLW,Corning Inc,Electronic Equipment Instruments & Components
+IIVI,II-VI Incorporated,Electronic Equipment Instruments & Components
+IPGP,IPG Photonics Corporation,Electronic Equipment Instruments & Components
+ITI,"Iteris, Inc.",Electronic Equipment Instruments & Components
+ITRI,"Itron, Inc.",Electronic Equipment Instruments & Components
+JBL,Jabil Inc.,Electronic Equipment Instruments & Components
+KE,"Kimball Electronics, Inc.",Electronic Equipment Instruments & Components
+KEM,KEMET Corporation,Electronic Equipment Instruments & Components
+KEYS,Keysight Technologies Inc,Electronic Equipment Instruments & Components
+KN,Knowles Corp.,Electronic Equipment Instruments & Components
+LASR,"nLIGHT, Inc.",Electronic Equipment Instruments & Components
+LFUS,"Littelfuse, Inc.",Electronic Equipment Instruments & Components
+MEI,"Methode Electronics, Inc.",Electronic Equipment Instruments & Components
+MTSC,MTS Systems Corporation,Electronic Equipment Instruments & Components
+NATI,National Instruments Corporation,Electronic Equipment Instruments & Components
+NOVT,Novanta Inc,Electronic Equipment Instruments & Components
+NSIT,"Insight Enterprises, Inc.",Electronic Equipment Instruments & Components
+NSSC,"NAPCO Security Technologies, Inc.",Electronic Equipment Instruments & Components
+OSIS,"OSI Systems, Inc.",Electronic Equipment Instruments & Components
+PAR,PAR Technology Corporation,Electronic Equipment Instruments & Components
+PLUS,ePlus inc.,Electronic Equipment Instruments & Components
+PLXS,Plexus Corp.,Electronic Equipment Instruments & Components
+ROG,Rogers Corporation,Electronic Equipment Instruments & Components
+SANM,Sanmina-SCI Corporation,Electronic Equipment Instruments & Components
+SCSC,"ScanSource, Inc.",Electronic Equipment Instruments & Components
+SNX,SYNNEX Corporation,Electronic Equipment Instruments & Components
+TECD,Tech Data Corporation,Electronic Equipment Instruments & Components
+TRMB,Trimble Inc.,Electronic Equipment Instruments & Components
+TTMI,"TTM Technologies, Inc.",Electronic Equipment Instruments & Components
+VPG,"Vishay Precision Group, Inc.",Electronic Equipment Instruments & Components
+VSH,"Vishay Intertechnology, Inc.",Electronic Equipment Instruments & Components
+WRTC,"Wrap Technologies, Inc.",Electronic Equipment Instruments & Components
+ZBRA,Zebra Technologies Corporation Class A,Electronic Equipment Instruments & Components
+APY,Apergy Corp.,Energy Equipment & Services
+AROC,Archrock Inc.,Energy Equipment & Services
+BKR,Baker Hughes Company Class A,Energy Equipment & Services
+BOOM,DMC Global Inc.,Energy Equipment & Services
+CKH,SEACOR Holdings Inc.,Energy Equipment & Services
+CVIA,Covia Holdings Corp.,Energy Equipment & Services
+DO,"Diamond Offshore Drilling, Inc.",Energy Equipment & Services
+DRQ,"Dril-Quip, Inc.",Energy Equipment & Services
+ERA,"Era Group, Inc.",Energy Equipment & Services
+EXTN,Exterran Corp.,Energy Equipment & Services
+FET,"Forum Energy Technologies, Inc.",Energy Equipment & Services
+FI,Frank's International NV,Energy Equipment & Services
+FTSI,"FTS International, Inc.",Energy Equipment & Services
+GEOS,Geospace Technologies Corporation,Energy Equipment & Services
+HAL,Halliburton Company,Energy Equipment & Services
+HLX,"Helix Energy Solutions Group, Inc.",Energy Equipment & Services
+HP,"Helmerich & Payne, Inc.",Energy Equipment & Services
+ICD,"Independence Contract Drilling, Inc.",Energy Equipment & Services
+KLXE,"KLX Energy Services Holdings, Inc.",Energy Equipment & Services
+LBRT,Liberty Oilfield Services Inc. Class A,Energy Equipment & Services
+MTRX,Matrix Service Company,Energy Equipment & Services
+NBR,Nabors Industries Ltd.,Energy Equipment & Services
+NCSM,"NCS Multistage Holdings, Inc.",Energy Equipment & Services
+NE,Noble Corporation plc,Energy Equipment & Services
+NESR,National Energy Services Reunited Corp.,Energy Equipment & Services
+NEX,"NexTier Oilfield Solutions, Inc.",Energy Equipment & Services
+NGS,"Natural Gas Services Group, Inc.",Energy Equipment & Services
+NINE,"Nine Energy Service, Inc.",Energy Equipment & Services
+NOV,"National Oilwell Varco, Inc.",Energy Equipment & Services
+NR,"Newpark Resources, Inc.",Energy Equipment & Services
+OII,"Oceaneering International, Inc.",Energy Equipment & Services
+OIS,"Oil States International, Inc.",Energy Equipment & Services
+PACD,Pacific Drilling S.A.,Energy Equipment & Services
+PTEN,"Patterson-UTI Energy, Inc.",Energy Equipment & Services
+PUMP,ProPetro Holding Corp.,Energy Equipment & Services
+RES,"RPC, Inc.",Energy Equipment & Services
+RIG,Transocean Ltd.,Energy Equipment & Services
+RNET,"RigNet, Inc.",Energy Equipment & Services
+SDRL,Seadrill Ltd.,Energy Equipment & Services
+SLB,Schlumberger NV,Energy Equipment & Services
+SLCA,"U.S. Silica Holdings, Inc.",Energy Equipment & Services
+SMHI,SEACOR Marine Holdings Inc,Energy Equipment & Services
+SND,"Smart Sand, Inc.",Energy Equipment & Services
+SOI,"Solaris Oilfield Infrastructure, Inc. Class A",Energy Equipment & Services
+TDW,Tidewater Inc,Energy Equipment & Services
+TTI,"TETRA Technologies, Inc.",Energy Equipment & Services
+TUSK,"Mammoth Energy Services, Inc.",Energy Equipment & Services
+USWS,U.S. Well Services Inc Class A,Energy Equipment & Services
+WHD,"Cactus, Inc. Class A",Energy Equipment & Services
+WTTR,"Select Energy Services, Inc. Class A",Energy Equipment & Services
+AMC,"AMC Entertainment Holdings, Inc. Class A",Entertainment
+ATVI,"Activision Blizzard, Inc.",Entertainment
+CNK,"Cinemark Holdings, Inc.",Entertainment
+DIS,Walt Disney Company,Entertainment
+EA,Electronic Arts Inc.,Entertainment
+EROS,Eros International PLC Class A,Entertainment
+FWONA,Liberty Media Corporation Series A Liberty Formula One,Entertainment
+GAIA,"Gaia, Inc. Class A",Entertainment
+GLUU,Glu Mobile Inc.,Entertainment
+IMAX,IMAX Corporation,Entertainment
+LGF.A,Lions Gate Entertainment Corp Class A,Entertainment
+LIVX,LiveXLive Media Inc,Entertainment
+LYV,"Live Nation Entertainment, Inc.",Entertainment
+MCS,Marcus Corporation,Entertainment
+MSG,Madison Square Garden Co. Class A,Entertainment
+NFLX,"Netflix, Inc.",Entertainment
+RDI,"Reading International, Inc. Class A",Entertainment
+ROKU,"Roku, Inc. Class A",Entertainment
+SPOT,Spotify Technology SA,Entertainment
+TTWO,"Take-Two Interactive Software, Inc.",Entertainment
+WWE,"World Wrestling Entertainment, Inc. Class A",Entertainment
+ZNGA,Zynga Inc. Class A,Entertainment
+ANDE,"Andersons, Inc.",Food & Staples Retailing
+BJ,"BJ's Wholesale Club Holdings, Inc.",Food & Staples Retailing
+CASY,"Casey's General Stores, Inc.",Food & Staples Retailing
+CHEF,"Chefs' Warehouse, Inc.",Food & Staples Retailing
+COST,Costco Wholesale Corporation,Food & Staples Retailing
+GO,Grocery Outlet Holding Corp.,Food & Staples Retailing
+HFFG,"HF Foods Group, Inc.",Food & Staples Retailing
+IMKTA,"Ingles Markets, Incorporated Class A",Food & Staples Retailing
+KR,Kroger Co.,Food & Staples Retailing
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",Food & Staples Retailing
+PFGC,Performance Food Group Company,Food & Staples Retailing
+PSMT,"PriceSmart, Inc.",Food & Staples Retailing
+RAD,Rite Aid Corporation,Food & Staples Retailing
+SFM,"Sprouts Farmers Markets, Inc.",Food & Staples Retailing
+SPTN,SpartanNash Company,Food & Staples Retailing
+SYY,Sysco Corporation,Food & Staples Retailing
+UNFI,"United Natural Foods, Inc.",Food & Staples Retailing
+USFD,US Foods Holding Corp.,Food & Staples Retailing
+VLGEA,"Village Super Market, Inc. Class A",Food & Staples Retailing
+WBA,Walgreens Boots Alliance Inc,Food & Staples Retailing
+WMK,"Weis Markets, Inc.",Food & Staples Retailing
+WMT,Walmart Inc.,Food & Staples Retailing
+ADM,Archer-Daniels-Midland Company,Food Products
+ALCO,"Alico, Inc.",Food Products
+BG,Bunge Limited,Food Products
+BGS,"B&G Foods, Inc.",Food Products
+BRID,Bridgford Foods Corporation,Food Products
+BYND,"Beyond Meat, Inc.",Food Products
+CAG,"Conagra Brands, Inc.",Food Products
+CALM,"Cal-Maine Foods, Inc.",Food Products
+CPB,Campbell Soup Company,Food Products
+CVGW,"Calavo Growers, Inc.",Food Products
+DAR,Darling Ingredients Inc.,Food Products
+FARM,Farmer Bros. Co.,Food Products
+FDP,Fresh Del Monte Produce Inc.,Food Products
+FLO,"Flowers Foods, Inc.",Food Products
+FRPT,Freshpet Inc,Food Products
+GIS,"General Mills, Inc.",Food Products
+HAIN,"Hain Celestial Group, Inc.",Food Products
+HRL,Hormel Foods Corporation,Food Products
+HSY,Hershey Company,Food Products
+INGR,Ingredion Incorporated,Food Products
+JBSS,"John B. Sanfilippo & Son, Inc.",Food Products
+JJSF,J & J Snack Foods Corp.,Food Products
+K,Kellogg Company,Food Products
+KHC,Kraft Heinz Company,Food Products
+LANC,Lancaster Colony Corporation,Food Products
+LMNR,Limoneira Company,Food Products
+LNDC,Landec Corporation,Food Products
+LW,"Lamb Weston Holdings, Inc.",Food Products
+MDLZ,"Mondelez International, Inc. Class A",Food Products
+MKC,"McCormick & Company, Incorporated",Food Products
+POST,"Post Holdings, Inc.",Food Products
+PPC,Pilgrim's Pride Corporation,Food Products
+SAFM,"Sanderson Farms, Inc.",Food Products
+SEB,Seaboard Corporation,Food Products
+SENEA,Seneca Foods Corporation Class A,Food Products
+SJM,J.M. Smucker Company,Food Products
+SMPL,Simply Good Foods Co,Food Products
+THS,"TreeHouse Foods, Inc.",Food Products
+TR,"Tootsie Roll Industries, Inc.",Food Products
+TSN,"Tyson Foods, Inc. Class A",Food Products
+TWNK,"Hostess Brands, Inc. Class A",Food Products
+ATO,Atmos Energy Corporation,Gas Utilities
+CPK,Chesapeake Utilities Corporation,Gas Utilities
+NFG,National Fuel Gas Company,Gas Utilities
+NJR,New Jersey Resources Corporation,Gas Utilities
+NWN,Northwest Natural Holding Co.,Gas Utilities
+OGS,"ONE Gas, Inc.",Gas Utilities
+RGCO,"RGC Resources, Inc.",Gas Utilities
+SJI,"South Jersey Industries, Inc.",Gas Utilities
+SR,Spire Inc.,Gas Utilities
+SWX,"Southwest Gas Holdings, Inc.",Gas Utilities
+UGI,UGI Corporation,Gas Utilities
+ABMD,"ABIOMED, Inc.",Health Care Equipment & Supplies
+ABT,Abbott Laboratories,Health Care Equipment & Supplies
+ALGN,"Align Technology, Inc.",Health Care Equipment & Supplies
+ANGO,"AngioDynamics, Inc.",Health Care Equipment & Supplies
+APYX,Apyx Medical Corporation,Health Care Equipment & Supplies
+ARAY,Accuray Incorporated,Health Care Equipment & Supplies
+ATEC,"Alphatec Holdings, Inc.",Health Care Equipment & Supplies
+ATRC,"AtriCure, Inc.",Health Care Equipment & Supplies
+ATRI,Atrion Corporation,Health Care Equipment & Supplies
+ATRS,"Antares Pharma, Inc.",Health Care Equipment & Supplies
+AVNS,"Avanos Medical, Inc.",Health Care Equipment & Supplies
+AXGN,"Axogen, Inc.",Health Care Equipment & Supplies
+AXNX,"Axonics Modulation Technologies, Inc.",Health Care Equipment & Supplies
+BAX,Baxter International Inc.,Health Care Equipment & Supplies
+BDX,"Becton, Dickinson and Company",Health Care Equipment & Supplies
+BLFS,"BioLife Solutions, Inc.",Health Care Equipment & Supplies
+BSGM,"BioSig Technologies, Inc.",Health Care Equipment & Supplies
+BSX,Boston Scientific Corporation,Health Care Equipment & Supplies
+CERS,Cerus Corporation,Health Care Equipment & Supplies
+CFMS,Conformis Inc,Health Care Equipment & Supplies
+CMD,Cantel Medical Corp.,Health Care Equipment & Supplies
+CNMD,CONMED Corporation,Health Care Equipment & Supplies
+COO,"Cooper Companies, Inc.",Health Care Equipment & Supplies
+CRY,"CryoLife, Inc.",Health Care Equipment & Supplies
+CSII,"Cardiovascular Systems, Inc.",Health Care Equipment & Supplies
+CTSO,CytoSorbents Corporation,Health Care Equipment & Supplies
+CUTR,"Cutera, Inc.",Health Care Equipment & Supplies
+CYRX,"CryoPort, Inc.",Health Care Equipment & Supplies
+DHR,Danaher Corporation,Health Care Equipment & Supplies
+DXCM,"DexCom, Inc.",Health Care Equipment & Supplies
+ECOR,"electroCore, Inc.",Health Care Equipment & Supplies
+EW,Edwards Lifesciences Corporation,Health Care Equipment & Supplies
+GKOS,Glaukos Corp,Health Care Equipment & Supplies
+GMED,Globus Medical Inc Class A,Health Care Equipment & Supplies
+GNMK,"GenMark Diagnostics, Inc.",Health Care Equipment & Supplies
+HAE,Haemonetics Corporation,Health Care Equipment & Supplies
+HOLX,"Hologic, Inc.",Health Care Equipment & Supplies
+HRC,"Hill-Rom Holdings, Inc.",Health Care Equipment & Supplies
+HSKA,Heska Corporation,Health Care Equipment & Supplies
+IART,Integra LifeSciences Holdings Corporation,Health Care Equipment & Supplies
+ICUI,"ICU Medical, Inc.",Health Care Equipment & Supplies
+IDXX,"IDEXX Laboratories, Inc.",Health Care Equipment & Supplies
+IIN,IntriCon Corporation,Health Care Equipment & Supplies
+INGN,"Inogen, Inc.",Health Care Equipment & Supplies
+IRMD,iRadimed Corp,Health Care Equipment & Supplies
+IRTC,"iRhythm Technologies, Inc.",Health Care Equipment & Supplies
+ISRG,"Intuitive Surgical, Inc.",Health Care Equipment & Supplies
+ITGR,Integer Holdings Corporation,Health Care Equipment & Supplies
+IVC,Invacare Corporation,Health Care Equipment & Supplies
+KIDS,OrthoPediatrics Corp.,Health Care Equipment & Supplies
+LIVN,LivaNova Plc,Health Care Equipment & Supplies
+LMAT,"LeMaitre Vascular, Inc.",Health Care Equipment & Supplies
+LNTH,Lantheus Holdings Inc,Health Care Equipment & Supplies
+MASI,Masimo Corporation,Health Care Equipment & Supplies
+MDT,Medtronic Plc,Health Care Equipment & Supplies
+MLAB,"Mesa Laboratories, Inc.",Health Care Equipment & Supplies
+MMSI,"Merit Medical Systems, Inc.",Health Care Equipment & Supplies
+MSON,Misonix Inc,Health Care Equipment & Supplies
+NEOG,Neogen Corporation,Health Care Equipment & Supplies
+NTUS,Natus Medical Incorporated,Health Care Equipment & Supplies
+NUVA,"NuVasive, Inc.",Health Care Equipment & Supplies
+NVCR,NovoCure Ltd.,Health Care Equipment & Supplies
+NVRO,Nevro Corp.,Health Care Equipment & Supplies
+NVST,Envista Holdings Corp.,Health Care Equipment & Supplies
+OFIX,"Orthofix Medical, Inc.",Health Care Equipment & Supplies
+OSUR,"OraSure Technologies, Inc.",Health Care Equipment & Supplies
+PEN,"Penumbra, Inc.",Health Care Equipment & Supplies
+PLSE,"Pulse Biosciences, Inc.",Health Care Equipment & Supplies
+PODD,Insulet Corporation,Health Care Equipment & Supplies
+QDEL,Quidel Corporation,Health Care Equipment & Supplies
+RMD,ResMed Inc.,Health Care Equipment & Supplies
+RMTI,"Rockwell Medical, Inc.",Health Care Equipment & Supplies
+RTIX,"RTI Surgical Holdings, Inc.",Health Care Equipment & Supplies
+SENS,"Senseonics Holdings, Inc.",Health Care Equipment & Supplies
+SIBN,"SI-BONE, Inc.",Health Care Equipment & Supplies
+SIEN,"Sientra, Inc.",Health Care Equipment & Supplies
+SILK,"Silk Road Medical, Inc.",Health Care Equipment & Supplies
+SOLY,"Soliton, Inc.",Health Care Equipment & Supplies
+SPNE,SeaSpine Holdings Corp.,Health Care Equipment & Supplies
+SRDX,Surmodics Inc,Health Care Equipment & Supplies
+STAA,STAAR Surgical Company,Health Care Equipment & Supplies
+STE,STERIS Plc,Health Care Equipment & Supplies
+STIM,"Neuronetics, Inc.",Health Care Equipment & Supplies
+SWAV,"Shockwave Medical, Inc.",Health Care Equipment & Supplies
+SYK,Stryker Corporation,Health Care Equipment & Supplies
+TCMD,"Tactile Systems Technology, Inc.",Health Care Equipment & Supplies
+TFX,Teleflex Incorporated,Health Care Equipment & Supplies
+TMDX,"TransMedics Group, Inc.",Health Care Equipment & Supplies
+TNDM,"Tandem Diabetes Care, Inc.",Health Care Equipment & Supplies
+TRXC,"TransEnterix, Inc.",Health Care Equipment & Supplies
+UTMD,"Utah Medical Products, Inc.",Health Care Equipment & Supplies
+VAPO,"Vapotherm, Inc.",Health Care Equipment & Supplies
+VAR,"Varian Medical Systems, Inc.",Health Care Equipment & Supplies
+VIVO,"Meridian Bioscience, Inc.",Health Care Equipment & Supplies
+VRAY,"ViewRay, Inc.",Health Care Equipment & Supplies
+VREX,Varex Imaging Corporation,Health Care Equipment & Supplies
+WMGI,Wright Medical Group NV,Health Care Equipment & Supplies
+WST,"West Pharmaceutical Services, Inc.",Health Care Equipment & Supplies
+XRAY,"DENTSPLY SIRONA, Inc.",Health Care Equipment & Supplies
+ZBH,"Zimmer Biomet Holdings, Inc.",Health Care Equipment & Supplies
+ZYXI,"Zynex, Inc.",Health Care Equipment & Supplies
+ABC,AmerisourceBergen Corporation,Health Care Providers & Services
+ACHC,"Acadia Healthcare Company, Inc.",Health Care Providers & Services
+ADUS,Addus HomeCare Corporation,Health Care Providers & Services
+AMED,"Amedisys, Inc.",Health Care Providers & Services
+AMEH,"Apollo Medical Holdings, Inc.",Health Care Providers & Services
+AMN,"AMN Healthcare Services, Inc.",Health Care Providers & Services
+ANTM,"Anthem, Inc.",Health Care Providers & Services
+ARA,"American Renal Associates Holdings, Inc.",Health Care Providers & Services
+AVCO,Avalon GloboCare Corp.,Health Care Providers & Services
+BEAT,"BioTelemetry, Inc.",Health Care Providers & Services
+BKD,Brookdale Senior Living Inc.,Health Care Providers & Services
+CAH,"Cardinal Health, Inc.",Health Care Providers & Services
+CATS,"Catasys, Inc.",Health Care Providers & Services
+CCRN,"Cross Country Healthcare, Inc.",Health Care Providers & Services
+CHE,Chemed Corporation,Health Care Providers & Services
+CI,Cigna Corporation,Health Care Providers & Services
+CNC,Centene Corporation,Health Care Providers & Services
+CRVL,CorVel Corporation,Health Care Providers & Services
+CVET,"Covetrus, Inc.",Health Care Providers & Services
+CVS,CVS Health Corporation,Health Care Providers & Services
+CYH,"Community Health Systems, Inc.",Health Care Providers & Services
+DGX,Quest Diagnostics Incorporated,Health Care Providers & Services
+DVA,DaVita Inc.,Health Care Providers & Services
+EHC,Encompass Health Corporation,Health Care Providers & Services
+ENSG,"Ensign Group, Inc.",Health Care Providers & Services
+ENZ,"Enzo Biochem, Inc.",Health Care Providers & Services
+GEN,Genesis Healthcare Inc Class A,Health Care Providers & Services
+GH,"Guardant Health, Inc.",Health Care Providers & Services
+GTS,Triple-S Management Corporation Class B,Health Care Providers & Services
+HCA,HCA Healthcare Inc,Health Care Providers & Services
+HNGR,"Hanger, Inc.",Health Care Providers & Services
+HQY,HealthEquity Inc,Health Care Providers & Services
+HSIC,"Henry Schein, Inc.",Health Care Providers & Services
+HUM,Humana Inc.,Health Care Providers & Services
+JYNT,Joint Corp,Health Care Providers & Services
+LH,Laboratory Corporation of America Holdings,Health Care Providers & Services
+LHCG,"LHC Group, Inc.",Health Care Providers & Services
+MCK,McKesson Corporation,Health Care Providers & Services
+MD,"MEDNAX, Inc.",Health Care Providers & Services
+MGLN,"Magellan Health, Inc.",Health Care Providers & Services
+MOH,"Molina Healthcare, Inc.",Health Care Providers & Services
+NHC,National HealthCare Corporation,Health Care Providers & Services
+NRC,National Research Corporation,Health Care Providers & Services
+OMI,"Owens & Minor, Inc.",Health Care Providers & Services
+ONEM,"1Life Healthcare, Inc.",Health Care Providers & Services
+OPCH,Option Care Health Inc,Health Care Providers & Services
+PDCO,"Patterson Companies, Inc.",Health Care Providers & Services
+PETQ,"PetIQ, Inc. Class A",Health Care Providers & Services
+PGNY,"Progyny, Inc.",Health Care Providers & Services
+PINC,Premier Inc. Class A,Health Care Providers & Services
+PNTG,Pennant Group Inc,Health Care Providers & Services
+PRSC,Providence Service Corporation,Health Care Providers & Services
+RCM,R1 RCM Inc,Health Care Providers & Services
+RDNT,"RadNet, Inc.",Health Care Providers & Services
+SEM,Select Medical Holdings Corporation,Health Care Providers & Services
+SGRY,"Surgery Partners, Inc.",Health Care Providers & Services
+THC,Tenet Healthcare Corporation,Health Care Providers & Services
+TVTY,"Tivity Health, Inc.",Health Care Providers & Services
+UHS,"Universal Health Services, Inc. Class B",Health Care Providers & Services
+UNH,UnitedHealth Group Incorporated,Health Care Providers & Services
+USPH,"U.S. Physical Therapy, Inc.",Health Care Providers & Services
+XGN,"Exagen, Inc.",Health Care Providers & Services
+CERN,Cerner Corporation,Health Care Technology
+CHNG,"Change Healthcare, Inc.",Health Care Technology
+CPSI,"Computer Programs and Systems, Inc.",Health Care Technology
+CSLT,"Castlight Health, Inc. Class B",Health Care Technology
+EVH,Evolent Health Inc Class A,Health Care Technology
+HCAT,"Health Catalyst, Inc.",Health Care Technology
+HMSY,HMS Holdings Corp.,Health Care Technology
+HSTM,"HealthStream, Inc.",Health Care Technology
+INOV,"Inovalon Holdings, Inc. Class A",Health Care Technology
+INSP,"Inspire Medical Systems, Inc.",Health Care Technology
+LVGO,"Livongo Health, Inc.",Health Care Technology
+MDRX,"Allscripts Healthcare Solutions, Inc.",Health Care Technology
+NXGN,"NextGen Healthcare, Inc.",Health Care Technology
+OMCL,"Omnicell, Inc.",Health Care Technology
+OPRX,OptimizeRx Corporation,Health Care Technology
+PHR,"Phreesia, Inc.",Health Care Technology
+SDGR,"Schrodinger, Inc.",Health Care Technology
+SLP,"Simulations Plus, Inc.",Health Care Technology
+TDOC,"Teladoc Health, Inc.",Health Care Technology
+TRHC,"Tabula Rasa Healthcare, Inc.",Health Care Technology
+VCRA,"Vocera Communications, Inc.",Health Care Technology
+VEEV,Veeva Systems Inc Class A,Health Care Technology
+AGS,"PlayAGS, Inc.",Hotels Restaurants & Leisure
+ARMK,Aramark,Hotels Restaurants & Leisure
+BBX,BBX Capital Corporation Class A,Hotels Restaurants & Leisure
+BH,Biglari Holdings Inc. Class B,Hotels Restaurants & Leisure
+BJRI,"BJ's Restaurants, Inc.",Hotels Restaurants & Leisure
+BLMN,"Bloomin' Brands, Inc.",Hotels Restaurants & Leisure
+BXG,Bluegreen Vacations Corporation,Hotels Restaurants & Leisure
+BYD,Boyd Gaming Corporation,Hotels Restaurants & Leisure
+CAKE,Cheesecake Factory Incorporated,Hotels Restaurants & Leisure
+CBRL,"Cracker Barrel Old Country Store, Inc.",Hotels Restaurants & Leisure
+CCL.U,Carnival Corporation,Hotels Restaurants & Leisure
+CHDN,Churchill Downs Incorporated,Hotels Restaurants & Leisure
+CHH,"Choice Hotels International, Inc.",Hotels Restaurants & Leisure
+CHUY,"Chuy's Holdings, Inc.",Hotels Restaurants & Leisure
+CMG,"Chipotle Mexican Grill, Inc.",Hotels Restaurants & Leisure
+CNTY,"Century Casinos, Inc.",Hotels Restaurants & Leisure
+CZR,Caesars Entertainment Corporation,Hotels Restaurants & Leisure
+DENN,Denny's Corporation,Hotels Restaurants & Leisure
+DIN,"Dine Brands Global, Inc.",Hotels Restaurants & Leisure
+DNKN,"Dunkin' Brands Group, Inc.",Hotels Restaurants & Leisure
+DPZ,"Domino's Pizza, Inc.",Hotels Restaurants & Leisure
+DRI,"Darden Restaurants, Inc.",Hotels Restaurants & Leisure
+DS,Drive Shack Inc.,Hotels Restaurants & Leisure
+EAT,"Brinker International, Inc.",Hotels Restaurants & Leisure
+ERI,Eldorado Resorts Inc,Hotels Restaurants & Leisure
+EVRI,"Everi Holdings, Inc.",Hotels Restaurants & Leisure
+FRGI,"Fiesta Restaurant Group, Inc.",Hotels Restaurants & Leisure
+GDEN,"Golden Entertainment, Inc.",Hotels Restaurants & Leisure
+H,Hyatt Hotels Corporation Class A,Hotels Restaurants & Leisure
+HGV,"Hilton Grand Vacations, Inc.",Hotels Restaurants & Leisure
+HLT,Hilton Worldwide Holdings Inc,Hotels Restaurants & Leisure
+IGT,International Game Technology PLC,Hotels Restaurants & Leisure
+INSE,"Inspired Entertainment, Inc.",Hotels Restaurants & Leisure
+JACK,Jack in the Box Inc.,Hotels Restaurants & Leisure
+JAX,"J. Alexander's Holdings, Inc. Class A",Hotels Restaurants & Leisure
+KRUS,Kura Sushi USA Inc Class A,Hotels Restaurants & Leisure
+LIND,Lindblad Expeditions Holdings Inc,Hotels Restaurants & Leisure
+LOCO,El Pollo Loco Holdings Inc,Hotels Restaurants & Leisure
+LVS,Las Vegas Sands Corp.,Hotels Restaurants & Leisure
+MAR,"Marriott International, Inc. Class A",Hotels Restaurants & Leisure
+MCD,McDonald's Corporation,Hotels Restaurants & Leisure
+MCRI,"Monarch Casino & Resort, Inc.",Hotels Restaurants & Leisure
+MGM,MGM Resorts International,Hotels Restaurants & Leisure
+MTN,"Vail Resorts, Inc.",Hotels Restaurants & Leisure
+NATH,"Nathan's Famous, Inc.",Hotels Restaurants & Leisure
+NCLH,Norwegian Cruise Line Holdings Ltd.,Hotels Restaurants & Leisure
+NDLS,Noodles & Co. Class A,Hotels Restaurants & Leisure
+PBPB,Potbelly Corp.,Hotels Restaurants & Leisure
+PENN,"Penn National Gaming, Inc.",Hotels Restaurants & Leisure
+PLAY,"Dave & Buster's Entertainment, Inc.",Hotels Restaurants & Leisure
+PLNT,"Planet Fitness, Inc. Class A",Hotels Restaurants & Leisure
+PZZA,"Papa John's International, Inc.",Hotels Restaurants & Leisure
+RCL,Royal Caribbean Cruises Ltd.,Hotels Restaurants & Leisure
+RICK,"RCI Hospitality Holdings, Inc.",Hotels Restaurants & Leisure
+RLH,Red Lion Hotels Corporation,Hotels Restaurants & Leisure
+RRGB,"Red Robin Gourmet Burgers, Inc.",Hotels Restaurants & Leisure
+RRR,"Red Rock Resorts, Inc. Class A",Hotels Restaurants & Leisure
+RUTH,"Ruth's Hospitality Group, Inc.",Hotels Restaurants & Leisure
+SBUX,Starbucks Corporation,Hotels Restaurants & Leisure
+SEAS,"SeaWorld Entertainment, Inc.",Hotels Restaurants & Leisure
+SGMS,Scientific Games Corporation,Hotels Restaurants & Leisure
+SHAK,"Shake Shack, Inc. Class A",Hotels Restaurants & Leisure
+SIX,Six Flags Entertainment Corporation,Hotels Restaurants & Leisure
+STAY.U,"Extended Stay America, Inc.",Hotels Restaurants & Leisure
+TACO,"Del Taco Restaurants, Inc.",Hotels Restaurants & Leisure
+TAST,Carrols Restaurant Group Inc,Hotels Restaurants & Leisure
+TH,Target Hospitality Corp.,Hotels Restaurants & Leisure
+TRWH,"Twin River Worldwide Holdings, Inc.",Hotels Restaurants & Leisure
+TXRH,"Texas Roadhouse, Inc.",Hotels Restaurants & Leisure
+VAC,Marriott Vacations Worldwide Corporation,Hotels Restaurants & Leisure
+WEN,Wendy's Company,Hotels Restaurants & Leisure
+WH,"Wyndham Hotels & Resorts, Inc.",Hotels Restaurants & Leisure
+WING,"Wingstop, Inc.",Hotels Restaurants & Leisure
+WYND,"Wyndham Destinations, Inc.",Hotels Restaurants & Leisure
+WYNN,"Wynn Resorts, Limited",Hotels Restaurants & Leisure
+YUM,"Yum! Brands, Inc.",Hotels Restaurants & Leisure
+YUMC,"Yum China Holdings, Inc.",Hotels Restaurants & Leisure
+BLD,TopBuild Corp.,Household Durables
+BSET,"Bassett Furniture Industries, Inc.",Household Durables
+BZH,"Beazer Homes USA, Inc.",Household Durables
+CCS,"Century Communities, Inc.",Household Durables
+CSPR,Casper Sleep Inc,Household Durables
+CVCO,"Cavco Industries, Inc.",Household Durables
+DHI,"D.R. Horton, Inc.",Household Durables
+ETH,Ethan Allen Interiors Inc.,Household Durables
+FLXS,"Flexsteel Industries, Inc.",Household Durables
+GPRO,"GoPro, Inc. Class A",Household Durables
+GRBK,"Green Brick Partners, Inc.",Household Durables
+GRMN,Garmin Ltd.,Household Durables
+HBB,Hamilton Beach Brands Holding Co. Class A,Household Durables
+HELE,Helen of Troy Limited,Household Durables
+HOFT,Hooker Furniture Corporation,Household Durables
+IBP,"Installed Building Products, Inc.",Household Durables
+IRBT,iRobot Corporation,Household Durables
+KBH,KB Home,Household Durables
+LCUT,"Lifetime Brands, Inc.",Household Durables
+LEG,"Leggett & Platt, Incorporated",Household Durables
+LEGH,Legacy Housing Corporation,Household Durables
+LEN,Lennar Corporation Class A,Household Durables
+LGIH,"LGI Homes, Inc.",Household Durables
+LOVE,Lovesac Company,Household Durables
+LZB,LaZBoy Incorporated,Household Durables
+MDC,"M.D.C. Holdings, Inc.",Household Durables
+MHK,"Mohawk Industries, Inc.",Household Durables
+MHO,"M/I Homes, Inc.",Household Durables
+MTH,Meritage Homes Corporation,Household Durables
+NVR,"NVR, Inc.",Household Durables
+NWL,Newell Brands Inc,Household Durables
+PHM,"PulteGroup, Inc.",Household Durables
+PRPL,"Purple Innovation, Inc.",Household Durables
+SKY,Skyline Champion Corp.,Household Durables
+SONO,"Sonos, Inc.",Household Durables
+TMHC,Taylor Morrison Home Corporation,Household Durables
+TOL,"Toll Brothers, Inc.",Household Durables
+TPH,TRI Pointe Group Inc,Household Durables
+TPX,Tempur Sealy International Inc,Household Durables
+TUP,Tupperware Brands Corporation,Household Durables
+UEIC,Universal Electronics Inc.,Household Durables
+WHR,Whirlpool Corporation,Household Durables
+ZAGG,ZAGG Inc,Household Durables
+CENT,Central Garden & Pet Company,Household Products
+CHD,"Church & Dwight Co., Inc.",Household Products
+CL,Colgate-Palmolive Company,Household Products
+CLX,Clorox Company,Household Products
+ENR,Energizer Holdings Inc,Household Products
+KMB,Kimberly-Clark Corporation,Household Products
+ODC,Oil-Dri Corporation of America,Household Products
+PG,Procter & Gamble Company,Household Products
+REYN,Reynolds Consumer Products Inc,Household Products
+SPB,"Spectrum Brands Holdings, Inc.",Household Products
+WDFC,WD-40 Company,Household Products
+AES,AES Corporation,Independent Power And Renewable Electricity Producers
+CWEN,"Clearway Energy, Inc. Class C",Independent Power And Renewable Electricity Producers
+NOVA,Sunnova Energy International Inc,Independent Power And Renewable Electricity Producers
+ORA,"Ormat Technologies, Inc.",Independent Power And Renewable Electricity Producers
+TERP,"TerraForm Power, Inc. Class A",Independent Power And Renewable Electricity Producers
+VST,Vistra Energy Corp.,Independent Power And Renewable Electricity Producers
+CSL,Carlisle Companies Incorporated,Industrial Conglomerates
+GE,General Electric Company,Industrial Conglomerates
+HON,Honeywell International Inc.,Industrial Conglomerates
+MMM,3M Company,Industrial Conglomerates
+RAVN,"Raven Industries, Inc.",Industrial Conglomerates
+ROP,"Roper Technologies, Inc.",Industrial Conglomerates
+ACGL,Arch Capital Group Ltd.,Insurance
+AEL,American Equity Investment Life Holding Company,Insurance
+AFG,"American Financial Group, Inc.",Insurance
+AFL,Aflac Incorporated,Insurance
+AGO,Assured Guaranty Ltd.,Insurance
+AIG,"American International Group, Inc.",Insurance
+AIZ,"Assurant, Inc.",Insurance
+AJG,Arthur J. Gallagher & Co.,Insurance
+ALL,Allstate Corporation,Insurance
+AMBC,"Ambac Financial Group, Inc.",Insurance
+AMSF,"AMERISAFE, Inc.",Insurance
+ANAT,American National Insurance Company,Insurance
+AON,Aon plc,Insurance
+ARGO,"Argo Group International Holdings, Ltd.",Insurance
+ATH,Athene Holding Ltd. Class A,Insurance
+AXS,Axis Capital Holdings Limited,Insurance
+BFYT,"Benefytt Technologies, Inc. Class A",Insurance
+BHF,"Brighthouse Financial, Inc.",Insurance
+BRO,"Brown & Brown, Inc.",Insurance
+BRP,BRP Group Inc Class A,Insurance
+CB,Chubb Limited,Insurance
+CIA,"Citizens, Inc. Class A",Insurance
+CINF,Cincinnati Financial Corporation,Insurance
+CNA,CNA Financial Corporation,Insurance
+CNO,"CNO Financial Group, Inc.",Insurance
+DGICA,Donegal Group Inc. Class A,Insurance
+EHTH,"eHealth, Inc.",Insurance
+EIG,"Employers Holdings, Inc.",Insurance
+ERIE,Erie Indemnity Company Class A,Insurance
+ESGR,Enstar Group Limited,Insurance
+FAF,First American Financial Corporation,Insurance
+FFG,"FBL Financial Group, Inc. Class A",Insurance
+FNF,"Fidelity National Financial, Inc. - FNF Group",Insurance
+FNHC,FedNat Holding Company,Insurance
+GBLI,Global Indemnity Ltd. Class A,Insurance
+GL,Globe Life Inc.,Insurance
+GLRE,"Greenlight Capital Re, Ltd. Class A",Insurance
+GNW,"Genworth Financial, Inc. Class A",Insurance
+GSHD,"Goosehead Insurance, Inc. Class A",Insurance
+HALL,"Hallmark Financial Services, Inc.",Insurance
+HCI,"HCI Group, Inc.",Insurance
+HIG,"Hartford Financial Services Group, Inc.",Insurance
+HMN,Horace Mann Educators Corporation,Insurance
+HRTG,"Heritage Insurance Holdings, Inc.",Insurance
+IHC,Independence Holding Company,Insurance
+ITIC,Investors Title Company,Insurance
+JRVR,James River Group Holdings Ltd,Insurance
+KMPR,Kemper Corporation,Insurance
+KNSL,"Kinsale Capital Group, Inc.",Insurance
+L,Loews Corporation,Insurance
+LNC,Lincoln National Corporation,Insurance
+MBI,MBIA Inc.,Insurance
+MCY,Mercury General Corporation,Insurance
+MET,"MetLife, Inc.",Insurance
+MKL,Markel Corporation,Insurance
+MMC,"Marsh & McLennan Companies, Inc.",Insurance
+NGHC,National General Holdings Corp.,Insurance
+NODK,"NI Holdings, Inc.",Insurance
+NWLI,"National Western Life Group, Inc. Class A",Insurance
+ORI,Old Republic International Corporation,Insurance
+PFG,"Principal Financial Group, Inc.",Insurance
+PGR,Progressive Corporation,Insurance
+PLMR,"Palomar Holdings, Inc.",Insurance
+PRA,ProAssurance Corporation,Insurance
+PRI,"Primerica, Inc.",Insurance
+PROS,"ProSight Global, Inc.",Insurance
+PRU,"Prudential Financial, Inc.",Insurance
+PTVCB,Protective Insurance Corporation Class B,Insurance
+RE,"Everest Re Group, Ltd.",Insurance
+RGA,"Reinsurance Group of America, Incorporated",Insurance
+RLI,RLI Corp.,Insurance
+RNR,RenaissanceRe Holdings Ltd.,Insurance
+SAFT,"Safety Insurance Group, Inc.",Insurance
+SIGI,"Selective Insurance Group, Inc.",Insurance
+STC,Stewart Information Services Corporation,Insurance
+STFC,State Auto Financial Corporation,Insurance
+THG,"Hanover Insurance Group, Inc.",Insurance
+TIPT,Tiptree Inc.,Insurance
+TPRE,Third Point Reinsurance Ltd.,Insurance
+TRUP,"Trupanion, Inc.",Insurance
+TRV,"Travelers Companies, Inc.",Insurance
+UFCS,"United Fire Group, Inc.",Insurance
+UIHC,United Insurance Holdings Corp.,Insurance
+UNM,Unum Group,Insurance
+UVE,"Universal Insurance Holdings, Inc.",Insurance
+WLTW,Willis Towers Watson Public Limited Company,Insurance
+WRB,W. R. Berkley Corporation,Insurance
+WTM,White Mountains Insurance Group Ltd,Insurance
+WTRE,Watford Holdings Ltd.,Insurance
+Y,Alleghany Corporation,Insurance
+CARG,"CarGurus, Inc. Class A",Interactive Media & Services
+CARS,"Cars.com, Inc.",Interactive Media & Services
+DHX,"DHI Group, Inc.",Interactive Media & Services
+EB,"Eventbrite, Inc. Class A",Interactive Media & Services
+EVER,"EverQuote, Inc. Class A",Interactive Media & Services
+FB,"Facebook, Inc. Class A",Interactive Media & Services
+GOOGL,Alphabet Inc. Class A,Interactive Media & Services
+IAC,IAC/InterActiveCorp.,Interactive Media & Services
+LTRPA,Liberty TripAdvisor Holdings Inc Class A,Interactive Media & Services
+MEET,Meet Group Inc,Interactive Media & Services
+MTCH,"Match Group, Inc.",Interactive Media & Services
+QNST,"QuinStreet, Inc.",Interactive Media & Services
+TRIP,"TripAdvisor, Inc.",Interactive Media & Services
+TRUE,"TrueCar, Inc.",Interactive Media & Services
+TWTR,"Twitter, Inc.",Interactive Media & Services
+TZOO,Travelzoo,Interactive Media & Services
+YELP,Yelp Inc,Interactive Media & Services
+Z,"Zillow Group, Inc. Class C",Interactive Media & Services
+AMZN,"Amazon.com, Inc.",Internet & Catalog Retail
+BKNG,Booking Holdings Inc.,Internet & Catalog Retail
+DLTH,"Duluth Holdings, Inc. Class B",Internet & Catalog Retail
+EBAY,eBay Inc.,Internet & Catalog Retail
+ETSY,"Etsy, Inc.",Internet & Catalog Retail
+EXPE,"Expedia Group, Inc.",Internet & Catalog Retail
+FLWS,"1-800-FLOWERS.COM, Inc. Class A",Internet & Catalog Retail
+GRPN,"Groupon, Inc.",Internet & Catalog Retail
+GRUB,"Grubhub, Inc.",Internet & Catalog Retail
+LE,"Lands' End, Inc.",Internet & Catalog Retail
+LEAF,Leaf Group Ltd.,Internet & Catalog Retail
+LQDT,"Liquidity Services, Inc.",Internet & Catalog Retail
+OSTK,"Overstock.com, Inc.",Internet & Catalog Retail
+PETS,"PetMed Express, Inc.",Internet & Catalog Retail
+QRTEA,"Qurate Retail, Inc. Class A",Internet & Catalog Retail
+QUOT,Quotient Technology Incorporated,Internet & Catalog Retail
+REAL,"RealReal, Inc.",Internet & Catalog Retail
+RUBI,"Rubicon Project, Inc.",Internet & Catalog Retail
+SFIX,"Stitch Fix, Inc. Class A",Internet & Catalog Retail
+SSTK,"Shutterstock, Inc.",Internet & Catalog Retail
+STMP,Stamps.com Inc.,Internet & Catalog Retail
+W,"Wayfair, Inc. Class A",Internet & Catalog Retail
+WTRH,"Waitr Holdings, Inc. Class A",Internet & Catalog Retail
+ACN,Accenture Plc Class A,IT Services
+ADP,"Automatic Data Processing, Inc.",IT Services
+ADS,Alliance Data Systems Corporation,IT Services
+AKAM,"Akamai Technologies, Inc.",IT Services
+BAH,Booz Allen Hamilton Holding Corporation Class A,IT Services
+BCOV,Brightcove Inc.,IT Services
+BKI,"Black Knight, Inc.",IT Services
+BR,"Broadridge Financial Solutions, Inc.",IT Services
+CACI,CACI International Inc Class A,IT Services
+CASS,"Cass Information Systems, Inc.",IT Services
+CATM,Cardtronics plc Class A,IT Services
+CLGX,"CoreLogic, Inc.",IT Services
+CNDT,"Conduent, Inc.",IT Services
+CSGS,"CSG Systems International, Inc.",IT Services
+CTSH,Cognizant Technology Solutions Corporation Class A,IT Services
+DOX,Amdocs Limited,IT Services
+DXC,DXC Technology Co.,IT Services
+EEFT,"Euronet Worldwide, Inc.",IT Services
+EGOV,NIC Inc.,IT Services
+EIGI,"Endurance International Group Holdings, Inc.",IT Services
+EPAM,"EPAM Systems, Inc.",IT Services
+EVOP,"EVO Payments, Inc. Class A",IT Services
+EVTC,"EVERTEC, Inc.",IT Services
+EXLS,"ExlService Holdings, Inc.",IT Services
+FIS,"Fidelity National Information Services, Inc.",IT Services
+FISV,"Fiserv, Inc.",IT Services
+FLT,"FleetCor Technologies, Inc.",IT Services
+G,Genpact Limited,IT Services
+GDDY,"GoDaddy, Inc. Class A",IT Services
+GPN,Global Payments Inc.,IT Services
+GTT,"GTT Communications, Inc.",IT Services
+HCKT,"Hackett Group, Inc.",IT Services
+IBM,International Business Machines Corporation,IT Services
+III,"Information Services Group, Inc.",IT Services
+IIIV,"i3 Verticals, Inc. Class A",IT Services
+IMXI,"International Money Express, Inc.",IT Services
+IT,"Gartner, Inc.",IT Services
+JKHY,"Jack Henry & Associates, Inc.",IT Services
+KBR,"KBR, Inc.",IT Services
+LDOS,"Leidos Holdings, Inc.",IT Services
+LLNW,"Limelight Networks, Inc.",IT Services
+MA,Mastercard Incorporated Class A,IT Services
+MANT,ManTech International Corporation Class A,IT Services
+MDB,"MongoDB, Inc. Class A",IT Services
+MMS,"MAXIMUS, Inc.",IT Services
+OKTA,"Okta, Inc. Class A",IT Services
+PAYS,"PaySign, Inc. Class B",IT Services
+PAYX,"Paychex, Inc.",IT Services
+PRFT,"Perficient, Inc.",IT Services
+PRGX,"PRGX Global, Inc.",IT Services
+PRSP,"Perspecta, Inc.",IT Services
+PRTH,"Priority Technology Holdings, Inc.",IT Services
+PYPL,PayPal Holdings Inc,IT Services
+RAMP,"LiveRamp Holdings, Inc.",IT Services
+SABR,Sabre Corp.,IT Services
+SAIC,Science Applications International Corp.,IT Services
+SQ,"Square, Inc. Class A",IT Services
+SRT,"StarTek, Inc.",IT Services
+SWCH,"Switch, Inc. Class A",IT Services
+SYKE,"Sykes Enterprises, Incorporated",IT Services
+TCX,Tucows Inc.,IT Services
+TTEC,"TTEC Holdings, Inc.",IT Services
+TWLO,"Twilio, Inc. Class A",IT Services
+UIS,Unisys Corporation,IT Services
+V,Visa Inc. Class A,IT Services
+VRRM,Verra Mobility Corp. Class A,IT Services
+VRSN,"VeriSign, Inc.",IT Services
+VRTU,Virtusa Corporation,IT Services
+WEX,WEX Inc.,IT Services
+WU,Western Union Company,IT Services
+XELA,"Exela Technologies, Inc.",IT Services
+AOBC,American Outdoor Brands Corporation,Leisure Products
+BC,Brunswick Corporation,Leisure Products
+CLAR,Clarus Corporation,Leisure Products
+ELY,Callaway Golf Company,Leisure Products
+ESCA,"Escalade, Incorporated",Leisure Products
+GOLF,Acushnet Holdings Corp.,Leisure Products
+HAS,"Hasbro, Inc.",Leisure Products
+JOUT,Johnson Outdoors Inc. Class A,Leisure Products
+MAT,"Mattel, Inc.",Leisure Products
+MBUU,Malibu Boats Inc Class A,Leisure Products
+MCFT,"Mastercraft Boat Holdings, Inc.",Leisure Products
+MPX,Marine Products Corporation,Leisure Products
+PII,Polaris Inc.,Leisure Products
+RGR,"Sturm, Ruger & Company, Inc.",Leisure Products
+VSTO,Vista Outdoor Inc,Leisure Products
+YETI,"YETI Holdings, Inc.",Leisure Products
+A,"Agilent Technologies, Inc.",Life Sciences Tools & Services
+ADPT,Adaptive Biotechnologies Corp.,Life Sciences Tools & Services
+AVTR,"Avantor, Inc.",Life Sciences Tools & Services
+AXDX,"Accelerate Diagnostics, Inc.",Life Sciences Tools & Services
+BIO,"Bio-Rad Laboratories, Inc. Class A",Life Sciences Tools & Services
+BRKR,Bruker Corporation,Life Sciences Tools & Services
+CDXC,ChromaDex Corporation,Life Sciences Tools & Services
+CDXS,"Codexis, Inc.",Life Sciences Tools & Services
+CRL,"Charles River Laboratories International, Inc.",Life Sciences Tools & Services
+FLDM,Fluidigm Corporation,Life Sciences Tools & Services
+ILMN,"Illumina, Inc.",Life Sciences Tools & Services
+IQV,IQVIA Holdings Inc,Life Sciences Tools & Services
+LMNX,Luminex Corp,Life Sciences Tools & Services
+MEDP,"Medpace Holdings, Inc.",Life Sciences Tools & Services
+MTD,Mettler-Toledo International Inc.,Life Sciences Tools & Services
+NEO,"NeoGenomics, Inc.",Life Sciences Tools & Services
+NSTG,"NanoString Technologies, Inc.",Life Sciences Tools & Services
+PACB,"Pacific Biosciences of California, Inc.",Life Sciences Tools & Services
+PKI,"PerkinElmer, Inc.",Life Sciences Tools & Services
+PPD,"PPD, Inc.",Life Sciences Tools & Services
+PRAH,"PRA Health Sciences, Inc.",Life Sciences Tools & Services
+PSNL,"Personalis, Inc.",Life Sciences Tools & Services
+QGEN,QIAGEN NV,Life Sciences Tools & Services
+QTRX,Quanterix Corporation,Life Sciences Tools & Services
+RGEN,Repligen Corporation,Life Sciences Tools & Services
+SYNH,"Syneos Health, Inc. Class A",Life Sciences Tools & Services
+TECH,Bio-Techne Corporation,Life Sciences Tools & Services
+TMO,Thermo Fisher Scientific Inc.,Life Sciences Tools & Services
+WAT,Waters Corporation,Life Sciences Tools & Services
+AGCO,AGCO Corporation,Machinery
+AIMC,Altra Industrial Motion Corp.,Machinery
+AIN,Albany International Corp. Class A,Machinery
+ALG,Alamo Group Inc.,Machinery
+ALSN,"Allison Transmission Holdings, Inc.",Machinery
+AQUA,Evoqua Water Technologies Corp,Machinery
+ASTE,"Astec Industries, Inc.",Machinery
+B,Barnes Group Inc.,Machinery
+BGG,Briggs & Stratton Corporation,Machinery
+BLBD,Blue Bird Corporation,Machinery
+CAT,Caterpillar Inc.,Machinery
+CFX,Colfax Corporation,Machinery
+CIR,"CIRCOR International, Inc.",Machinery
+CMCO,Columbus McKinnon Corporation,Machinery
+CMI,Cummins Inc.,Machinery
+CR,Crane Co.,Machinery
+CVGI,"Commercial Vehicle Group, Inc.",Machinery
+DCI,"Donaldson Company, Inc.",Machinery
+DE,Deere & Company,Machinery
+DOV,Dover Corporation,Machinery
+EML,Eastern Company,Machinery
+EPAC,Enerpac Tool Group Corp Class A,Machinery
+ERII,"Energy Recovery, Inc.",Machinery
+ESE,ESCO Technologies Inc.,Machinery
+FELE,"Franklin Electric Co., Inc.",Machinery
+FLOW,"SPX Flow, Inc.",Machinery
+FLS,Flowserve Corporation,Machinery
+FSS,Federal Signal Corporation,Machinery
+FSTR,L. B. Foster Company,Machinery
+FTV,Fortive Corp.,Machinery
+GBX,"Greenbrier Companies, Inc.",Machinery
+GENC,"Gencor Industries, Inc.",Machinery
+GGG,Graco Inc.,Machinery
+GHM,Graham Corporation,Machinery
+GRC,Gorman-Rupp Company,Machinery
+GTES,Gates Industrial Corporation plc,Machinery
+GTLS,"Chart Industries, Inc.",Machinery
+HI,"Hillenbrand, Inc.",Machinery
+HLIO,"Helios Technologies, Inc.",Machinery
+HURC,"Hurco Companies, Inc.",Machinery
+HY,"Hyster-Yale Materials Handling, Inc. Class A",Machinery
+IEX,IDEX Corporation,Machinery
+IR,Ingersoll Rand Inc.,Machinery
+ITT,"ITT, Inc.",Machinery
+ITW,Illinois Tool Works Inc.,Machinery
+JBT,John Bean Technologies Corporation,Machinery
+KAI,Kadant Inc.,Machinery
+KMT,Kennametal Inc.,Machinery
+LDL,"Lydall, Inc.",Machinery
+LECO,"Lincoln Electric Holdings, Inc.",Machinery
+LNN,Lindsay Corporation,Machinery
+LXFR,Luxfer Holdings PLC,Machinery
+MEC,"Mayville Engineering Company, Inc.",Machinery
+MIDD,Middleby Corporation,Machinery
+MLI,"Mueller Industries, Inc.",Machinery
+MLR,"Miller Industries, Inc.",Machinery
+MTOR,"Meritor, Inc.",Machinery
+MTW,"Manitowoc Company, Inc.",Machinery
+MWA,"Mueller Water Products, Inc. Class A",Machinery
+NAV,Navistar International Corporation,Machinery
+NDSN,Nordson Corporation,Machinery
+NNBR,"NN, Inc.",Machinery
+NPO,"EnPro Industries, Inc.",Machinery
+OFLX,"Omega Flex, Inc.",Machinery
+OSK,Oshkosh Corp,Machinery
+PCAR,PACCAR Inc,Machinery
+PH,Parker-Hannifin Corporation,Machinery
+PKOH,Park-Ohio Holdings Corp.,Machinery
+PLOW,"Douglas Dynamics, Inc.",Machinery
+PNR,Pentair plc,Machinery
+PRLB,"Proto Labs, Inc.",Machinery
+REVG,"REV Group, Inc.",Machinery
+ROLL,RBC Bearings Incorporated,Machinery
+RXN,Rexnord Corporation,Machinery
+SNA,Snap-on Incorporated,Machinery
+SPAR,"Spartan Motors, Inc.",Machinery
+SPXC,SPX Corporation,Machinery
+SWK,"Stanley Black & Decker, Inc.",Machinery
+SXI,Standex International Corporation,Machinery
+TEX,Terex Corporation,Machinery
+TKR,Timken Company,Machinery
+TNC,Tennant Company,Machinery
+TRN,"Trinity Industries, Inc.",Machinery
+TRS,TriMas Corporation,Machinery
+TTC,Toro Company,Machinery
+TWI,"Titan International, Inc.",Machinery
+TWIN,"Twin Disc, incorporated",Machinery
+WAB,Westinghouse Air Brake Technologies Corporation,Machinery
+WBC,WABCO Holdings Inc.,Machinery
+WBT,Welbilt Inc,Machinery
+WNC,Wabash National Corporation,Machinery
+WTS,"Watts Water Technologies, Inc. Class A",Machinery
+WWD,"Woodward, Inc.",Machinery
+XYL,Xylem Inc.,Machinery
+CMRE,Costamare Inc.,Marine
+EGLE,Eagle Bulk Shipping Inc,Marine
+GNK,Genco Shipping & Trading Ltd,Marine
+KEX,Kirby Corporation,Marine
+MATX,"Matson, Inc.",Marine
+SALT,"Scorpio Bulkers, Inc.",Marine
+SB,"Safe Bulkers, Inc.",Marine
+AMCX,AMC Networks Inc. Class A,Media
+ATUS,"Altice USA, Inc. Class A",Media
+BOMN,Boston Omaha Corp. Class A,Media
+CABO,"Cable One, Inc.",Media
+CCO,Clear Channel Outdoor Holdings Inc,Media
+CDLX,"Cardlytics, Inc.",Media
+CETV,Central European Media Enterprises Ltd. Class A,Media
+CHTR,"Charter Communications, Inc. Class A",Media
+CMCSA,Comcast Corporation Class A,Media
+CMLS,"Cumulus Media, Inc. Class A",Media
+DISCA,"Discovery, Inc. Class A",Media
+DISH,DISH Network Corporation Class A,Media
+DJCO,Daily Journal Corporation,Media
+EEX,"Emerald Holding, Inc.",Media
+ETM,Entercom Communications Corp. Class A,Media
+EVC,Entravision Communications Corporation Class A,Media
+FLNT,"Fluent, Inc.",Media
+FOXA,Fox Corporation Class A,Media
+GCI,"Gannett Co., Inc.",Media
+GTN,"Gray Television, Inc.",Media
+HMTV,"Hemisphere Media Group, Inc. Class A",Media
+IPG,"Interpublic Group of Companies, Inc.",Media
+JW.A,"John Wiley & Sons, Inc. Class A",Media
+LBRDK,Liberty Broadband Corp. Class C,Media
+LEE,"Lee Enterprises, Incorporated",Media
+LILAK,Liberty Latin America Ltd. Class C,Media
+LORL,Loral Space & Communications Inc.,Media
+MCHX,"Marchex, Inc. Class B",Media
+MDCA,MDC Partners Inc. Class A,Media
+MDP,Meredith Corporation,Media
+MSGN,MSG Networks Inc. Class A,Media
+NCMI,"National CineMedia, Inc.",Media
+NWSA,News Corporation Class A,Media
+NXST,"Nexstar Media Group, Inc. Class A",Media
+NYT,New York Times Company Class A,Media
+OMC,Omnicom Group Inc,Media
+SBGI,"Sinclair Broadcast Group, Inc. Class A",Media
+SCHL,Scholastic Corporation,Media
+SCOR,"comScore, Inc.",Media
+SGA,"Saga Communications, Inc. Class A",Media
+SIRI,"Sirius XM Holdings, Inc.",Media
+SSP,E. W. Scripps Company Class A,Media
+TGNA,"TEGNA, Inc.",Media
+TPCO,Tribune Publishing Co.,Media
+TTGT,"TechTarget, Inc.",Media
+VIAC,ViacomCBS Inc. Class B,Media
+WOW,"WideOpenWest, Inc.",Media
+AA,Alcoa Corp.,Metals & Mining
+ATI,Allegheny Technologies Incorporated,Metals & Mining
+CDE,"Coeur Mining, Inc.",Metals & Mining
+CENX,Century Aluminum Company,Metals & Mining
+CLF,Cleveland-Cliffs Inc,Metals & Mining
+CMC,Commercial Metals Company,Metals & Mining
+CMP,"Compass Minerals International, Inc.",Metals & Mining
+CRS,Carpenter Technology Corporation,Metals & Mining
+FCX,"Freeport-McMoRan, Inc.",Metals & Mining
+GORO,Gold Resource Corporation,Metals & Mining
+HAYN,"Haynes International, Inc.",Metals & Mining
+HCC,"Warrior Met Coal, Inc.",Metals & Mining
+HL,Hecla Mining Company,Metals & Mining
+KALU,Kaiser Aluminum Corporation,Metals & Mining
+METC,"Ramaco Resources, Inc.",Metals & Mining
+MTRN,Materion Corporation,Metals & Mining
+NEM,Newmont Corporation,Metals & Mining
+NUE,Nucor Corporation,Metals & Mining
+RGLD,"Royal Gold, Inc.",Metals & Mining
+RS,Reliance Steel & Aluminum Co.,Metals & Mining
+RYI,Ryerson Holding Corporation,Metals & Mining
+SCCO,Southern Copper Corporation,Metals & Mining
+SCHN,"Schnitzer Steel Industries, Inc. Class A",Metals & Mining
+STLD,"Steel Dynamics, Inc.",Metals & Mining
+SXC,"SunCoke Energy, Inc.",Metals & Mining
+SYNL,Synalloy Corporation,Metals & Mining
+TMST,TimkenSteel Corp,Metals & Mining
+WOR,"Worthington Industries, Inc.",Metals & Mining
+X,United States Steel Corporation,Metals & Mining
+ZEUS,"Olympic Steel, Inc.",Metals & Mining
+ACRE,Ares Commercial Real Estate Corporation,Mortgage Real Estate Investment Trusts (REITs)
+AGNC,AGNC Investment Corp.,Mortgage Real Estate Investment Trusts (REITs)
+AI,Arlington Asset Investment Corp. Class A,Mortgage Real Estate Investment Trusts (REITs)
+AJX,Great Ajax Corp.,Mortgage Real Estate Investment Trusts (REITs)
+ANH,Anworth Mortgage Asset Corporation,Mortgage Real Estate Investment Trusts (REITs)
+ARI,"Apollo Commercial Real Estate Finance, Inc.",Mortgage Real Estate Investment Trusts (REITs)
+ARR,"ARMOUR Residential REIT, Inc.",Mortgage Real Estate Investment Trusts (REITs)
+BXMT,"Blackstone Mortgage Trust, Inc. Class A",Mortgage Real Estate Investment Trusts (REITs)
+CHMI,Cherry Hill Mortgage Investment Corp.,Mortgage Real Estate Investment Trusts (REITs)
+CIM,Chimera Investment Corporation,Mortgage Real Estate Investment Trusts (REITs)
+CLNC,"Colony Credit Real Estate, Inc. Class A",Mortgage Real Estate Investment Trusts (REITs)
+CMO,Capstead Mortgage Corporation,Mortgage Real Estate Investment Trusts (REITs)
+DX,"Dynex Capital, Inc.",Mortgage Real Estate Investment Trusts (REITs)
+EFC,Ellington Financial Inc.,Mortgage Real Estate Investment Trusts (REITs)
+GPMT,Granite Point Mortgage Trust Inc.,Mortgage Real Estate Investment Trusts (REITs)
+IVR,Invesco Mortgage Capital Inc.,Mortgage Real Estate Investment Trusts (REITs)
+KREF,KKR Real Estate Finance Trust Inc.,Mortgage Real Estate Investment Trusts (REITs)
+LADR,Ladder Capital Corp. Class A,Mortgage Real Estate Investment Trusts (REITs)
+MFA,"MFA Financial, Inc.",Mortgage Real Estate Investment Trusts (REITs)
+MITT,"AG Mortgage Investment Trust, Inc.",Mortgage Real Estate Investment Trusts (REITs)
+NLY,"Annaly Capital Management, Inc.",Mortgage Real Estate Investment Trusts (REITs)
+NRZ,New Residential Investment Corp.,Mortgage Real Estate Investment Trusts (REITs)
+NYMT,"New York Mortgage Trust, Inc.",Mortgage Real Estate Investment Trusts (REITs)
+ORC,"Orchid Island Capital, Inc.",Mortgage Real Estate Investment Trusts (REITs)
+PMT,PennyMac Mortgage Investment Trust,Mortgage Real Estate Investment Trusts (REITs)
+RC,Ready Capital Corporation,Mortgage Real Estate Investment Trusts (REITs)
+RWT,"Redwood Trust, Inc.",Mortgage Real Estate Investment Trusts (REITs)
+STWD,"Starwood Property Trust, Inc.",Mortgage Real Estate Investment Trusts (REITs)
+TRTX,"TPG RE Finance Trust, Inc.",Mortgage Real Estate Investment Trusts (REITs)
+TWO,Two Harbors Investment Corp.,Mortgage Real Estate Investment Trusts (REITs)
+WMC,Western Asset Mortgage Capital Corporation,Mortgage Real Estate Investment Trusts (REITs)
+XAN,Exantas Capital Corp.,Mortgage Real Estate Investment Trusts (REITs)
+AEE,Ameren Corporation,Multi-Utilities
+AVA,Avista Corporation,Multi-Utilities
+BKH,Black Hills Corporation,Multi-Utilities
+CMS,CMS Energy Corporation,Multi-Utilities
+CNP,"CenterPoint Energy, Inc.",Multi-Utilities
+D,Dominion Energy Inc,Multi-Utilities
+DTE,DTE Energy Company,Multi-Utilities
+ED,"Consolidated Edison, Inc.",Multi-Utilities
+MDU,MDU Resources Group Inc,Multi-Utilities
+NI,NiSource Inc,Multi-Utilities
+NWE,NorthWestern Corporation,Multi-Utilities
+PEG,Public Service Enterprise Group Inc,Multi-Utilities
+SRE,Sempra Energy,Multi-Utilities
+UTL,Unitil Corporation,Multi-Utilities
+WEC,WEC Energy Group Inc,Multi-Utilities
+BIG,"Big Lots, Inc.",Multiline Retail
+DDS,"Dillard's, Inc. Class A",Multiline Retail
+DG,Dollar General Corporation,Multiline Retail
+DLTR,"Dollar Tree, Inc.",Multiline Retail
+JCP,"J. C. Penney Company, Inc.",Multiline Retail
+JWN,"Nordstrom, Inc.",Multiline Retail
+KSS,Kohl's Corporation,Multiline Retail
+M,Macy's Inc,Multiline Retail
+OLLI,Ollie's Bargain Outlet Holdings Inc,Multiline Retail
+TGT,Target Corporation,Multiline Retail
+ALTM,Altus Midstream Co. Class A,Oil Gas & Consumable Fuels
+AM,Antero Midstream Corp.,Oil Gas & Consumable Fuels
+AMPY,Amplify Energy Corp.,Oil Gas & Consumable Fuels
+APA,Apache Corporation,Oil Gas & Consumable Fuels
+AR,Antero Resources Corporation,Oil Gas & Consumable Fuels
+ARCH,Arch Coal Inc Class A,Oil Gas & Consumable Fuels
+ASC,Ardmore Shipping Corp.,Oil Gas & Consumable Fuels
+AXAS,Abraxas Petroleum Corporation,Oil Gas & Consumable Fuels
+BCEI,Bonanza Creek Energy Inc,Oil Gas & Consumable Fuels
+BRY,Berry Corporation,Oil Gas & Consumable Fuels
+BTU,Peabody Energy Corporation,Oil Gas & Consumable Fuels
+CDEV,"Centennial Resource Development, Inc. Class A",Oil Gas & Consumable Fuels
+CEIX,CONSOL Energy Inc,Oil Gas & Consumable Fuels
+CHAP,"Chaparral Energy, Inc. Class A",Oil Gas & Consumable Fuels
+CHK,Chesapeake Energy Corporation,Oil Gas & Consumable Fuels
+CLNE,Clean Energy Fuels Corp.,Oil Gas & Consumable Fuels
+CLR,"Continental Resources, Inc.",Oil Gas & Consumable Fuels
+CNX,CNX Resources Corporation,Oil Gas & Consumable Fuels
+COG,Cabot Oil & Gas Corporation,Oil Gas & Consumable Fuels
+COP,ConocoPhillips,Oil Gas & Consumable Fuels
+CPE,Callon Petroleum Company,Oil Gas & Consumable Fuels
+CRC,California Resources Corp,Oil Gas & Consumable Fuels
+CRK,"Comstock Resources, Inc.",Oil Gas & Consumable Fuels
+CTRA,"Contura Energy, Inc.",Oil Gas & Consumable Fuels
+CVI,"CVR Energy, Inc.",Oil Gas & Consumable Fuels
+CVX,Chevron Corporation,Oil Gas & Consumable Fuels
+CXO,Concho Resources Inc.,Oil Gas & Consumable Fuels
+DHT,"DHT Holdings, Inc.",Oil Gas & Consumable Fuels
+DK,Delek US Holdings Inc,Oil Gas & Consumable Fuels
+DNR,Denbury Resources Inc.,Oil Gas & Consumable Fuels
+DSSI,"Diamond S Shipping, Inc.",Oil Gas & Consumable Fuels
+DVN,Devon Energy Corporation,Oil Gas & Consumable Fuels
+EOG,"EOG Resources, Inc.",Oil Gas & Consumable Fuels
+EPM,Evolution Petroleum Corporation,Oil Gas & Consumable Fuels
+EQT,EQT Corporation,Oil Gas & Consumable Fuels
+ESTE,"Earthstone Energy, Inc. Class A",Oil Gas & Consumable Fuels
+ETRN,Equitrans Midstream Corp.,Oil Gas & Consumable Fuels
+FANG,"Diamondback Energy, Inc.",Oil Gas & Consumable Fuels
+FLMN,Falcon Minerals Corp. Class A,Oil Gas & Consumable Fuels
+GDP,Goodrich Petroleum Corporation,Oil Gas & Consumable Fuels
+GLNG,Golar LNG Limited,Oil Gas & Consumable Fuels
+GLOG,GasLog Ltd.,Oil Gas & Consumable Fuels
+GPOR,Gulfport Energy Corporation,Oil Gas & Consumable Fuels
+GPRE,Green Plains Inc.,Oil Gas & Consumable Fuels
+HES,Hess Corporation,Oil Gas & Consumable Fuels
+HFC,HollyFrontier Corporation,Oil Gas & Consumable Fuels
+HNRG,Hallador Energy Co,Oil Gas & Consumable Fuels
+HPR,HighPoint Resources Corp.,Oil Gas & Consumable Fuels
+INSW,"International Seaways, Inc.",Oil Gas & Consumable Fuels
+INT,World Fuel Services Corporation,Oil Gas & Consumable Fuels
+KMI,Kinder Morgan Inc Class P,Oil Gas & Consumable Fuels
+KOS,Kosmos Energy Ltd.,Oil Gas & Consumable Fuels
+LNG,"Cheniere Energy, Inc.",Oil Gas & Consumable Fuels
+LPG,Dorian LPG Ltd.,Oil Gas & Consumable Fuels
+LPI,"Laredo Petroleum, Inc.",Oil Gas & Consumable Fuels
+MGY,Magnolia Oil & Gas Corp. Class A,Oil Gas & Consumable Fuels
+MNRL,"Brigham Minerals, Inc. Class A",Oil Gas & Consumable Fuels
+MPC,Marathon Petroleum Corporation,Oil Gas & Consumable Fuels
+MR,Montage Resources Corp.,Oil Gas & Consumable Fuels
+MRO,Marathon Oil Corporation,Oil Gas & Consumable Fuels
+MTDR,Matador Resources Company,Oil Gas & Consumable Fuels
+MUR,Murphy Oil Corporation,Oil Gas & Consumable Fuels
+NAT,Nordic American Tankers Limited,Oil Gas & Consumable Fuels
+NBL,"Noble Energy, Inc.",Oil Gas & Consumable Fuels
+NC,"NACCO Industries, Inc. Class A",Oil Gas & Consumable Fuels
+NEXT,NextDecade Corp.,Oil Gas & Consumable Fuels
+NOG,"Northern Oil and Gas, Inc.",Oil Gas & Consumable Fuels
+OAS,Oasis Petroleum Inc.,Oil Gas & Consumable Fuels
+OKE,"ONEOK, Inc.",Oil Gas & Consumable Fuels
+OSG,"Overseas Shipholding Group, Inc. Class A",Oil Gas & Consumable Fuels
+OXY,Occidental Petroleum Corporation,Oil Gas & Consumable Fuels
+PARR,Par Pacific Holdings Inc,Oil Gas & Consumable Fuels
+PBF,"PBF Energy, Inc. Class A",Oil Gas & Consumable Fuels
+PDCE,"PDC Energy, Inc.",Oil Gas & Consumable Fuels
+PE,"Parsley Energy, Inc. Class A",Oil Gas & Consumable Fuels
+PHX,Panhandle Oil and Gas Inc. Class A,Oil Gas & Consumable Fuels
+PNRG,PrimeEnergy Resources Corporation,Oil Gas & Consumable Fuels
+PSX,Phillips 66,Oil Gas & Consumable Fuels
+PVAC,Penn Virginia Corporation,Oil Gas & Consumable Fuels
+PXD,Pioneer Natural Resources Company,Oil Gas & Consumable Fuels
+QEP,"QEP Resources, Inc.",Oil Gas & Consumable Fuels
+REGI,"Renewable Energy Group, Inc.",Oil Gas & Consumable Fuels
+REI,"Ring Energy, Inc.",Oil Gas & Consumable Fuels
+REX,REX American Resources Corporation,Oil Gas & Consumable Fuels
+ROSE,Rosehill Resources Inc. Class A,Oil Gas & Consumable Fuels
+RRC,Range Resources Corporation,Oil Gas & Consumable Fuels
+SBOW,SilverBow Resources Inc,Oil Gas & Consumable Fuels
+SD,"SandRidge Energy, Inc.",Oil Gas & Consumable Fuels
+SFL,SFL Corporation Limited,Oil Gas & Consumable Fuels
+SM,SM Energy Company,Oil Gas & Consumable Fuels
+STNG,Scorpio Tankers Inc.,Oil Gas & Consumable Fuels
+SWN,Southwestern Energy Company,Oil Gas & Consumable Fuels
+TALO,"Talos Energy, Inc.",Oil Gas & Consumable Fuels
+TELL,Tellurian Inc.,Oil Gas & Consumable Fuels
+TK,Teekay Corporation,Oil Gas & Consumable Fuels
+TNK,Teekay Tankers Ltd. Class A,Oil Gas & Consumable Fuels
+TRGP,Targa Resources Corp.,Oil Gas & Consumable Fuels
+UEC,Uranium Energy Corp.,Oil Gas & Consumable Fuels
+UNT,Unit Corporation,Oil Gas & Consumable Fuels
+VLO,Valero Energy Corporation,Oil Gas & Consumable Fuels
+WLL,Whiting Petroleum Corporation,Oil Gas & Consumable Fuels
+WMB,"Williams Companies, Inc.",Oil Gas & Consumable Fuels
+WPX,"WPX Energy, Inc.",Oil Gas & Consumable Fuels
+WTI,"W&T Offshore, Inc.",Oil Gas & Consumable Fuels
+XEC,Cimarex Energy Co.,Oil Gas & Consumable Fuels
+XOG,"Extraction Oil & Gas, Inc.",Oil Gas & Consumable Fuels
+XOM,Exxon Mobil Corporation,Oil Gas & Consumable Fuels
+BCC,Boise Cascade Co.,Paper & Forest Products
+CLW,Clearwater Paper Corporation,Paper & Forest Products
+GLT,P. H. Glatfelter Company,Paper & Forest Products
+LPX,Louisiana-Pacific Corporation,Paper & Forest Products
+NP,Neenah Inc,Paper & Forest Products
+SWM,"Schweitzer-Mauduit International, Inc.",Paper & Forest Products
+UFS,Domtar Corporation,Paper & Forest Products
+VRS,Verso Corp Class A,Paper & Forest Products
+BRBR,"BellRing Brands, Inc. Class A",Personal Products
+COTY,Coty Inc. Class A,Personal Products
+EL,Estee Lauder Companies Inc. Class A,Personal Products
+ELF,"e.l.f. Beauty, Inc.",Personal Products
+EPC,Edgewell Personal Care Co.,Personal Products
+HLF,Herbalife Nutrition Ltd.,Personal Products
+IPAR,"Inter Parfums, Inc.",Personal Products
+LFVN,LifeVantage Corporation,Personal Products
+MED,"Medifast, Inc.",Personal Products
+NATR,"Nature's Sunshine Products, Inc.",Personal Products
+NUS,"Nu Skin Enterprises, Inc. Class A",Personal Products
+REV,"Revlon, Inc. Class A",Personal Products
+USNA,"USANA Health Sciences, Inc.",Personal Products
+YGYI,"Youngevity International, Inc.",Personal Products
+ACER,Acer Therapeutics Inc.,Pharmaceuticals
+ACRS,"Aclaris Therapeutics, Inc.",Pharmaceuticals
+ACRX,"AcelRx Pharmaceuticals, Inc.",Pharmaceuticals
+AERI,"Aerie Pharmaceuticals, Inc.",Pharmaceuticals
+AGN,Allergan plc,Pharmaceuticals
+AKRX,"Akorn, Inc.",Pharmaceuticals
+AMPH,Amphastar Pharmaceuticals Inc,Pharmaceuticals
+AMRX,"Amneal Pharmaceuticals, Inc. Class A",Pharmaceuticals
+ANIP,"ANI Pharmaceuticals, Inc.",Pharmaceuticals
+ARVN,"Arvinas, Inc.",Pharmaceuticals
+ASRT,"Assertio Therapeutics, Inc.",Pharmaceuticals
+AXSM,"Axsome Therapeutics, Inc.",Pharmaceuticals
+BDSI,"BioDelivery Sciences International, Inc.",Pharmaceuticals
+BMY,Bristol-Myers Squibb Company,Pharmaceuticals
+BXRX,Baudax Bio Inc,Pharmaceuticals
+CARA,Cara Therapeutics Inc,Pharmaceuticals
+CBAY,"CymaBay Therapeutics, Inc.",Pharmaceuticals
+CERC,Cerecor Inc,Pharmaceuticals
+CHMA,Chiasma Inc,Pharmaceuticals
+COLL,"Collegium Pharmaceutical, Inc.",Pharmaceuticals
+CORT,Corcept Therapeutics Incorporated.,Pharmaceuticals
+CRMD,CorMedix Inc.,Pharmaceuticals
+CTLT,Catalent Inc,Pharmaceuticals
+ELAN,"Elanco Animal Health, Inc.",Pharmaceuticals
+ELOX,"Eloxx Pharmaceuticals, Inc.",Pharmaceuticals
+ENDP,Endo International Plc,Pharmaceuticals
+EOLS,"Evolus, Inc.",Pharmaceuticals
+EVFM,"Evofem Biosciences, Inc.",Pharmaceuticals
+EYPT,"EyePoint Pharmaceuticals, Inc.",Pharmaceuticals
+FULC,"Fulcrum Therapeutics, Inc.",Pharmaceuticals
+HZNP,Horizon Therapeutics Public Limited Company,Pharmaceuticals
+INVA,"Innoviva, Inc.",Pharmaceuticals
+ITCI,"Intra-Cellular Therapies, Inc.",Pharmaceuticals
+JAZZ,Jazz Pharmaceuticals Plc,Pharmaceuticals
+JNJ,Johnson & Johnson,Pharmaceuticals
+KALA,"Kala Pharmaceuticals, Inc.",Pharmaceuticals
+KLDO,"Kaleido Biosciences, Inc.",Pharmaceuticals
+LCI,"Lannett Company, Inc.",Pharmaceuticals
+LLY,Eli Lilly and Company,Pharmaceuticals
+LQDA,"Liquidia Technologies, Inc.",Pharmaceuticals
+MNK,Mallinckrodt Plc,Pharmaceuticals
+MNLO,Menlo Therapeutics Inc.,Pharmaceuticals
+MRK,"Merck & Co., Inc.",Pharmaceuticals
+MRNS,Marinus Pharmaceuticals Inc,Pharmaceuticals
+MYL,Mylan N.V.,Pharmaceuticals
+MYOK,"MyoKardia, Inc.",Pharmaceuticals
+NGM,"NGM Biopharmaceuticals, Inc.",Pharmaceuticals
+NKTR,Nektar Therapeutics,Pharmaceuticals
+OCUL,Ocular Therapeutix Inc,Pharmaceuticals
+ODT,"Odonate Therapeutics, Inc.",Pharmaceuticals
+OMER,Omeros Corporation,Pharmaceuticals
+OPTN,"OptiNose, Inc.",Pharmaceuticals
+OSMT,Osmotica Pharmaceuticals Plc,Pharmaceuticals
+PAHC,Phibro Animal Health Corporation Class A,Pharmaceuticals
+PBH,Prestige Consumer Healthcare Inc,Pharmaceuticals
+PCRX,"Pacira Biosciences, Inc.",Pharmaceuticals
+PFE,Pfizer Inc.,Pharmaceuticals
+PHAT,"Phathom Pharmaceuticals, Inc.",Pharmaceuticals
+PRGO,Perrigo Co. Plc,Pharmaceuticals
+PRTK,Paratek Pharmaceuticals Inc,Pharmaceuticals
+REPH,"Recro Pharma, Inc.",Pharmaceuticals
+RETA,"Reata Pharmaceuticals, Inc. Class A",Pharmaceuticals
+RVNC,"Revance Therapeutics, Inc.",Pharmaceuticals
+SBBP,Strongbridge Biopharma plc,Pharmaceuticals
+SIGA,SIGA Technologies Inc,Pharmaceuticals
+STSA,"Satsuma Pharmaceuticals, Inc.",Pharmaceuticals
+SUPN,"Supernus Pharmaceuticals, Inc.",Pharmaceuticals
+TBPH,Theravance Biopharma Inc,Pharmaceuticals
+TCDA,Tricida Inc,Pharmaceuticals
+TORC,"resTORbio, Inc.",Pharmaceuticals
+TXMD,"TherapeuticsMD, Inc.",Pharmaceuticals
+VRCA,Verrica Pharmaceuticals Inc,Pharmaceuticals
+WVE,Wave Life Sciences Ltd.,Pharmaceuticals
+XENT,Intersect ENT Inc,Pharmaceuticals
+XERS,Xeris Pharmaceuticals Inc,Pharmaceuticals
+YCBD,"cbdMD, Inc.",Pharmaceuticals
+ZGNX,"Zogenix, Inc.",Pharmaceuticals
+ZTS,"Zoetis, Inc. Class A",Pharmaceuticals
+ZYNE,Zynerba Pharmaceuticals Inc,Pharmaceuticals
+ACTG,Acacia Research Corporation,Professional Services
+ASGN,ASGN Inc,Professional Services
+BBSI,"Barrett Business Services, Inc.",Professional Services
+BGSF,"BG Staffing, Inc.",Professional Services
+CBZ,"CBIZ, Inc.",Professional Services
+CRAI,"CRA International, Inc.",Professional Services
+CSGP,"CoStar Group, Inc.",Professional Services
+EFX,Equifax Inc.,Professional Services
+EXPO,"Exponent, Inc.",Professional Services
+FC,Franklin Covey Co.,Professional Services
+FCN,"FTI Consulting, Inc.",Professional Services
+FORR,"Forrester Research, Inc.",Professional Services
+GPX,GP Strategies Corporation,Professional Services
+HSII,"Heidrick & Struggles International, Inc.",Professional Services
+HURN,Huron Consulting Group Inc.,Professional Services
+ICFI,"ICF International, Inc.",Professional Services
+INFO,IHS Markit Ltd.,Professional Services
+INWK,"InnerWorkings, Inc.",Professional Services
+KELYA,"Kelly Services, Inc. Class A",Professional Services
+KFRC,Kforce Inc.,Professional Services
+KFY,Korn Ferry,Professional Services
+MAN,ManpowerGroup Inc.,Professional Services
+MG,"Mistras Group, Inc.",Professional Services
+NLSN,Nielsen Holdings Plc,Professional Services
+NSP,"Insperity, Inc.",Professional Services
+RECN,"Resources Connection, Inc.",Professional Services
+RHI,Robert Half International Inc.,Professional Services
+TBI,"TrueBlue, Inc.",Professional Services
+TNET,"TriNet Group, Inc.",Professional Services
+TRU,TransUnion,Professional Services
+UPWK,"Upwork, Inc.",Professional Services
+VRSK,Verisk Analytics Inc,Professional Services
+WLDN,"Willdan Group, Inc.",Professional Services
+AAT,"American Assets Trust, Inc.",Real Estate Investment Trusts (REITs)
+ACC,"American Campus Communities, Inc.",Real Estate Investment Trusts (REITs)
+ADC,Agree Realty Corporation,Real Estate Investment Trusts (REITs)
+AFIN,"American Finance Trust, Inc.",Real Estate Investment Trusts (REITs)
+AHH,"Armada Hoffler Properties, Inc.",Real Estate Investment Trusts (REITs)
+AHT,"Ashford Hospitality Trust, Inc.",Real Estate Investment Trusts (REITs)
+AIV,Apartment Investment & Management Co Class A,Real Estate Investment Trusts (REITs)
+AKR,Acadia Realty Trust,Real Estate Investment Trusts (REITs)
+ALEX,"Alexander & Baldwin, Inc.",Real Estate Investment Trusts (REITs)
+ALX,"Alexander's, Inc.",Real Estate Investment Trusts (REITs)
+AMH,American Homes 4 Rent Class A,Real Estate Investment Trusts (REITs)
+AMT,American Tower Corporation,Real Estate Investment Trusts (REITs)
+APLE,Apple Hospitality REIT Inc,Real Estate Investment Trusts (REITs)
+APTS,"Preferred Apartment Communities, Inc.",Real Estate Investment Trusts (REITs)
+ARE,"Alexandria Real Estate Equities, Inc.",Real Estate Investment Trusts (REITs)
+AVB,"AvalonBay Communities, Inc.",Real Estate Investment Trusts (REITs)
+BDN,Brandywine Realty Trust,Real Estate Investment Trusts (REITs)
+BFS,"Saul Centers, Inc.",Real Estate Investment Trusts (REITs)
+BHR,"Braemar Hotels & Resorts, Inc.",Real Estate Investment Trusts (REITs)
+BPYU,Brookfield Property REIT Inc Class A,Real Estate Investment Trusts (REITs)
+BRG,Bluerock Residential Growth REIT Inc Class A,Real Estate Investment Trusts (REITs)
+BRT,BRT Apartments Corp,Real Estate Investment Trusts (REITs)
+BRX,"Brixmor Property Group, Inc.",Real Estate Investment Trusts (REITs)
+BXP,"Boston Properties, Inc.",Real Estate Investment Trusts (REITs)
+CBL,"CBL & Associates Properties, Inc.",Real Estate Investment Trusts (REITs)
+CCI,Crown Castle International Corp,Real Estate Investment Trusts (REITs)
+CDR,Cedar Realty Trust Inc,Real Estate Investment Trusts (REITs)
+CHCT,"Community Healthcare Trust, Inc.",Real Estate Investment Trusts (REITs)
+CIO,"City Office REIT, Inc.",Real Estate Investment Trusts (REITs)
+CLDT,Chatham Lodging Trust,Real Estate Investment Trusts (REITs)
+CLI,Mack-Cali Realty Corporation,Real Estate Investment Trusts (REITs)
+CLNY,"Colony Capital, Inc. Class A",Real Estate Investment Trusts (REITs)
+CLPR,"Clipper Realty, Inc.",Real Estate Investment Trusts (REITs)
+CMCT,CIM Commercial Trust Corporation,Real Estate Investment Trusts (REITs)
+COLD,Americold Realty Trust,Real Estate Investment Trusts (REITs)
+CONE,"CyrusOne, Inc.",Real Estate Investment Trusts (REITs)
+COR,CoreSite Realty Corporation,Real Estate Investment Trusts (REITs)
+CORR,"CorEnergy Infrastructure Trust, Inc.",Real Estate Investment Trusts (REITs)
+CPLG,"CorePoint Lodging, Inc.",Real Estate Investment Trusts (REITs)
+CPT,Camden Property Trust,Real Estate Investment Trusts (REITs)
+CTRE,CareTrust REIT Inc,Real Estate Investment Trusts (REITs)
+CTT,"CatchMark Timber Trust, Inc. Class A",Real Estate Investment Trusts (REITs)
+CUBE,CubeSmart,Real Estate Investment Trusts (REITs)
+CUZ,Cousins Properties Incorporated,Real Estate Investment Trusts (REITs)
+CXP,"Columbia Property Trust, Inc.",Real Estate Investment Trusts (REITs)
+CXW,"CoreCivic, Inc.",Real Estate Investment Trusts (REITs)
+DEA,"Easterly Government Properties, Inc.",Real Estate Investment Trusts (REITs)
+DEI,"Douglas Emmett, Inc",Real Estate Investment Trusts (REITs)
+DHC,Diversified Healthcare Trust,Real Estate Investment Trusts (REITs)
+DLR,"Digital Realty Trust, Inc.",Real Estate Investment Trusts (REITs)
+DOC,Physicians Realty Trust,Real Estate Investment Trusts (REITs)
+DRE,Duke Realty Corporation,Real Estate Investment Trusts (REITs)
+DRH,DiamondRock Hospitality Company,Real Estate Investment Trusts (REITs)
+EGP,"EastGroup Properties, Inc.",Real Estate Investment Trusts (REITs)
+ELS,"Equity LifeStyle Properties, Inc.",Real Estate Investment Trusts (REITs)
+EPR,EPR Properties,Real Estate Investment Trusts (REITs)
+EPRT,"Essential Properties Realty Trust, Inc.",Real Estate Investment Trusts (REITs)
+EQC,Equity Commonwealth,Real Estate Investment Trusts (REITs)
+EQIX,"Equinix, Inc.",Real Estate Investment Trusts (REITs)
+EQR,Equity Residential,Real Estate Investment Trusts (REITs)
+ESRT,"Empire State Realty Trust, Inc. Class A",Real Estate Investment Trusts (REITs)
+ESS,"Essex Property Trust, Inc.",Real Estate Investment Trusts (REITs)
+EXR,Extra Space Storage Inc.,Real Estate Investment Trusts (REITs)
+FCPT,"Four Corners Property Trust, Inc.",Real Estate Investment Trusts (REITs)
+FPI,Farmland Partners Inc,Real Estate Investment Trusts (REITs)
+FR,"First Industrial Realty Trust, Inc.",Real Estate Investment Trusts (REITs)
+FRT,Federal Realty Investment Trust,Real Estate Investment Trusts (REITs)
+FSP,Franklin Street Properties Corp.,Real Estate Investment Trusts (REITs)
+GEO,GEO Group Inc,Real Estate Investment Trusts (REITs)
+GLPI,"Gaming and Leisure Properties, Inc.",Real Estate Investment Trusts (REITs)
+GMRE,Global Medical REIT Inc,Real Estate Investment Trusts (REITs)
+GNL,Global Net Lease Inc,Real Estate Investment Trusts (REITs)
+GOOD,Gladstone Commercial Corporation,Real Estate Investment Trusts (REITs)
+GTY,Getty Realty Corp.,Real Estate Investment Trusts (REITs)
+HASI,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",Real Estate Investment Trusts (REITs)
+HIW,"Highwoods Properties, Inc.",Real Estate Investment Trusts (REITs)
+HPP,"Hudson Pacific Properties, Inc.",Real Estate Investment Trusts (REITs)
+HR,Healthcare Realty Trust Incorporated,Real Estate Investment Trusts (REITs)
+HST,"Host Hotels & Resorts, Inc.",Real Estate Investment Trusts (REITs)
+HT,Hersha Hospitality Trust Class A,Real Estate Investment Trusts (REITs)
+HTA,"Healthcare Trust of America, Inc. Class A",Real Estate Investment Trusts (REITs)
+IIPR,Innovative Industrial Properties Inc,Real Estate Investment Trusts (REITs)
+ILPT,Industrial Logistics Properties Trust,Real Estate Investment Trusts (REITs)
+INN,"Summit Hotel Properties, Inc.",Real Estate Investment Trusts (REITs)
+INVH,"Invitation Homes, Inc.",Real Estate Investment Trusts (REITs)
+IRET,Investors Real Estate Trust,Real Estate Investment Trusts (REITs)
+IRM,"Iron Mountain, Inc.",Real Estate Investment Trusts (REITs)
+IRT,"Independence Realty Trust, Inc.",Real Estate Investment Trusts (REITs)
+JBGS,JBG SMITH Properties,Real Estate Investment Trusts (REITs)
+JCAP,"Jernigan Capital, Inc.",Real Estate Investment Trusts (REITs)
+KIM,Kimco Realty Corporation,Real Estate Investment Trusts (REITs)
+KRC,Kilroy Realty Corporation,Real Estate Investment Trusts (REITs)
+KRG,Kite Realty Group Trust,Real Estate Investment Trusts (REITs)
+LAMR,Lamar Advertising Company Class A,Real Estate Investment Trusts (REITs)
+LAND,Gladstone Land Corp.,Real Estate Investment Trusts (REITs)
+LSI,"Life Storage, Inc.",Real Estate Investment Trusts (REITs)
+LTC,"LTC Properties, Inc.",Real Estate Investment Trusts (REITs)
+LXP,Lexington Realty Trust,Real Estate Investment Trusts (REITs)
+MAA,"Mid-America Apartment Communities, Inc.",Real Estate Investment Trusts (REITs)
+MAC,Macerich Company,Real Estate Investment Trusts (REITs)
+MNR,Monmouth Real Estate Investment Corporation Class A,Real Estate Investment Trusts (REITs)
+MPW,"Medical Properties Trust, Inc.",Real Estate Investment Trusts (REITs)
+NHI,"National Health Investors, Inc.",Real Estate Investment Trusts (REITs)
+NNN,"National Retail Properties, Inc.",Real Estate Investment Trusts (REITs)
+NSA,National Storage Affiliates Trust,Real Estate Investment Trusts (REITs)
+NXRT,NexPoint Residential Trust Inc,Real Estate Investment Trusts (REITs)
+O,Realty Income Corporation,Real Estate Investment Trusts (REITs)
+OFC,Corporate Office Properties Trust,Real Estate Investment Trusts (REITs)
+OHI,"Omega Healthcare Investors, Inc.",Real Estate Investment Trusts (REITs)
+OLP,"One Liberty Properties, Inc.",Real Estate Investment Trusts (REITs)
+OPI,Office Properties Income Trust,Real Estate Investment Trusts (REITs)
+OUT,OUTFRONT Media Inc.,Real Estate Investment Trusts (REITs)
+PCH,PotlatchDeltic Corporation,Real Estate Investment Trusts (REITs)
+PDM,"Piedmont Office Realty Trust, Inc. Class A",Real Estate Investment Trusts (REITs)
+PEAK,"Healthpeak Properties, Inc.",Real Estate Investment Trusts (REITs)
+PEB,Pebblebrook Hotel Trust,Real Estate Investment Trusts (REITs)
+PEI,Pennsylvania Real Estate Investment Trust,Real Estate Investment Trusts (REITs)
+PGRE,"Paramount Group, Inc.",Real Estate Investment Trusts (REITs)
+PK,"Park Hotels & Resorts, Inc.",Real Estate Investment Trusts (REITs)
+PLD,"Prologis, Inc.",Real Estate Investment Trusts (REITs)
+PSA,Public Storage,Real Estate Investment Trusts (REITs)
+PSB,"PS Business Parks, Inc.",Real Estate Investment Trusts (REITs)
+QTS,"QTS Realty Trust, Inc. Class A",Real Estate Investment Trusts (REITs)
+REG,Regency Centers Corporation,Real Estate Investment Trusts (REITs)
+RESI,Front Yard Residential Corp. Class B,Real Estate Investment Trusts (REITs)
+REXR,"Rexford Industrial Realty, Inc.",Real Estate Investment Trusts (REITs)
+RHP,"Ryman Hospitality Properties, Inc.",Real Estate Investment Trusts (REITs)
+RLJ,RLJ Lodging Trust,Real Estate Investment Trusts (REITs)
+ROIC,Retail Opportunity Investments Corp.,Real Estate Investment Trusts (REITs)
+RPAI,"Retail Properties of America, Inc. Class A",Real Estate Investment Trusts (REITs)
+RPT,RPT Realty,Real Estate Investment Trusts (REITs)
+RVI,"Retail Value, Inc.",Real Estate Investment Trusts (REITs)
+RYN,Rayonier Inc.,Real Estate Investment Trusts (REITs)
+SAFE,Safehold Inc.,Real Estate Investment Trusts (REITs)
+SBAC,SBA Communications Corp. Class A,Real Estate Investment Trusts (REITs)
+SBRA,"Sabra Health Care REIT, Inc.",Real Estate Investment Trusts (REITs)
+SHO,"Sunstone Hotel Investors, Inc.",Real Estate Investment Trusts (REITs)
+SITC,SITE Centers Corp.,Real Estate Investment Trusts (REITs)
+SKT,"Tanger Factory Outlet Centers, Inc.",Real Estate Investment Trusts (REITs)
+SLG,SL Green Realty Corp.,Real Estate Investment Trusts (REITs)
+SNR,New Senior Investment Group Inc,Real Estate Investment Trusts (REITs)
+SPG,"Simon Property Group, Inc.",Real Estate Investment Trusts (REITs)
+SRC,"Spirit Realty Capital, Inc.",Real Estate Investment Trusts (REITs)
+SRG,Seritage Growth Properties Class A,Real Estate Investment Trusts (REITs)
+STAG,"STAG Industrial, Inc.",Real Estate Investment Trusts (REITs)
+STAR,iStar Inc.,Real Estate Investment Trusts (REITs)
+STOR,STORE Capital Corporation,Real Estate Investment Trusts (REITs)
+SUI,"Sun Communities, Inc.",Real Estate Investment Trusts (REITs)
+SVC,Service Properties Trust,Real Estate Investment Trusts (REITs)
+TCO,"Taubman Centers, Inc.",Real Estate Investment Trusts (REITs)
+TRNO,Terreno Realty Corporation,Real Estate Investment Trusts (REITs)
+UBA,Urstadt Biddle Properties Inc. Class A,Real Estate Investment Trusts (REITs)
+UDR,"UDR, Inc.",Real Estate Investment Trusts (REITs)
+UE,Urban Edge Properties,Real Estate Investment Trusts (REITs)
+UHT,Universal Health Realty Income Trust,Real Estate Investment Trusts (REITs)
+UMH,"UMH Properties, Inc.",Real Estate Investment Trusts (REITs)
+UNIT,Uniti Group Inc,Real Estate Investment Trusts (REITs)
+VER,"VEREIT, Inc. Class A",Real Estate Investment Trusts (REITs)
+VICI,VICI Properties Inc,Real Estate Investment Trusts (REITs)
+VNO,Vornado Realty Trust,Real Estate Investment Trusts (REITs)
+VTR,"Ventas, Inc.",Real Estate Investment Trusts (REITs)
+WELL,"Welltower, Inc.",Real Estate Investment Trusts (REITs)
+WPC,W. P. Carey Inc.,Real Estate Investment Trusts (REITs)
+WPG,Washington Prime Group Inc.,Real Estate Investment Trusts (REITs)
+WRE,Washington Real Estate Investment Trust,Real Estate Investment Trusts (REITs)
+WRI,Weingarten Realty Investors,Real Estate Investment Trusts (REITs)
+WSR,Whitestone REIT,Real Estate Investment Trusts (REITs)
+WY,Weyerhaeuser Company,Real Estate Investment Trusts (REITs)
+XHR,"Xenia Hotels & Resorts, Inc.",Real Estate Investment Trusts (REITs)
+ARL,"American Realty Investors, Inc.",Real Estate Management & Development
+ASPS,Altisource Portfolio Solutions S.A.,Real Estate Management & Development
+CBRE,"CBRE Group, Inc. Class A",Real Estate Management & Development
+CTO,Consolidated-Tomoka Land Co.,Real Estate Management & Development
+CWK,Cushman & Wakefield Plc,Real Estate Management & Development
+EXPI,"eXp World Holdings, Inc.",Real Estate Management & Development
+FOR,Forestar Group Inc.,Real Estate Management & Development
+FRPH,FRP Holdings Inc,Real Estate Management & Development
+GRIF,"Griffin Industrial Realty, Inc. Class A",Real Estate Management & Development
+HHC,Howard Hughes Corporation,Real Estate Management & Development
+JLL,Jones Lang LaSalle Incorporated,Real Estate Management & Development
+JOE,St. Joe Company,Real Estate Management & Development
+KW,"Kennedy-Wilson Holdings, Inc.",Real Estate Management & Development
+MLP,"Maui Land & Pineapple Company, Inc.",Real Estate Management & Development
+MMI,"Marcus & Millichap, Inc.",Real Estate Management & Development
+NMRK,"Newmark Group, Inc. Class A",Real Estate Management & Development
+RDFN,Redfin Corporation,Real Estate Management & Development
+RFL,"Rafael Holdings, Inc. Class B",Real Estate Management & Development
+RLGY,Realogy Holdings Corp.,Real Estate Management & Development
+RMAX,"RE/MAX Holdings, Inc.",Real Estate Management & Development
+RMR,"RMR Group, Inc. Class A",Real Estate Management & Development
+STRS,Stratus Properties Inc.,Real Estate Management & Development
+TCI,"Transcontinental Realty Investors, Inc.",Real Estate Management & Development
+TRC,Tejon Ranch Co.,Real Estate Management & Development
+ARCB,ArcBest Corporation,Road & Rail
+CAR,"Avis Budget Group, Inc.",Road & Rail
+CSX,CSX Corporation,Road & Rail
+CVTI,"Covenant Transportation Group, Inc. Class A",Road & Rail
+DSKE,"Daseke, Inc.",Road & Rail
+HTLD,"Heartland Express, Inc.",Road & Rail
+HTZ,"Hertz Global Holdings, Inc.",Road & Rail
+JBHT,"J.B. Hunt Transport Services, Inc.",Road & Rail
+KNX,Knight-Swift Transportation Holdings Inc. Class A,Road & Rail
+KSU,Kansas City Southern,Road & Rail
+LSTR,"Landstar System, Inc.",Road & Rail
+LYFT,Lyft Inc Class A,Road & Rail
+MRTN,"Marten Transport, Ltd.",Road & Rail
+NSC,Norfolk Southern Corporation,Road & Rail
+ODFL,"Old Dominion Freight Line, Inc.",Road & Rail
+PTSI,"P.A.M. Transportation Services, Inc.",Road & Rail
+R,"Ryder System, Inc.",Road & Rail
+RRTS,"Roadrunner Transportation Systems, Inc.",Road & Rail
+SAIA,"Saia, Inc.",Road & Rail
+SNDR,"Schneider National, Inc. Class B",Road & Rail
+UBER,"Uber Technologies, Inc.",Road & Rail
+UHAL,AMERCO,Road & Rail
+ULH,"Universal Logistics Holdings, Inc.",Road & Rail
+UNP,Union Pacific Corporation,Road & Rail
+USX,"US Xpress Enterprises, Inc. Class A",Road & Rail
+WERN,"Werner Enterprises, Inc.",Road & Rail
+YRCW,YRC Worldwide Inc.,Road & Rail
+ACLS,"Axcelis Technologies, Inc.",Semiconductors & Semiconductor Equipment
+ADI,"Analog Devices, Inc.",Semiconductors & Semiconductor Equipment
+AEIS,"Advanced Energy Industries, Inc.",Semiconductors & Semiconductor Equipment
+AMAT,"Applied Materials, Inc.",Semiconductors & Semiconductor Equipment
+AMBA,"Ambarella, Inc.",Semiconductors & Semiconductor Equipment
+AMD,"Advanced Micro Devices, Inc.",Semiconductors & Semiconductor Equipment
+AMKR,"Amkor Technology, Inc.",Semiconductors & Semiconductor Equipment
+AOSL,Alpha and Omega Semiconductor Limited,Semiconductors & Semiconductor Equipment
+AVGO,Broadcom Inc.,Semiconductors & Semiconductor Equipment
+AXTI,"AXT, Inc.",Semiconductors & Semiconductor Equipment
+BRKS,"Brooks Automation, Inc.",Semiconductors & Semiconductor Equipment
+CCMP,Cabot Microelectronics Corporation,Semiconductors & Semiconductor Equipment
+CEVA,"CEVA, Inc.",Semiconductors & Semiconductor Equipment
+COHU,"Cohu, Inc.",Semiconductors & Semiconductor Equipment
+CREE,"Cree, Inc.",Semiconductors & Semiconductor Equipment
+CRUS,"Cirrus Logic, Inc.",Semiconductors & Semiconductor Equipment
+CY,Cypress Semiconductor Corporation,Semiconductors & Semiconductor Equipment
+DIOD,Diodes Incorporated,Semiconductors & Semiconductor Equipment
+DSPG,"DSP Group, Inc.",Semiconductors & Semiconductor Equipment
+ENPH,"Enphase Energy, Inc.",Semiconductors & Semiconductor Equipment
+ENTG,"Entegris, Inc.",Semiconductors & Semiconductor Equipment
+FORM,"FormFactor, Inc.",Semiconductors & Semiconductor Equipment
+FSLR,"First Solar, Inc.",Semiconductors & Semiconductor Equipment
+GSIT,"GSI Technology, Inc.",Semiconductors & Semiconductor Equipment
+ICHR,"Ichor Holdings, Ltd.",Semiconductors & Semiconductor Equipment
+INTC,Intel Corporation,Semiconductors & Semiconductor Equipment
+IOTS,Adesto Technologies Corporation,Semiconductors & Semiconductor Equipment
+IPHI,Inphi Corporation,Semiconductors & Semiconductor Equipment
+KLAC,KLA Corporation,Semiconductors & Semiconductor Equipment
+LRCX,Lam Research Corporation,Semiconductors & Semiconductor Equipment
+LSCC,Lattice Semiconductor Corporation,Semiconductors & Semiconductor Equipment
+MCHP,Microchip Technology Incorporated,Semiconductors & Semiconductor Equipment
+MKSI,"MKS Instruments, Inc.",Semiconductors & Semiconductor Equipment
+MPWR,"Monolithic Power Systems, Inc.",Semiconductors & Semiconductor Equipment
+MRVL,Marvell Technology Group Ltd.,Semiconductors & Semiconductor Equipment
+MTSI,"MACOM Technology Solutions Holdings, Inc.",Semiconductors & Semiconductor Equipment
+MU,"Micron Technology, Inc.",Semiconductors & Semiconductor Equipment
+MXIM,"Maxim Integrated Products, Inc.",Semiconductors & Semiconductor Equipment
+MXL,MaxLinear inc,Semiconductors & Semiconductor Equipment
+NPTN,NeoPhotonics Corporation,Semiconductors & Semiconductor Equipment
+NVDA,NVIDIA Corporation,Semiconductors & Semiconductor Equipment
+NVEC,NVE Corporation,Semiconductors & Semiconductor Equipment
+OLED,Universal Display Corporation,Semiconductors & Semiconductor Equipment
+ON,ON Semiconductor Corporation,Semiconductors & Semiconductor Equipment
+ONTO,"Onto Innovation, Inc.",Semiconductors & Semiconductor Equipment
+PDFS,"PDF Solutions, Inc.",Semiconductors & Semiconductor Equipment
+PI,"Impinj, Inc.",Semiconductors & Semiconductor Equipment
+PLAB,"Photronics, Inc.",Semiconductors & Semiconductor Equipment
+POWI,"Power Integrations, Inc.",Semiconductors & Semiconductor Equipment
+QCOM,QUALCOMM Incorporated,Semiconductors & Semiconductor Equipment
+QRVO,"Qorvo, Inc.",Semiconductors & Semiconductor Equipment
+RMBS,Rambus Inc.,Semiconductors & Semiconductor Equipment
+SGH,"SMART Global Holdings, Inc.",Semiconductors & Semiconductor Equipment
+SITM,SiTime Corporation,Semiconductors & Semiconductor Equipment
+SLAB,Silicon Laboratories Inc.,Semiconductors & Semiconductor Equipment
+SMTC,Semtech Corporation,Semiconductors & Semiconductor Equipment
+SPWR,SunPower Corporation,Semiconductors & Semiconductor Equipment
+SWKS,"Skyworks Solutions, Inc.",Semiconductors & Semiconductor Equipment
+SYNA,Synaptics Incorporated,Semiconductors & Semiconductor Equipment
+TER,"Teradyne, Inc.",Semiconductors & Semiconductor Equipment
+TXN,Texas Instruments Incorporated,Semiconductors & Semiconductor Equipment
+UCTT,"Ultra Clean Holdings, Inc.",Semiconductors & Semiconductor Equipment
+VECO,Veeco Instruments Inc.,Semiconductors & Semiconductor Equipment
+XLNX,"Xilinx, Inc.",Semiconductors & Semiconductor Equipment
+XPER,Xperi Corp,Semiconductors & Semiconductor Equipment
+ACIW,"ACI Worldwide, Inc.",Software
+ADBE,Adobe Inc.,Software
+ADSK,"Autodesk, Inc.",Software
+AGYS,"Agilysys, Inc.",Software
+ALRM,"Alarm.com Holdings, Inc.",Software
+ALTR,Altair Engineering Inc. Class A,Software
+AMSWA,"American Software, Inc. Class A",Software
+ANSS,"ANSYS, Inc.",Software
+APPF,AppFolio Inc Class A,Software
+APPN,Appian Corporation Class A,Software
+APPS,"Digital Turbine, Inc.",Software
+ATEN,"A10 Networks, Inc.",Software
+AVLR,Avalara Inc,Software
+AVYA,Avaya Holdings Corp.,Software
+AYX,"Alteryx, Inc. Class A",Software
+AZPN,"Aspen Technology, Inc.",Software
+BILL,"Bill.com Holdings, Inc.",Software
+BL,"BlackLine, Inc.",Software
+BLKB,"Blackbaud, Inc.",Software
+BNFT,"Benefitfocus, Inc.",Software
+BOX,"Box, Inc. Class A",Software
+CDAY,"Ceridian HCM Holding, Inc.",Software
+CDK,CDK Global Inc,Software
+CDNS,"Cadence Design Systems, Inc.",Software
+CLDR,"Cloudera, Inc.",Software
+COUP,"Coupa Software, Inc.",Software
+CRM,"salesforce.com, inc.",Software
+CRNC,Cerence Inc,Software
+CSOD,"Cornerstone Ondemand, Inc.",Software
+CTXS,"Citrix Systems, Inc.",Software
+CVLT,"CommVault Systems, Inc.",Software
+DBX,"Dropbox, Inc. Class A",Software
+DMRC,Digimarc Corporation,Software
+DOCU,"DocuSign, Inc.",Software
+DOMO,"Domo, Inc. Class B",Software
+DT,"Dynatrace, Inc.",Software
+EBIX,"Ebix, Inc.",Software
+ECOM,Channeladvisor Corporation,Software
+EGAN,eGain Corporation,Software
+EGHT,"8x8, Inc.",Software
+ENV,"Envestnet, Inc.",Software
+EPAY,"Bottomline Technologies (de), Inc.",Software
+ESTC,Elastic NV,Software
+EVBG,"Everbridge, Inc.",Software
+FEYE,"FireEye, Inc.",Software
+FICO,Fair Isaac Corporation,Software
+FIVN,"Five9, Inc.",Software
+FSCT,"ForeScout Technologies, Inc.",Software
+FTNT,"Fortinet, Inc.",Software
+GTYH,"GTY Technology Holdings, Inc.",Software
+GWRE,"Guidewire Software, Inc.",Software
+HUBS,"HubSpot, Inc.",Software
+IDEX,"Ideanomics, Inc.",Software
+INS,Intelligent Systems Corporation,Software
+INTU,Intuit Inc.,Software
+JCOM,"J2 Global, Inc.",Software
+LOGM,"LogMeIn, Inc.",Software
+LPSN,"LivePerson, Inc.",Software
+MANH,"Manhattan Associates, Inc.",Software
+MDLA,"Medallia, Inc.",Software
+MITK,"Mitek Systems, Inc.",Software
+MJCO,Majesco,Software
+MOBL,"MobileIron, Inc.",Software
+MODN,"Model N, Inc.",Software
+MSFT,Microsoft Corporation,Software
+MSTR,MicroStrategy Incorporated Class A,Software
+NEWR,"New Relic, Inc.",Software
+NLOK,NortonLifeLock Inc.,Software
+NOW,"ServiceNow, Inc.",Software
+NTNX,"Nutanix, Inc. Class A",Software
+NUAN,"Nuance Communications, Inc.",Software
+ORCL,Oracle Corporation,Software
+OSPN,OneSpan Inc.,Software
+PANW,"Palo Alto Networks, Inc.",Software
+PAYC,"Paycom Software, Inc.",Software
+PCTY,Paylocity Holding Corp.,Software
+PD,"PagerDuty, Inc.",Software
+PEGA,Pegasystems Inc.,Software
+PFPT,"Proofpoint, Inc.",Software
+PHUN,"Phunware, Inc.",Software
+PING,Ping Identity Holding Corp.,Software
+PLAN,"Anaplan, Inc.",Software
+PRGS,Progress Software Corporation,Software
+PRO,"PROS Holdings, Inc.",Software
+PS,"Pluralsight, Inc. Class A",Software
+PTC,PTC Inc.,Software
+QLYS,"Qualys, Inc.",Software
+QTWO,"Q2 Holdings, Inc.",Software
+RMNI,Rimini Street Inc Class A,Software
+RNG,"RingCentral, Inc. Class A",Software
+RP,"RealPage, Inc.",Software
+RPD,Rapid7 Inc.,Software
+RST,Rosetta Stone Inc.,Software
+SAIL,"SailPoint Technologies Holdings, Inc.",Software
+SCWX,SecureWorks Corp. Class A,Software
+SHSP,"SharpSpring, Inc.",Software
+SMAR,"Smartsheet, Inc. Class A",Software
+SNCR,"Synchronoss Technologies, Inc.",Software
+SNPS,"Synopsys, Inc.",Software
+SPLK,Splunk Inc.,Software
+SPSC,"SPS Commerce, Inc.",Software
+SPT,Sprout Social Inc Class A,Software
+SSNC,"SS&C Technologies Holdings, Inc.",Software
+SSTI,"ShotSpotter, Inc.",Software
+SVMK,"SVMK, Inc.",Software
+SWI,SolarWinds Corp.,Software
+TDC,Teradata Corporation,Software
+TEAM,Atlassian Corp. Plc Class A,Software
+TENB,"Tenable Holdings, Inc.",Software
+TIVO,TiVo Corp.,Software
+TLRA,Telaria Inc,Software
+TNAV,"TeleNav, Inc.",Software
+TTD,"Trade Desk, Inc. Class A",Software
+TWOU,"2U, Inc.",Software
+TYL,"Tyler Technologies, Inc.",Software
+UPLD,"Upland Software, Inc.",Software
+VHC,VirnetX Holding Corporation,Software
+VMW,"VMware, Inc. Class A",Software
+VRNS,"Varonis Systems, Inc.",Software
+VRNT,Verint Systems Inc.,Software
+WDAY,"Workday, Inc. Class A",Software
+WK,"Workiva, Inc. Class A",Software
+YEXT,"Yext, Inc.",Software
+ZEN,"Zendesk, Inc.",Software
+ZIXI,Zix Corporation,Software
+ZS,"Zscaler, Inc.",Software
+ZUO,"Zuora, Inc. Class A",Software
+AAN,"Aaron's, Inc.",Specialty Retail
+AAP,"Advance Auto Parts, Inc.",Specialty Retail
+ABG,"Asbury Automotive Group, Inc.",Specialty Retail
+AEO,"American Eagle Outfitters, Inc.",Specialty Retail
+AN,"AutoNation, Inc.",Specialty Retail
+ANF,Abercrombie & Fitch Co. Class A,Specialty Retail
+ASNA,"Ascena Retail Group, Inc.",Specialty Retail
+AZO,"AutoZone, Inc.",Specialty Retail
+BBBY,Bed Bath & Beyond Inc.,Specialty Retail
+BBY,"Best Buy Co., Inc.",Specialty Retail
+BKE,"Buckle, Inc.",Specialty Retail
+BNED,"Barnes & Noble Education, Inc.",Specialty Retail
+BOOT,"Boot Barn Holdings, Inc.",Specialty Retail
+BURL,"Burlington Stores, Inc.",Specialty Retail
+CAL,"Caleres, Inc.",Specialty Retail
+CATO,Cato Corporation Class A,Specialty Retail
+CHS,"Chico's FAS, Inc.",Specialty Retail
+CONN,"Conn's, Inc.",Specialty Retail
+CRMT,"America's Car-Mart, Inc.",Specialty Retail
+CTRN,"Citi Trends, Inc.",Specialty Retail
+CVNA,Carvana Co. Class A,Specialty Retail
+CWH,"Camping World Holdings, Inc. Class A",Specialty Retail
+DBI,Designer Brands Inc. Class A,Specialty Retail
+DKS,"Dick's Sporting Goods, Inc.",Specialty Retail
+EXPR,"Express, Inc.",Specialty Retail
+EYE,"National Vision Holdings, Inc.",Specialty Retail
+FIVE,"Five Below, Inc.",Specialty Retail
+FL,"Foot Locker, Inc.",Specialty Retail
+FND,"Floor & Decor Holdings, Inc. Class A",Specialty Retail
+GCO,Genesco Inc.,Specialty Retail
+GES,"Guess?, Inc.",Specialty Retail
+GME,GameStop Corp. Class A,Specialty Retail
+GNC,"GNC Holdings, Inc. Class A",Specialty Retail
+GPI,"Group 1 Automotive, Inc.",Specialty Retail
+GPS,"Gap, Inc.",Specialty Retail
+HD,"Home Depot, Inc.",Specialty Retail
+HIBB,"Hibbett Sports, Inc.",Specialty Retail
+HOME,"At Home Group, Inc.",Specialty Retail
+HUD,Hudson Ltd. Class A,Specialty Retail
+HVT,"Haverty Furniture Companies, Inc.",Specialty Retail
+HZO,"MarineMax, Inc.",Specialty Retail
+JILL,"J.Jill, Inc.",Specialty Retail
+KMX,"CarMax, Inc.",Specialty Retail
+LAD,"Lithia Motors, Inc. Class A",Specialty Retail
+LB,"L Brands, Inc.",Specialty Retail
+LL,"Lumber Liquidators Holdings, Inc.",Specialty Retail
+LOW,"Lowe's Companies, Inc.",Specialty Retail
+MIK,Michaels Companies Inc,Specialty Retail
+MNRO,Monro Inc,Specialty Retail
+MUSA,"Murphy USA, Inc.",Specialty Retail
+ODP,"Office Depot, Inc.",Specialty Retail
+ONEW,OneWater Marine Inc Class A,Specialty Retail
+ORLY,"O'Reilly Automotive, Inc.",Specialty Retail
+PAG,"Penske Automotive Group, Inc.",Specialty Retail
+PLCE,"Children's Place, Inc.",Specialty Retail
+PRTY,"Party City Holdco, Inc.",Specialty Retail
+RCII,Rent-A-Center Inc,Specialty Retail
+RH,RH,Specialty Retail
+ROST,"Ross Stores, Inc.",Specialty Retail
+RTW,"RTW Retailwinds, Inc.",Specialty Retail
+SAH,"Sonic Automotive, Inc. Class A",Specialty Retail
+SBH,"Sally Beauty Holdings, Inc.",Specialty Retail
+SCVL,"Shoe Carnival, Inc.",Specialty Retail
+SIG,Signet Jewelers Limited,Specialty Retail
+SNBR,Sleep Number Corporation,Specialty Retail
+SPWH,"Sportsman's Warehouse Holdings, Inc.",Specialty Retail
+TCS,"The Container Store Group, Inc.",Specialty Retail
+TIF,Tiffany & Co.,Specialty Retail
+TJX,TJX Companies Inc,Specialty Retail
+TLRD,"Tailored Brands, Inc.",Specialty Retail
+TLYS,"Tilly's, Inc. Class A",Specialty Retail
+TSCO,Tractor Supply Company,Specialty Retail
+ULTA,Ulta Beauty Inc,Specialty Retail
+URBN,"Urban Outfitters, Inc.",Specialty Retail
+WINA,Winmark Corporation,Specialty Retail
+WSM,"Williams-Sonoma, Inc.",Specialty Retail
+ZUMZ,Zumiez Inc.,Specialty Retail
+AAPL,Apple Inc.,Technology Hardware Storage & Peripherals
+ALOT,"AstroNova, Inc.",Technology Hardware Storage & Peripherals
+AVID,"Avid Technology, Inc.",Technology Hardware Storage & Peripherals
+DBD,Diebold Nixdorf Incorporated,Technology Hardware Storage & Peripherals
+DDD,3D Systems Corporation,Technology Hardware Storage & Peripherals
+DELL,Dell Technologies Inc Class C,Technology Hardware Storage & Peripherals
+HPE,Hewlett Packard Enterprise Co.,Technology Hardware Storage & Peripherals
+HPQ,HP Inc.,Technology Hardware Storage & Peripherals
+IMMR,Immersion Corporation,Technology Hardware Storage & Peripherals
+NCR,NCR Corporation,Technology Hardware Storage & Peripherals
+NTAP,"NetApp, Inc.",Technology Hardware Storage & Peripherals
+PSTG,"Pure Storage, Inc. Class A",Technology Hardware Storage & Peripherals
+SONM,"Sonim Technologies, Inc.",Technology Hardware Storage & Peripherals
+SSYS,Stratasys Ltd.,Technology Hardware Storage & Peripherals
+WDC,Western Digital Corporation,Technology Hardware Storage & Peripherals
+XRX,Xerox Holdings Corporation,Technology Hardware Storage & Peripherals
+COLM,Columbia Sportswear Company,Textiles Apparel & Luxury Goods
+CPRI,Capri Holdings Limited,Textiles Apparel & Luxury Goods
+CRI,"Carter's, Inc.",Textiles Apparel & Luxury Goods
+CROX,"Crocs, Inc.",Textiles Apparel & Luxury Goods
+CTRC,"Centric Brands, Inc.",Textiles Apparel & Luxury Goods
+CULP,"Culp, Inc.",Textiles Apparel & Luxury Goods
+DECK,Deckers Outdoor Corporation,Textiles Apparel & Luxury Goods
+DLA,"Delta Apparel, Inc.",Textiles Apparel & Luxury Goods
+FOSL,"Fossil Group, Inc.",Textiles Apparel & Luxury Goods
+GIII,"G-III Apparel Group, Ltd.",Textiles Apparel & Luxury Goods
+HBI,Hanesbrands Inc.,Textiles Apparel & Luxury Goods
+KTB,"Kontoor Brands, Inc.",Textiles Apparel & Luxury Goods
+LULU,Lululemon Athletica Inc,Textiles Apparel & Luxury Goods
+MOV,"Movado Group, Inc.",Textiles Apparel & Luxury Goods
+NKE,"NIKE, Inc. Class B",Textiles Apparel & Luxury Goods
+OXM,"Oxford Industries, Inc.",Textiles Apparel & Luxury Goods
+PVH,PVH Corp.,Textiles Apparel & Luxury Goods
+RCKY,"Rocky Brands, Inc.",Textiles Apparel & Luxury Goods
+RL,Ralph Lauren Corporation Class A,Textiles Apparel & Luxury Goods
+SGC,"Superior Group of Companies, Inc.",Textiles Apparel & Luxury Goods
+SHOO,"Steven Madden, Ltd.",Textiles Apparel & Luxury Goods
+SKX,"Skechers U.S.A., Inc. Class A",Textiles Apparel & Luxury Goods
+TPR,"Tapestry, Inc.",Textiles Apparel & Luxury Goods
+UAA,"Under Armour, Inc. Class A",Textiles Apparel & Luxury Goods
+UFI,"Unifi, Inc.",Textiles Apparel & Luxury Goods
+VFC,V.F. Corporation,Textiles Apparel & Luxury Goods
+VNCE,Vince Holding Corp.,Textiles Apparel & Luxury Goods
+VRA,"Vera Bradley, Inc.",Textiles Apparel & Luxury Goods
+WWW,"Wolverine World Wide, Inc.",Textiles Apparel & Luxury Goods
+AGM,Federal Agricultural Mortgage Corporation Class C,Thrifts & Mortgage Finance
+AX,"Axos Financial, Inc.",Thrifts & Mortgage Finance
+BWB,"Bridgewater Bancshares, Inc.",Thrifts & Mortgage Finance
+CASH,"Meta Financial Group, Inc.",Thrifts & Mortgage Finance
+CFFN,"Capitol Federal Financial, Inc.",Thrifts & Mortgage Finance
+CLBK,"Columbia Financial, Inc.",Thrifts & Mortgage Finance
+COOP,"Mr. Cooper Group, Inc.",Thrifts & Mortgage Finance
+EBSB,Meridian Bancorp Inc,Thrifts & Mortgage Finance
+ESNT,Essent Group Ltd.,Thrifts & Mortgage Finance
+ESSA,"ESSA Bancorp, Inc.",Thrifts & Mortgage Finance
+FBC,"Flagstar Bancorp, Inc.",Thrifts & Mortgage Finance
+FDEF,First Defiance Financial Corp.,Thrifts & Mortgage Finance
+FSBW,"FS Bancorp, Inc.",Thrifts & Mortgage Finance
+GCBC,"Greene County Bancorp, Inc.",Thrifts & Mortgage Finance
+HBCP,"Home Bancorp, Inc.",Thrifts & Mortgage Finance
+HIFS,Hingham Institution for Savings,Thrifts & Mortgage Finance
+HMST,"HomeStreet, Inc.",Thrifts & Mortgage Finance
+KRNY,Kearny Financial Corp.,Thrifts & Mortgage Finance
+LBC,Luther Burbank Corporation,Thrifts & Mortgage Finance
+MBIN,Merchants Bancorp,Thrifts & Mortgage Finance
+MMAC,"MMA Capital Holdings, Inc.",Thrifts & Mortgage Finance
+MTG,MGIC Investment Corporation,Thrifts & Mortgage Finance
+NFBK,"Northfield Bancorp, Inc.",Thrifts & Mortgage Finance
+NMIH,"NMI Holdings, Inc. Class A",Thrifts & Mortgage Finance
+NWBI,"Northwest Bancshares, Inc.",Thrifts & Mortgage Finance
+NYCB,"New York Community Bancorp, Inc.",Thrifts & Mortgage Finance
+OCFC,OceanFirst Financial Corp.,Thrifts & Mortgage Finance
+OCN,Ocwen Financial Corporation,Thrifts & Mortgage Finance
+OPBK,OP Bancorp,Thrifts & Mortgage Finance
+PBFS,"Pioneer Bancorp, Inc.",Thrifts & Mortgage Finance
+PBIP,"Prudential Bancorp, Inc.",Thrifts & Mortgage Finance
+PCSB,PCSB Financial Corporation,Thrifts & Mortgage Finance
+PDLB,PDL Community Bancorp,Thrifts & Mortgage Finance
+PFS,"Provident Financial Services, Inc.",Thrifts & Mortgage Finance
+PFSI,"PennyMac Financial Services, Inc.",Thrifts & Mortgage Finance
+PROV,"Provident Financial Holdings, Inc.",Thrifts & Mortgage Finance
+PVBC,Provident Bancorp Inc,Thrifts & Mortgage Finance
+RDN,Radian Group Inc.,Thrifts & Mortgage Finance
+RVSB,"Riverview Bancorp, Inc.",Thrifts & Mortgage Finance
+SBT,"Sterling Bancorp, Inc.",Thrifts & Mortgage Finance
+SMBC,"Southern Missouri Bancorp, Inc.",Thrifts & Mortgage Finance
+TBNK,Territorial Bancorp Inc.,Thrifts & Mortgage Finance
+TFSL,TFS Financial Corporation,Thrifts & Mortgage Finance
+TRST,TrustCo Bank Corp NY,Thrifts & Mortgage Finance
+TSBK,"Timberland Bancorp, Inc.",Thrifts & Mortgage Finance
+VEL,"Velocity Financial, Inc.",Thrifts & Mortgage Finance
+WAFD,"Washington Federal, Inc.",Thrifts & Mortgage Finance
+WD,"Walker & Dunlop, Inc.",Thrifts & Mortgage Finance
+WNEB,"Western New England Bancorp, Inc.",Thrifts & Mortgage Finance
+WSBF,"Waterstone Financial, Inc.",Thrifts & Mortgage Finance
+WSFS,WSFS Financial Corporation,Thrifts & Mortgage Finance
+MO,Altria Group Inc,Tobacco
+PM,Philip Morris International Inc.,Tobacco
+PYX,"Pyxus International, Inc.",Tobacco
+TPB,Turning Point Brands Inc,Tobacco
+UVV,Universal Corp,Tobacco
+VGR,Vector Group Ltd.,Tobacco
+XXII,"22nd Century Group, Inc.",Tobacco
+AIT,"Applied Industrial Technologies, Inc.",Trading Companies & Distributors
+AL,Air Lease Corporation Class A,Trading Companies & Distributors
+AYR,Aircastle Limited,Trading Companies & Distributors
+BECN,"Beacon Roofing Supply, Inc.",Trading Companies & Distributors
+BMCH,"BMC Stock Holdings, Inc.",Trading Companies & Distributors
+BXC,BlueLinx Holdings Inc.,Trading Companies & Distributors
+CAI,"CAI International, Inc.",Trading Companies & Distributors
+DNOW,NOW Inc.,Trading Companies & Distributors
+DXPE,"DXP Enterprises, Inc.",Trading Companies & Distributors
+EVI,"EVI Industries, Inc.",Trading Companies & Distributors
+FAST,Fastenal Company,Trading Companies & Distributors
+FBM,"Foundation Building Materials, Inc.",Trading Companies & Distributors
+GATX,GATX Corporation,Trading Companies & Distributors
+GFN,General Finance Corporation,Trading Companies & Distributors
+GMS,GMS Inc.,Trading Companies & Distributors
+GWW,"W.W. Grainger, Inc.",Trading Companies & Distributors
+HDS,"HD Supply Holdings, Inc.",Trading Companies & Distributors
+HEES,"H&E Equipment Services, Inc.",Trading Companies & Distributors
+HRI,"Herc Holdings, Inc.",Trading Companies & Distributors
+KAMN,Kaman Corporation Class A,Trading Companies & Distributors
+LAWS,"Lawson Products, Inc.",Trading Companies & Distributors
+MRC,MRC Global Inc.,Trading Companies & Distributors
+MSM,"MSC Industrial Direct Co., Inc. Class A",Trading Companies & Distributors
+RUSHA,"Rush Enterprises, Inc. Class A",Trading Companies & Distributors
+SITE,"SiteOne Landscape Supply, Inc.",Trading Companies & Distributors
+SYX,Systemax Inc.,Trading Companies & Distributors
+TGH,Textainer Group Holdings Limited,Trading Companies & Distributors
+TITN,Titan Machinery Inc.,Trading Companies & Distributors
+TRNS,"Transcat, Inc.",Trading Companies & Distributors
+TRTN,Triton International Ltd. Class A,Trading Companies & Distributors
+UNVR,"Univar Solutions, Inc.",Trading Companies & Distributors
+URI,"United Rentals, Inc.",Trading Companies & Distributors
+VRTV,Veritiv Corp,Trading Companies & Distributors
+WCC,"WESCO International, Inc.",Trading Companies & Distributors
+WLFC,Willis Lease Finance Corporation,Trading Companies & Distributors
+WSO,"Watsco, Inc.",Trading Companies & Distributors
+MIC,Macquarie Infrastructure Corporation,Transportation Infrastructure
+ARTNA,Artesian Resources Corporation Class A,Water Utilities
+AWK,"American Water Works Company, Inc.",Water Utilities
+AWR,American States Water Company,Water Utilities
+CDZI,Cadiz Inc.,Water Utilities
+CWCO,Consolidated Water Co. Ltd.,Water Utilities
+CWT,California Water Service Group,Water Utilities
+GWRS,"Global Water Resources, Inc.",Water Utilities
+MSEX,Middlesex Water Company,Water Utilities
+PCYO,Pure Cycle Corporation,Water Utilities
+SJW,SJW Group,Water Utilities
+WAAS,AquaVenture Holdings Limited,Water Utilities
+WTRG,"Essential Utilities, Inc.",Water Utilities
+YORW,York Water Company,Water Utilities
+GOGO,Gogo Inc.,Wireless Telecommunication Services
+S,Sprint Corp.,Wireless Telecommunication Services
+SHEN,Shenandoah Telecommunications Company,Wireless Telecommunication Services
+SPOK,"Spok Holdings, Inc.",Wireless Telecommunication Services
+TDS,"Telephone and Data Systems, Inc.",Wireless Telecommunication Services
+TMUS,"T-Mobile US, Inc.",Wireless Telecommunication Services
+USM,United States Cellular Corp,Wireless Telecommunication Services
+WIFI,"Boingo Wireless, Inc.",Wireless Telecommunication Services
