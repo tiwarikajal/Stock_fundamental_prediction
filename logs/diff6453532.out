@@ -1,0 +1,82 @@
+/cm/local/apps/slurm/var/spool/job6453532/slurm_script: line 10: modele: command not found
+object of type 'float' has no len()
+Ticker                                                       BMTC
+Company Name                           Bryn Mawr Bank Corporation
+Industry                                                    Banks
+Top 100                                                       NaN
+Year                                                           18
+item1a          >item 1a. risk factors investment in the corpo...
+item7           >item 7. management’s discussion and analysis ...
+Name: 101, dtype: object
+object of type 'float' has no len()
+Ticker                                                       NWPX
+Company Name                               Northwest Pipe Company
+Industry                               Construction & Engineering
+Top 100                                                       NaN
+Year                                                           18
+item1a          >item 1a. risk factors  you should carefully c...
+item7           >item 7. management’s discussion and analysis ...
+Name: 791, dtype: object
+object of type 'float' has no len()
+Ticker                                                       ACRX
+Company Name                         AcelRx Pharmaceuticals, Inc.
+Industry                                          Pharmaceuticals
+Top 100                                                       NaN
+Year                                                           18
+item1a          >item 1a. risk factors  this form 10-k contain...
+item7           >item 7. management’s discussion and analysis ...
+Name: 1431, dtype: object
+object of type 'float' has no len()
+Ticker                                                        THG
+Company Name                        Hanover Insurance Group, Inc.
+Industry                                                Insurance
+Top 100                                                       NaN
+Year                                                           17
+item1a          >item 1a–risk factors risk factors and forward...
+item7           >item 7–management’s discussion and analysis o...
+Name: 1135, dtype: object
+object of type 'float' has no len()
+Ticker                                                       BFST
+Company Name                      Business First Bancshares, Inc.
+Industry                                                    Banks
+Top 100                                                       NaN
+Year                                                           15
+item1a          >item 1a. risk factors. in evaluating our busi...
+item7           >item 7. managements discussion and analysis ...
+Name: 93, dtype: object
+object of type 'float' has no len()
+Ticker                                                       CBMG
+Company Name                     Cellular Biomedicine Group, Inc.
+Industry                                            Biotechnology
+Top 100                                                       NaN
+Year                                                           14
+item1a          >item 1a. risk factors  risks related to our c...
+item7           >item 7. management's discussion and analysis ...
+Name: 337, dtype: object
+object of type 'float' has no len()
+Ticker                                                        SEB
+Company Name                                 Seaboard Corporation
+Industry                                            Food Products
+Top 100                                                       NaN
+Year                                                           11
+item1a          >item 1a. risk factors  seaboard has identifie...
+item7           >item 7. managements discussion and analysis ...
+Name: 751, dtype: object
+object of type 'float' has no len()
+Ticker                                                        ETH
+Company Name                           Ethan Allen Interiors Inc.
+Industry                                       Household Durables
+Top 100                                                       NaN
+Year                                                           11
+item1a          >item 1a. risk factors  the following informat...
+item7           >item 7. management's discussion and analysis ...
+Name: 843, dtype: object
+object of type 'float' has no len()
+Ticker                                                        LXP
+Company Name                               Lexington Realty Trust
+Industry                    Real Estate Investment Trusts (REITs)
+Top 100                                                       NaN
+Year                                                           11
+item1a          >item 1a. risk factorsset forth below are mate...
+item7           >item 7. management's discussion and analysis ...
+Name: 1145, dtype: object

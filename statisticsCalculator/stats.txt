@@ -1,0 +1,8 @@
+Total Words in the Corpus:341413580
+Total Unique Words in the Corpus:1952609
+Average Number of Sentences Per Document:574.7669896513084
+Average Number of Sentences in Item1a:258.1897574479304
+Average Number of Sentences in Item7:258.1897574479304
+Average Sentence Length in Item1a:36.75202763159406
+Average Sentence Length in Item7:41.11297804180501
+Average Sentence Length Combining both the sections:39.1538764121613

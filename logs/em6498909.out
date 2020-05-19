@@ -1,0 +1,31 @@
+/cm/local/apps/slurm/var/spool/job6498909/slurm_script: line 10: modele: command not found
+cuda
+Traceback (most recent call last):
+  File "/mnt/nfs/scratch1/nagarwal/CS696_Stock_fundamental_prediction/cs696_scraping/unstructured/modelling/main.py", line 51, in <module>
+    main()
+  File "/mnt/nfs/scratch1/nagarwal/CS696_Stock_fundamental_prediction/cs696_scraping/unstructured/modelling/main.py", line 43, in main
+    output = unstructuredmodel.getEmbedding(text=row[section],if_pool=True, pooling_type="max")
+  File "/mnt/nfs/scratch1/nagarwal/CS696_Stock_fundamental_prediction/cs696_scraping/unstructured/modelling/model.py", line 99, in getEmbedding
+    output = self.model(token_ids)
+  File "/home/nagarwal/anaconda3/lib/python3.7/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/nagarwal/anaconda3/lib/python3.7/site-packages/transformers/modeling_roberta.py", line 232, in forward
+    inputs_embeds=inputs_embeds,
+  File "/home/nagarwal/anaconda3/lib/python3.7/site-packages/torch/nn/modules/module.py", line 532, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/nagarwal/anaconda3/lib/python3.7/site-packages/transformers/modeling_bert.py", line 707, in forward
+    attention_mask, input_shape, self.device
+  File "/home/nagarwal/anaconda3/lib/python3.7/site-packages/transformers/modeling_utils.py", line 165, in get_extended_attention_mask
+    input_shape, attention_mask.shape
+ValueError: Wrong shape for input_ids (shape torch.Size([0])) or attention_mask (shape torch.Size([0]))
+Traceback (most recent call last):
+  File "/home/nagarwal/anaconda3/lib/python3.7/runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/home/nagarwal/anaconda3/lib/python3.7/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/home/nagarwal/anaconda3/lib/python3.7/site-packages/torch/distributed/launch.py", line 263, in <module>
+    main()
+  File "/home/nagarwal/anaconda3/lib/python3.7/site-packages/torch/distributed/launch.py", line 259, in main
+    cmd=cmd)
+subprocess.CalledProcessError: Command '['/home/nagarwal/anaconda3/bin/python3', '-u', '/mnt/nfs/scratch1/nagarwal/CS696_Stock_fundamental_prediction/cs696_scraping/unstructured/modelling/main.py', '--local_rank=0']' returned non-zero exit status 1.
+srun: error: node060: task 0: Exited with exit code 1

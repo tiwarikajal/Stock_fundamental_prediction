@@ -1,0 +1,20 @@
+cuda
+Traceback (most recent call last):
+  File "/mnt/nfs/scratch1/nagarwal/CS696_Stock_fundamental_prediction/cs696_scraping/unstructured/modelling/main.py", line 51, in <module>
+    main()
+  File "/mnt/nfs/scratch1/nagarwal/CS696_Stock_fundamental_prediction/cs696_scraping/unstructured/modelling/main.py", line 43, in main
+    output = unstructuredmodel.getEmbedding(text=row[section],if_pool=True, pooling_type="max")
+  File "/mnt/nfs/scratch1/nagarwal/CS696_Stock_fundamental_prediction/cs696_scraping/unstructured/modelling/model.py", line 73, in getEmbedding
+    cls_head = last_hidden[:,0,:]
+TypeError: tuple indices must be integers or slices, not tuple
+Traceback (most recent call last):
+  File "/cm/shared/apps/python/3.7.4-1910/lib/python3.7/runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/cm/shared/apps/python/3.7.4-1910/lib/python3.7/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/cm/shared/apps/python/3.7.4-1910/lib/python3.7/site-packages/torch/distributed/launch.py", line 246, in <module>
+    main()
+  File "/cm/shared/apps/python/3.7.4-1910/lib/python3.7/site-packages/torch/distributed/launch.py", line 242, in main
+    cmd=cmd)
+subprocess.CalledProcessError: Command '['/cm/shared/apps/python/3.7.4-1910/bin/python3', '-u', '/mnt/nfs/scratch1/nagarwal/CS696_Stock_fundamental_prediction/cs696_scraping/unstructured/modelling/main.py', '--local_rank=0']' returned non-zero exit status 1.
+srun: error: node073: task 0: Exited with exit code 1
